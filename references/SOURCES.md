@@ -6,6 +6,8 @@
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)：作者大学主页，Exa 抓取核验；虚拟化、并发、持久化。
 - [RFC 9293: TCP](https://www.rfc-editor.org/rfc/rfc9293.html)：IETF 标准原文，Exa 抓取核验；TCP 规范，注意教材版本差异。
 
+- [MIT 6.004 Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)：Exa 抓取课程原页核验；数字系统结构、指令集、并发和流水线，补充计算机组成原理概念解释。
+
 ## 考试信息
 
 [中国教育考试网·硕士研究生招生考试](https://yankao.neea.edu.cn/) 和 [考试大纲目录](https://yankao.neea.edu.cn/xhtml1/category/1509/6235-1.htm)：Firecrawl 检索确认官方入口，但此次结果展示的若干大纲为 2022 年版，不应说已确认 2027 或其他目标年份范围。用户尚未指定年份，涉及范围/题型/分值时另行核验。英语一与英语二、数学一与数学二三不能混用。
