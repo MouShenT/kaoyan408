@@ -1,68 +1,68 @@
 [
   {
     "pdf_page": 1,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1032,
     "confidence": null
   },
   {
     "pdf_page": 2,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 905,
     "confidence": null
   },
   {
     "pdf_page": 3,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 985,
     "confidence": null
   },
   {
     "pdf_page": 4,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1490,
     "confidence": null
   },
   {
     "pdf_page": 5,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1320,
     "confidence": null
   },
   {
     "pdf_page": 6,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1335,
     "confidence": null
   },
   {
     "pdf_page": 7,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1531,
     "confidence": null
   },
   {
     "pdf_page": 8,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 960,
     "confidence": null
   },
   {
     "pdf_page": 9,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1649,
     "confidence": null
   },
   {
     "pdf_page": 10,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1725,
     "confidence": null
   },
   {
     "pdf_page": 11,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1167,
     "confidence": null
   }
 ]

@@ -4,10 +4,10 @@
 
 | 资料 | 页数 / 题数 | 提取状态 |
 |---|---:|---|
-| [27王道《操作系统》高清带书签](../knowledge/de47c86d8c38/README.md) | 372 | {'needs-visual-check': 372} |
-| [27王道《数据结构》高清带书签](../knowledge/89d7de2a174b/README.md) | 404 | {'needs-visual-check': 403, 'text-layer': 1} |
-| [27王道《计算机组成原理》高清带书签](../knowledge/60d6d232ac27/README.md) | 340 | {'needs-visual-check': 340} |
-| [27王道《计算机网络》高清带书签](../knowledge/7d8674ee199b/README.md) | 316 | {'needs-visual-check': 315, 'text-layer': 1} |
+| [27王道《操作系统》高清带书签](../knowledge/de47c86d8c38/README.md) | 372 | {'ocr-unverified': 372} |
+| [27王道《数据结构》高清带书签](../knowledge/89d7de2a174b/README.md) | 404 | {'ocr-unverified': 403, 'text-layer': 1} |
+| [27王道《计算机组成原理》高清带书签](../knowledge/60d6d232ac27/README.md) | 340 | {'ocr-unverified': 340} |
+| [27王道《计算机网络》高清带书签](../knowledge/7d8674ee199b/README.md) | 316 | {'ocr-unverified': 315, 'text-layer': 1} |
 | [2009](../knowledge/c87db9d9661a/README.md) | 10 | {'text-layer': 10} |
 | [2010](../knowledge/cba192155b1a/README.md) | 11 | {'text-layer': 11} |
 | [2011](../knowledge/f985e99f5ce3/README.md) | 10 | {'text-layer': 10} |
@@ -35,10 +35,10 @@
 | [2016-答案](../knowledge/4619fda4c066/README.md) | 12 | {'text-layer': 12} |
 | [2017-答案](../knowledge/4820720df4a0/README.md) | 10 | {'text-layer': 10} |
 | [2018-答案](../knowledge/f4d36919df84/README.md) | 9 | {'text-layer': 9} |
-| [2019-答案](../knowledge/44bfdb13f316/README.md) | 12 | {'needs-visual-check': 12} |
+| [2019-答案](../knowledge/44bfdb13f316/README.md) | 12 | {'ocr-unverified': 12} |
 | [2020-答案](../knowledge/b8366b4cbb25/README.md) | 13 | {'text-layer': 13} |
-| [2021-答案](../knowledge/64cc25b14f6e/README.md) | 11 | {'needs-visual-check': 11} |
+| [2021-答案](../knowledge/64cc25b14f6e/README.md) | 11 | {'ocr-unverified': 11} |
 | [2022-答案](../knowledge/ed1cc8c7916b/README.md) | 10 | {'text-layer': 10} |
 | [2023-答案](../knowledge/4347b2342acb/README.md) | 14 | {'text-layer': 14} |
-| [2024-答案](../knowledge/1f603de949ad/README.md) | 6 | {'needs-visual-check': 6} |
-| [2025-答案](../knowledge/b262f8fafab6/README.md) | 5 | {'needs-visual-check': 5} |
+| [2024-答案](../knowledge/1f603de949ad/README.md) | 6 | {'ocr-unverified': 6} |
+| [2025-答案](../knowledge/b262f8fafab6/README.md) | 5 | {'ocr-unverified': 5} |

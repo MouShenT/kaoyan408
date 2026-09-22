@@ -19,6 +19,11 @@ def digest(path):
         return hashlib.file_digest(stream, 'sha256').hexdigest()
 
 
+def normalize_text(text):
+    # Windows OCR inserts spaces between every Chinese character; keep English spaces.
+    return re.sub(r'(?<=[\u3400-\u9fff])[ \t]+(?=[\u3400-\u9fff])', '', text)
+
+
 def build(root):
     import pymupdf
     root = Path(root)
@@ -46,7 +51,7 @@ def build(root):
                     if method == 'needs-visual-check' and cache.exists():
                         cached = json.loads(cache.read_text(encoding='utf-8'))
                         if cached.get('source_sha256') == item['sha256']:
-                            content = cached['text']
+                            content = normalize_text(cached['text'])
                             method = 'ocr-unverified' if content else 'blank-or-unreadable'
                             confidence = cached['mean_confidence']
                     pages.append(dict(pdf_page=number, method=method, chars=len(content), confidence=confidence))

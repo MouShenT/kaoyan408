@@ -27,3 +27,7 @@ OCR 仅在本地执行；.cache 保存按文件哈希绑定的逐页缓存，可
 原文件名、目录结构在 materials 内保留。SHA-256 用于一致性检查，不证明版本权威或答案正确。原件内容权利归原权利人，代码和索引不改变原件权利。
 
 学习记录默认写入被忽略的 private/。不要在公开 Issues、提交信息或知识库中放真实照片、聊天和个人信息。所有样例必须标为虚构。
+
+## Windows 快速识别
+
+如果系统已安装简体中文 OCR，可执行 `python scripts/ocr_windows.py`，然后 `python scripts/library.py build`。该方案不需 RapidOCR，完全本地运行，缓存仍按原件哈希校验。需 Windows PowerShell 5 和中文 OCR 语言包；其他系统使用上面的 RapidOCR 路线。Windows OCR 不提供置信度，相关字段为 null。

@@ -1,2234 +1,2234 @@
 [
   {
     "pdf_page": 1,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 84,
+    "confidence": 0.9529493668249676
   },
   {
     "pdf_page": 2,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 731,
+    "confidence": 0.9944430317761669
   },
   {
     "pdf_page": 3,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 377,
+    "confidence": 0.9524735566064698
   },
   {
     "pdf_page": 4,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1004,
+    "confidence": 0.9811240066597438
   },
   {
     "pdf_page": 5,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1147,
+    "confidence": 0.994873907486631
   },
   {
     "pdf_page": 6,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1083,
+    "confidence": 0.9906243526910649
   },
   {
     "pdf_page": 7,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1036,
+    "confidence": 0.9948899130144673
   },
   {
     "pdf_page": 8,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 506,
+    "confidence": 0.9769905163255375
   },
   {
     "pdf_page": 9,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 609,
+    "confidence": 0.9886224071306409
   },
   {
     "pdf_page": 10,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 635,
+    "confidence": 0.9922525248794964
   },
   {
     "pdf_page": 11,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 682,
+    "confidence": 0.9734024654111235
   },
   {
     "pdf_page": 12,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 181,
+    "confidence": 0.9692989698882565
   },
   {
     "pdf_page": 13,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 753,
+    "confidence": 0.9973652471122091
   },
   {
     "pdf_page": 14,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1179,
+    "confidence": 0.9897501131591628
   },
   {
     "pdf_page": 15,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1395,
+    "confidence": 0.9949679488507428
   },
   {
     "pdf_page": 16,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1492,
+    "confidence": 0.9952983437326439
   },
   {
     "pdf_page": 17,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 937,
+    "confidence": 0.9865652881803164
   },
   {
     "pdf_page": 18,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1118,
+    "confidence": 0.9971344133784751
   },
   {
     "pdf_page": 19,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1142,
+    "confidence": 0.9917912525647847
   },
   {
     "pdf_page": 20,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1202,
+    "confidence": 0.9968748062705928
   },
   {
     "pdf_page": 21,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1170,
+    "confidence": 0.9976048412655126
   },
   {
     "pdf_page": 22,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 945,
+    "confidence": 0.9798071018797473
   },
   {
     "pdf_page": 23,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1194,
+    "confidence": 0.9684071124521034
   },
   {
     "pdf_page": 24,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1163,
+    "confidence": 0.9976215674560562
   },
   {
     "pdf_page": 25,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1256,
+    "confidence": 0.9955175154878547
   },
   {
     "pdf_page": 26,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 998,
+    "confidence": 0.9843298698952301
   },
   {
     "pdf_page": 27,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1135,
+    "confidence": 0.9967934418004961
   },
   {
     "pdf_page": 28,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1369,
+    "confidence": 0.9954480399805825
   },
   {
     "pdf_page": 29,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1253,
+    "confidence": 0.9869469550387127
   },
   {
     "pdf_page": 30,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1388,
+    "confidence": 0.9984168869792533
   },
   {
     "pdf_page": 31,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 971,
+    "confidence": 0.9603248734453108
   },
   {
     "pdf_page": 32,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1084,
+    "confidence": 0.9477544219235001
   },
   {
     "pdf_page": 33,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1187,
+    "confidence": 0.9570827775791249
   },
   {
     "pdf_page": 34,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1259,
+    "confidence": 0.9766219640132713
   },
   {
     "pdf_page": 35,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1350,
+    "confidence": 0.9985461875151405
   },
   {
     "pdf_page": 36,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1393,
+    "confidence": 0.9977159007112107
   },
   {
     "pdf_page": 37,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1359,
+    "confidence": 0.9971432103814553
   },
   {
     "pdf_page": 38,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1069,
+    "confidence": 0.995789582850382
   },
   {
     "pdf_page": 39,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1273,
+    "confidence": 0.9989444989413332
   },
   {
     "pdf_page": 40,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1346,
+    "confidence": 0.9859270816991387
   },
   {
     "pdf_page": 41,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1267,
+    "confidence": 0.997242987181305
   },
   {
     "pdf_page": 42,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1159,
+    "confidence": 0.986060348991475
   },
   {
     "pdf_page": 43,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1091,
+    "confidence": 0.9674154483453398
   },
   {
     "pdf_page": 44,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1256,
+    "confidence": 0.9765084464765019
   },
   {
     "pdf_page": 45,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1236,
+    "confidence": 0.9883668084490015
   },
   {
     "pdf_page": 46,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1291,
+    "confidence": 0.9961013054223007
   },
   {
     "pdf_page": 47,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1285,
+    "confidence": 0.9983110374613287
   },
   {
     "pdf_page": 48,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 774,
+    "confidence": 0.9969440244247806
   },
   {
     "pdf_page": 49,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 582,
+    "confidence": 0.9882732529193087
   },
   {
     "pdf_page": 50,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1350,
+    "confidence": 0.9968179600048561
   },
   {
     "pdf_page": 51,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1405,
+    "confidence": 0.9916351209503694
   },
   {
     "pdf_page": 52,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1240,
+    "confidence": 0.9913351553701631
   },
   {
     "pdf_page": 53,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1153,
+    "confidence": 0.9875789972642434
   },
   {
     "pdf_page": 54,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1238,
+    "confidence": 0.9847689962489334
   },
   {
     "pdf_page": 55,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1367,
+    "confidence": 0.9968410844263922
   },
   {
     "pdf_page": 56,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1280,
+    "confidence": 0.9961620982631658
   },
   {
     "pdf_page": 57,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1292,
+    "confidence": 0.9948304335844378
   },
   {
     "pdf_page": 58,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1374,
+    "confidence": 0.9953111464987281
   },
   {
     "pdf_page": 59,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1369,
+    "confidence": 0.9962994711025259
   },
   {
     "pdf_page": 60,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1163,
+    "confidence": 0.9958631568739303
   },
   {
     "pdf_page": 61,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1253,
+    "confidence": 0.9986931204212786
   },
   {
     "pdf_page": 62,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1582,
+    "confidence": 0.9984161974252126
   },
   {
     "pdf_page": 63,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1196,
     "confidence": null
   },
   {
     "pdf_page": 64,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 998,
+    "confidence": 0.9817606102797305
   },
   {
     "pdf_page": 65,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1059,
+    "confidence": 0.9794461592881365
   },
   {
     "pdf_page": 66,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1129,
     "confidence": null
   },
   {
     "pdf_page": 67,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1169,
     "confidence": null
   },
   {
     "pdf_page": 68,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1243,
     "confidence": null
   },
   {
     "pdf_page": 69,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1399,
     "confidence": null
   },
   {
     "pdf_page": 70,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1082,
     "confidence": null
   },
   {
     "pdf_page": 71,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1512,
     "confidence": null
   },
   {
     "pdf_page": 72,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1511,
     "confidence": null
   },
   {
     "pdf_page": 73,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1586,
     "confidence": null
   },
   {
     "pdf_page": 74,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1378,
     "confidence": null
   },
   {
     "pdf_page": 75,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1725,
     "confidence": null
   },
   {
     "pdf_page": 76,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1634,
     "confidence": null
   },
   {
     "pdf_page": 77,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1792,
     "confidence": null
   },
   {
     "pdf_page": 78,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1398,
     "confidence": null
   },
   {
     "pdf_page": 79,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1104,
     "confidence": null
   },
   {
     "pdf_page": 80,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1320,
     "confidence": null
   },
   {
     "pdf_page": 81,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1542,
     "confidence": null
   },
   {
     "pdf_page": 82,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1356,
     "confidence": null
   },
   {
     "pdf_page": 83,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1449,
     "confidence": null
   },
   {
     "pdf_page": 84,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1550,
     "confidence": null
   },
   {
     "pdf_page": 85,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1471,
     "confidence": null
   },
   {
     "pdf_page": 86,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1691,
     "confidence": null
   },
   {
     "pdf_page": 87,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1371,
     "confidence": null
   },
   {
     "pdf_page": 88,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1532,
     "confidence": null
   },
   {
     "pdf_page": 89,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1627,
     "confidence": null
   },
   {
     "pdf_page": 90,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1500,
     "confidence": null
   },
   {
     "pdf_page": 91,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1420,
     "confidence": null
   },
   {
     "pdf_page": 92,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1170,
     "confidence": null
   },
   {
     "pdf_page": 93,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1473,
     "confidence": null
   },
   {
     "pdf_page": 94,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1182,
     "confidence": null
   },
   {
     "pdf_page": 95,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1506,
     "confidence": null
   },
   {
     "pdf_page": 96,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1448,
     "confidence": null
   },
   {
     "pdf_page": 97,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 776,
     "confidence": null
   },
   {
     "pdf_page": 98,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1277,
     "confidence": null
   },
   {
     "pdf_page": 99,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1459,
     "confidence": null
   },
   {
     "pdf_page": 100,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1734,
     "confidence": null
   },
   {
     "pdf_page": 101,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1470,
     "confidence": null
   },
   {
     "pdf_page": 102,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1208,
     "confidence": null
   },
   {
     "pdf_page": 103,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1366,
     "confidence": null
   },
   {
     "pdf_page": 104,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1512,
     "confidence": null
   },
   {
     "pdf_page": 105,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1783,
     "confidence": null
   },
   {
     "pdf_page": 106,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1183,
     "confidence": null
   },
   {
     "pdf_page": 107,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 964,
     "confidence": null
   },
   {
     "pdf_page": 108,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1493,
     "confidence": null
   },
   {
     "pdf_page": 109,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1735,
     "confidence": null
   },
   {
     "pdf_page": 110,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1367,
     "confidence": null
   },
   {
     "pdf_page": 111,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1212,
     "confidence": null
   },
   {
     "pdf_page": 112,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1629,
     "confidence": null
   },
   {
     "pdf_page": 113,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1976,
     "confidence": null
   },
   {
     "pdf_page": 114,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1644,
     "confidence": null
   },
   {
     "pdf_page": 115,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1404,
     "confidence": null
   },
   {
     "pdf_page": 116,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1375,
     "confidence": null
   },
   {
     "pdf_page": 117,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1387,
     "confidence": null
   },
   {
     "pdf_page": 118,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1508,
     "confidence": null
   },
   {
     "pdf_page": 119,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1312,
     "confidence": null
   },
   {
     "pdf_page": 120,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1568,
     "confidence": null
   },
   {
     "pdf_page": 121,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1027,
     "confidence": null
   },
   {
     "pdf_page": 122,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1463,
     "confidence": null
   },
   {
     "pdf_page": 123,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1271,
     "confidence": null
   },
   {
     "pdf_page": 124,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1450,
     "confidence": null
   },
   {
     "pdf_page": 125,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1397,
     "confidence": null
   },
   {
     "pdf_page": 126,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1319,
     "confidence": null
   },
   {
     "pdf_page": 127,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1031,
     "confidence": null
   },
   {
     "pdf_page": 128,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1143,
     "confidence": null
   },
   {
     "pdf_page": 129,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1210,
     "confidence": null
   },
   {
     "pdf_page": 130,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1179,
     "confidence": null
   },
   {
     "pdf_page": 131,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1174,
     "confidence": null
   },
   {
     "pdf_page": 132,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1153,
     "confidence": null
   },
   {
     "pdf_page": 133,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1214,
     "confidence": null
   },
   {
     "pdf_page": 134,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1611,
     "confidence": null
   },
   {
     "pdf_page": 135,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1181,
     "confidence": null
   },
   {
     "pdf_page": 136,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1099,
     "confidence": null
   },
   {
     "pdf_page": 137,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1139,
     "confidence": null
   },
   {
     "pdf_page": 138,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1560,
     "confidence": null
   },
   {
     "pdf_page": 139,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1402,
     "confidence": null
   },
   {
     "pdf_page": 140,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1281,
     "confidence": null
   },
   {
     "pdf_page": 141,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1501,
     "confidence": null
   },
   {
     "pdf_page": 142,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1453,
     "confidence": null
   },
   {
     "pdf_page": 143,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1879,
     "confidence": null
   },
   {
     "pdf_page": 144,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1474,
     "confidence": null
   },
   {
     "pdf_page": 145,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1123,
     "confidence": null
   },
   {
     "pdf_page": 146,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1165,
     "confidence": null
   },
   {
     "pdf_page": 147,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 780,
     "confidence": null
   },
   {
     "pdf_page": 148,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1134,
     "confidence": null
   },
   {
     "pdf_page": 149,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1265,
     "confidence": null
   },
   {
     "pdf_page": 150,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1377,
     "confidence": null
   },
   {
     "pdf_page": 151,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 893,
     "confidence": null
   },
   {
     "pdf_page": 152,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1052,
     "confidence": null
   },
   {
     "pdf_page": 153,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1300,
     "confidence": null
   },
   {
     "pdf_page": 154,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1032,
     "confidence": null
   },
   {
     "pdf_page": 155,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 975,
     "confidence": null
   },
   {
     "pdf_page": 156,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1442,
     "confidence": null
   },
   {
     "pdf_page": 157,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1661,
     "confidence": null
   },
   {
     "pdf_page": 158,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1518,
     "confidence": null
   },
   {
     "pdf_page": 159,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1150,
     "confidence": null
   },
   {
     "pdf_page": 160,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1786,
     "confidence": null
   },
   {
     "pdf_page": 161,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1274,
     "confidence": null
   },
   {
     "pdf_page": 162,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1652,
     "confidence": null
   },
   {
     "pdf_page": 163,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1452,
     "confidence": null
   },
   {
     "pdf_page": 164,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1606,
     "confidence": null
   },
   {
     "pdf_page": 165,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1635,
     "confidence": null
   },
   {
     "pdf_page": 166,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1739,
     "confidence": null
   },
   {
     "pdf_page": 167,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1034,
     "confidence": null
   },
   {
     "pdf_page": 168,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1328,
     "confidence": null
   },
   {
     "pdf_page": 169,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1136,
     "confidence": null
   },
   {
     "pdf_page": 170,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1409,
     "confidence": null
   },
   {
     "pdf_page": 171,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1307,
     "confidence": null
   },
   {
     "pdf_page": 172,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1220,
     "confidence": null
   },
   {
     "pdf_page": 173,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 968,
     "confidence": null
   },
   {
     "pdf_page": 174,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1180,
     "confidence": null
   },
   {
     "pdf_page": 175,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1423,
     "confidence": null
   },
   {
     "pdf_page": 176,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 884,
     "confidence": null
   },
   {
     "pdf_page": 177,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1336,
     "confidence": null
   },
   {
     "pdf_page": 178,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1540,
     "confidence": null
   },
   {
     "pdf_page": 179,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1378,
     "confidence": null
   },
   {
     "pdf_page": 180,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1688,
     "confidence": null
   },
   {
     "pdf_page": 181,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1702,
     "confidence": null
   },
   {
     "pdf_page": 182,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1364,
     "confidence": null
   },
   {
     "pdf_page": 183,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1599,
     "confidence": null
   },
   {
     "pdf_page": 184,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1376,
     "confidence": null
   },
   {
     "pdf_page": 185,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 998,
     "confidence": null
   },
   {
     "pdf_page": 186,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 936,
     "confidence": null
   },
   {
     "pdf_page": 187,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1038,
     "confidence": null
   },
   {
     "pdf_page": 188,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 948,
     "confidence": null
   },
   {
     "pdf_page": 189,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1236,
     "confidence": null
   },
   {
     "pdf_page": 190,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1572,
     "confidence": null
   },
   {
     "pdf_page": 191,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1218,
     "confidence": null
   },
   {
     "pdf_page": 192,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1690,
     "confidence": null
   },
   {
     "pdf_page": 193,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1452,
     "confidence": null
   },
   {
     "pdf_page": 194,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1754,
     "confidence": null
   },
   {
     "pdf_page": 195,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1739,
     "confidence": null
   },
   {
     "pdf_page": 196,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 839,
     "confidence": null
   },
   {
     "pdf_page": 197,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1689,
     "confidence": null
   },
   {
     "pdf_page": 198,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1296,
     "confidence": null
   },
   {
     "pdf_page": 199,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1187,
     "confidence": null
   },
   {
     "pdf_page": 200,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1213,
     "confidence": null
   },
   {
     "pdf_page": 201,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1274,
     "confidence": null
   },
   {
     "pdf_page": 202,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 868,
     "confidence": null
   },
   {
     "pdf_page": 203,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1047,
     "confidence": null
   },
   {
     "pdf_page": 204,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1342,
     "confidence": null
   },
   {
     "pdf_page": 205,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1209,
     "confidence": null
   },
   {
     "pdf_page": 206,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1210,
     "confidence": null
   },
   {
     "pdf_page": 207,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1163,
     "confidence": null
   },
   {
     "pdf_page": 208,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1595,
     "confidence": null
   },
   {
     "pdf_page": 209,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1262,
     "confidence": null
   },
   {
     "pdf_page": 210,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1126,
     "confidence": null
   },
   {
     "pdf_page": 211,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1127,
     "confidence": null
   },
   {
     "pdf_page": 212,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1030,
     "confidence": null
   },
   {
     "pdf_page": 213,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1378,
     "confidence": null
   },
   {
     "pdf_page": 214,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1388,
     "confidence": null
   },
   {
     "pdf_page": 215,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1349,
     "confidence": null
   },
   {
     "pdf_page": 216,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1386,
     "confidence": null
   },
   {
     "pdf_page": 217,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1628,
     "confidence": null
   },
   {
     "pdf_page": 218,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1416,
     "confidence": null
   },
   {
     "pdf_page": 219,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1511,
     "confidence": null
   },
   {
     "pdf_page": 220,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 971,
     "confidence": null
   },
   {
     "pdf_page": 221,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1696,
     "confidence": null
   },
   {
     "pdf_page": 222,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1760,
     "confidence": null
   },
   {
     "pdf_page": 223,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1449,
     "confidence": null
   },
   {
     "pdf_page": 224,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1372,
     "confidence": null
   },
   {
     "pdf_page": 225,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1517,
     "confidence": null
   },
   {
     "pdf_page": 226,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1170,
     "confidence": null
   },
   {
     "pdf_page": 227,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1484,
     "confidence": null
   },
   {
     "pdf_page": 228,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1577,
     "confidence": null
   },
   {
     "pdf_page": 229,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1588,
     "confidence": null
   },
   {
     "pdf_page": 230,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1094,
     "confidence": null
   },
   {
     "pdf_page": 231,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1769,
     "confidence": null
   },
   {
     "pdf_page": 232,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1572,
     "confidence": null
   },
   {
     "pdf_page": 233,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1555,
     "confidence": null
   },
   {
     "pdf_page": 234,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1678,
     "confidence": null
   },
   {
     "pdf_page": 235,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1674,
     "confidence": null
   },
   {
     "pdf_page": 236,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1113,
     "confidence": null
   },
   {
     "pdf_page": 237,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1703,
     "confidence": null
   },
   {
     "pdf_page": 238,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1187,
     "confidence": null
   },
   {
     "pdf_page": 239,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1368,
     "confidence": null
   },
   {
     "pdf_page": 240,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1376,
     "confidence": null
   },
   {
     "pdf_page": 241,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1437,
     "confidence": null
   },
   {
     "pdf_page": 242,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1551,
     "confidence": null
   },
   {
     "pdf_page": 243,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1297,
     "confidence": null
   },
   {
     "pdf_page": 244,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1296,
     "confidence": null
   },
   {
     "pdf_page": 245,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1561,
     "confidence": null
   },
   {
     "pdf_page": 246,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1620,
     "confidence": null
   },
   {
     "pdf_page": 247,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1443,
     "confidence": null
   },
   {
     "pdf_page": 248,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1252,
     "confidence": null
   },
   {
     "pdf_page": 249,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1292,
     "confidence": null
   },
   {
     "pdf_page": 250,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1471,
     "confidence": null
   },
   {
     "pdf_page": 251,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1490,
     "confidence": null
   },
   {
     "pdf_page": 252,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1771,
     "confidence": null
   },
   {
     "pdf_page": 253,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1583,
     "confidence": null
   },
   {
     "pdf_page": 254,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1673,
     "confidence": null
   },
   {
     "pdf_page": 255,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1873,
     "confidence": null
   },
   {
     "pdf_page": 256,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 503,
     "confidence": null
   },
   {
     "pdf_page": 257,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1404,
     "confidence": null
   },
   {
     "pdf_page": 258,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 912,
     "confidence": null
   },
   {
     "pdf_page": 259,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1700,
     "confidence": null
   },
   {
     "pdf_page": 260,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1792,
     "confidence": null
   },
   {
     "pdf_page": 261,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1660,
     "confidence": null
   },
   {
     "pdf_page": 262,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1534,
     "confidence": null
   },
   {
     "pdf_page": 263,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 913,
     "confidence": null
   },
   {
     "pdf_page": 264,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1696,
     "confidence": null
   },
   {
     "pdf_page": 265,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1350,
     "confidence": null
   },
   {
     "pdf_page": 266,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1306,
     "confidence": null
   },
   {
     "pdf_page": 267,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1268,
     "confidence": null
   },
   {
     "pdf_page": 268,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1170,
     "confidence": null
   },
   {
     "pdf_page": 269,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1254,
     "confidence": null
   },
   {
     "pdf_page": 270,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1334,
     "confidence": null
   },
   {
     "pdf_page": 271,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1133,
     "confidence": null
   },
   {
     "pdf_page": 272,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1622,
     "confidence": null
   },
   {
     "pdf_page": 273,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1598,
     "confidence": null
   },
   {
     "pdf_page": 274,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 832,
     "confidence": null
   },
   {
     "pdf_page": 275,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1660,
     "confidence": null
   },
   {
     "pdf_page": 276,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 857,
     "confidence": null
   },
   {
     "pdf_page": 277,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1370,
     "confidence": null
   },
   {
     "pdf_page": 278,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1669,
     "confidence": null
   },
   {
     "pdf_page": 279,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1479,
     "confidence": null
   },
   {
     "pdf_page": 280,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1410,
     "confidence": null
   },
   {
     "pdf_page": 281,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1176,
     "confidence": null
   },
   {
     "pdf_page": 282,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1363,
     "confidence": null
   },
   {
     "pdf_page": 283,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1446,
     "confidence": null
   },
   {
     "pdf_page": 284,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1440,
     "confidence": null
   },
   {
     "pdf_page": 285,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1632,
     "confidence": null
   },
   {
     "pdf_page": 286,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1365,
     "confidence": null
   },
   {
     "pdf_page": 287,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1429,
     "confidence": null
   },
   {
     "pdf_page": 288,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1416,
     "confidence": null
   },
   {
     "pdf_page": 289,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1426,
     "confidence": null
   },
   {
     "pdf_page": 290,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 740,
     "confidence": null
   },
   {
     "pdf_page": 291,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 978,
     "confidence": null
   },
   {
     "pdf_page": 292,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1063,
     "confidence": null
   },
   {
     "pdf_page": 293,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1560,
     "confidence": null
   },
   {
     "pdf_page": 294,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1455,
     "confidence": null
   },
   {
     "pdf_page": 295,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1326,
     "confidence": null
   },
   {
     "pdf_page": 296,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1655,
     "confidence": null
   },
   {
     "pdf_page": 297,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1551,
     "confidence": null
   },
   {
     "pdf_page": 298,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1700,
     "confidence": null
   },
   {
     "pdf_page": 299,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1495,
     "confidence": null
   },
   {
     "pdf_page": 300,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1702,
     "confidence": null
   },
   {
     "pdf_page": 301,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1863,
     "confidence": null
   },
   {
     "pdf_page": 302,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1816,
     "confidence": null
   },
   {
     "pdf_page": 303,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1765,
     "confidence": null
   },
   {
     "pdf_page": 304,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1663,
     "confidence": null
   },
   {
     "pdf_page": 305,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1861,
     "confidence": null
   },
   {
     "pdf_page": 306,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1178,
     "confidence": null
   },
   {
     "pdf_page": 307,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1266,
     "confidence": null
   },
   {
     "pdf_page": 308,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1127,
     "confidence": null
   },
   {
     "pdf_page": 309,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1394,
     "confidence": null
   },
   {
     "pdf_page": 310,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1387,
     "confidence": null
   },
   {
     "pdf_page": 311,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1584,
     "confidence": null
   },
   {
     "pdf_page": 312,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1319,
     "confidence": null
   },
   {
     "pdf_page": 313,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1506,
     "confidence": null
   },
   {
     "pdf_page": 314,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1186,
     "confidence": null
   },
   {
     "pdf_page": 315,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1686,
     "confidence": null
   },
   {
     "pdf_page": 316,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1369,
     "confidence": null
   },
   {
     "pdf_page": 317,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1011,
     "confidence": null
   },
   {
     "pdf_page": 318,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1301,
     "confidence": null
   },
   {
     "pdf_page": 319,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1700,
     "confidence": null
   },
   {
     "pdf_page": 320,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1385,
     "confidence": null
   },
   {
     "pdf_page": 321,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1467,
     "confidence": null
   },
   {
     "pdf_page": 322,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1764,
     "confidence": null
   },
   {
     "pdf_page": 323,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1732,
     "confidence": null
   },
   {
     "pdf_page": 324,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1706,
     "confidence": null
   },
   {
     "pdf_page": 325,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1849,
     "confidence": null
   },
   {
     "pdf_page": 326,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1452,
     "confidence": null
   },
   {
     "pdf_page": 327,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1308,
     "confidence": null
   },
   {
     "pdf_page": 328,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1540,
     "confidence": null
   },
   {
     "pdf_page": 329,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1318,
     "confidence": null
   },
   {
     "pdf_page": 330,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1390,
     "confidence": null
   },
   {
     "pdf_page": 331,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1570,
     "confidence": null
   },
   {
     "pdf_page": 332,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1555,
     "confidence": null
   },
   {
     "pdf_page": 333,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1419,
     "confidence": null
   },
   {
     "pdf_page": 334,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1343,
     "confidence": null
   },
   {
     "pdf_page": 335,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1623,
     "confidence": null
   },
   {
     "pdf_page": 336,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1341,
     "confidence": null
   },
   {
     "pdf_page": 337,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1595,
     "confidence": null
   },
   {
     "pdf_page": 338,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1462,
     "confidence": null
   },
   {
     "pdf_page": 339,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1804,
     "confidence": null
   },
   {
     "pdf_page": 340,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1666,
     "confidence": null
   },
   {
     "pdf_page": 341,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1164,
     "confidence": null
   },
   {
     "pdf_page": 342,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1479,
     "confidence": null
   },
   {
     "pdf_page": 343,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1280,
     "confidence": null
   },
   {
     "pdf_page": 344,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1578,
     "confidence": null
   },
   {
     "pdf_page": 345,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1257,
     "confidence": null
   },
   {
     "pdf_page": 346,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1373,
     "confidence": null
   },
   {
     "pdf_page": 347,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1395,
     "confidence": null
   },
   {
     "pdf_page": 348,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1396,
     "confidence": null
   },
   {
     "pdf_page": 349,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1506,
     "confidence": null
   },
   {
     "pdf_page": 350,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1731,
     "confidence": null
   },
   {
     "pdf_page": 351,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1639,
     "confidence": null
   },
   {
     "pdf_page": 352,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1149,
     "confidence": null
   },
   {
     "pdf_page": 353,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1233,
     "confidence": null
   },
   {
     "pdf_page": 354,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1497,
     "confidence": null
   },
   {
     "pdf_page": 355,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1370,
     "confidence": null
   },
   {
     "pdf_page": 356,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1547,
     "confidence": null
   },
   {
     "pdf_page": 357,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1478,
     "confidence": null
   },
   {
     "pdf_page": 358,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1527,
     "confidence": null
   },
   {
     "pdf_page": 359,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1403,
     "confidence": null
   },
   {
     "pdf_page": 360,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1159,
     "confidence": null
   },
   {
     "pdf_page": 361,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1852,
     "confidence": null
   },
   {
     "pdf_page": 362,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1599,
     "confidence": null
   },
   {
     "pdf_page": 363,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1764,
     "confidence": null
   },
   {
     "pdf_page": 364,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1343,
     "confidence": null
   },
   {
     "pdf_page": 365,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1263,
     "confidence": null
   },
   {
     "pdf_page": 366,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1967,
     "confidence": null
   },
   {
     "pdf_page": 367,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1543,
     "confidence": null
   },
   {
     "pdf_page": 368,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1481,
     "confidence": null
   },
   {
     "pdf_page": 369,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1797,
     "confidence": null
   },
   {
     "pdf_page": 370,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1673,
     "confidence": null
   },
   {
     "pdf_page": 371,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1179,
     "confidence": null
   },
   {
     "pdf_page": 372,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 727,
     "confidence": null
   }
 ]

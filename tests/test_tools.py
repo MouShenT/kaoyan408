@@ -56,6 +56,9 @@ class LibraryTests(unittest.TestCase):
   with self.assertRaises(ValueError):library.lookup(self.root,'missing')
   with self.assertRaises(ValueError):library.search(self.root,'   ',3)
 
+ def test_chinese_ocr_spaces_normalized_without_breaking_english(self):
+  self.assertEqual(library.normalize_text('死 锁 检 测 English words\n新 一 行'),'死锁检测 English words\n新一行')
+
 
 class TutorTests(unittest.TestCase):
  def test_no_history_does_not_invent_weakness(self):

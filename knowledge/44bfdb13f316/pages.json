@@ -1,74 +1,74 @@
 [
   {
     "pdf_page": 1,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1045,
     "confidence": null
   },
   {
     "pdf_page": 2,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 798,
     "confidence": null
   },
   {
     "pdf_page": 3,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1132,
     "confidence": null
   },
   {
     "pdf_page": 4,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1645,
     "confidence": null
   },
   {
     "pdf_page": 5,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1490,
     "confidence": null
   },
   {
     "pdf_page": 6,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1293,
     "confidence": null
   },
   {
     "pdf_page": 7,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1498,
     "confidence": null
   },
   {
     "pdf_page": 8,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1806,
     "confidence": null
   },
   {
     "pdf_page": 9,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1261,
     "confidence": null
   },
   {
     "pdf_page": 10,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1149,
     "confidence": null
   },
   {
     "pdf_page": 11,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1761,
     "confidence": null
   },
   {
     "pdf_page": 12,
-    "method": "needs-visual-check",
-    "chars": 0,
+    "method": "ocr-unverified",
+    "chars": 1350,
     "confidence": null
   }
 ]
