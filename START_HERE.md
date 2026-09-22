@@ -12,6 +12,8 @@
 
 如果 GitHub 在当前聊天不可用，可直接把 CHAT_INSTRUCTIONS.md 的内容与题目照片放进聊天；这时助手只能依据实际提供的内容，不能声称已检索整个仓库。需要原书依据时附对应原页。
 
-想保留跨聊天的错题线索时，说“生成错题交接卡”，复制到下一次聊天。普通 GitHub 连接不自动把聊天写回仓库。本地 Codex 可以读写 `private/`，但该目录不会上传公开仓库。
+错题保存到 Notion“考研错题简记”：只记题目、科目、知识点，不记错题原因。请在手机当前聊天连接 Notion，并让助手读取 `NOTION.md`、检索该数据库；成功写入后应返回页面链接。不可用时生成简记供复制。
 
 官方说明：[连接 GitHub 到 ChatGPT](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)。如使用手机 Remote 连接电脑，则电脑需要在线，且功能可用性取决于账号；它不是普通 GitHub 只读连接。[Remote 文档](https://learn.chatgpt.com/docs/remote)。
+
+学习方式见 [真题与理解](LEARNING_METHOD.md)。可直接说：“先围绕这道真题讲清必要知识，讲完把题目和知识点记到 Notion，不记错题原因。”
