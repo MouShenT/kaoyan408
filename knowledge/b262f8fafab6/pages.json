@@ -1,0 +1,32 @@
+[
+  {
+    "pdf_page": 1,
+    "method": "needs-visual-check",
+    "chars": 0,
+    "confidence": null
+  },
+  {
+    "pdf_page": 2,
+    "method": "needs-visual-check",
+    "chars": 0,
+    "confidence": null
+  },
+  {
+    "pdf_page": 3,
+    "method": "needs-visual-check",
+    "chars": 0,
+    "confidence": null
+  },
+  {
+    "pdf_page": 4,
+    "method": "needs-visual-check",
+    "chars": 0,
+    "confidence": null
+  },
+  {
+    "pdf_page": 5,
+    "method": "needs-visual-check",
+    "chars": 0,
+    "confidence": null
+  }
+]

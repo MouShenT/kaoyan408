@@ -1,0 +1,8672 @@
+[
+  {
+    "id": "de47c86d8c38",
+    "path": "materials/27王道《操作系统》高清带书签.pdf",
+    "title": "27王道《操作系统》高清带书签",
+    "bytes": 234834921,
+    "sha256": "476d917de04568d00a2a1bbda0788785c8cc7aab15e6ed822778a80e7cc1a9d3",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/de47c86d8c38/p0001-0006.md",
+      "knowledge/de47c86d8c38/p0007-0012.md",
+      "knowledge/de47c86d8c38/p0013-0018.md",
+      "knowledge/de47c86d8c38/p0019-0024.md",
+      "knowledge/de47c86d8c38/p0025-0030.md",
+      "knowledge/de47c86d8c38/p0031-0036.md",
+      "knowledge/de47c86d8c38/p0037-0042.md",
+      "knowledge/de47c86d8c38/p0043-0048.md",
+      "knowledge/de47c86d8c38/p0049-0054.md",
+      "knowledge/de47c86d8c38/p0055-0060.md",
+      "knowledge/de47c86d8c38/p0061-0066.md",
+      "knowledge/de47c86d8c38/p0067-0072.md",
+      "knowledge/de47c86d8c38/p0073-0078.md",
+      "knowledge/de47c86d8c38/p0079-0084.md",
+      "knowledge/de47c86d8c38/p0085-0090.md",
+      "knowledge/de47c86d8c38/p0091-0096.md",
+      "knowledge/de47c86d8c38/p0097-0102.md",
+      "knowledge/de47c86d8c38/p0103-0108.md",
+      "knowledge/de47c86d8c38/p0109-0114.md",
+      "knowledge/de47c86d8c38/p0115-0120.md",
+      "knowledge/de47c86d8c38/p0121-0126.md",
+      "knowledge/de47c86d8c38/p0127-0132.md",
+      "knowledge/de47c86d8c38/p0133-0138.md",
+      "knowledge/de47c86d8c38/p0139-0144.md",
+      "knowledge/de47c86d8c38/p0145-0150.md",
+      "knowledge/de47c86d8c38/p0151-0156.md",
+      "knowledge/de47c86d8c38/p0157-0162.md",
+      "knowledge/de47c86d8c38/p0163-0168.md",
+      "knowledge/de47c86d8c38/p0169-0174.md",
+      "knowledge/de47c86d8c38/p0175-0180.md",
+      "knowledge/de47c86d8c38/p0181-0186.md",
+      "knowledge/de47c86d8c38/p0187-0192.md",
+      "knowledge/de47c86d8c38/p0193-0198.md",
+      "knowledge/de47c86d8c38/p0199-0204.md",
+      "knowledge/de47c86d8c38/p0205-0210.md",
+      "knowledge/de47c86d8c38/p0211-0216.md",
+      "knowledge/de47c86d8c38/p0217-0222.md",
+      "knowledge/de47c86d8c38/p0223-0228.md",
+      "knowledge/de47c86d8c38/p0229-0234.md",
+      "knowledge/de47c86d8c38/p0235-0240.md",
+      "knowledge/de47c86d8c38/p0241-0246.md",
+      "knowledge/de47c86d8c38/p0247-0252.md",
+      "knowledge/de47c86d8c38/p0253-0258.md",
+      "knowledge/de47c86d8c38/p0259-0264.md",
+      "knowledge/de47c86d8c38/p0265-0270.md",
+      "knowledge/de47c86d8c38/p0271-0276.md",
+      "knowledge/de47c86d8c38/p0277-0282.md",
+      "knowledge/de47c86d8c38/p0283-0288.md",
+      "knowledge/de47c86d8c38/p0289-0294.md",
+      "knowledge/de47c86d8c38/p0295-0300.md",
+      "knowledge/de47c86d8c38/p0301-0306.md",
+      "knowledge/de47c86d8c38/p0307-0312.md",
+      "knowledge/de47c86d8c38/p0313-0318.md",
+      "knowledge/de47c86d8c38/p0319-0324.md",
+      "knowledge/de47c86d8c38/p0325-0330.md",
+      "knowledge/de47c86d8c38/p0331-0336.md",
+      "knowledge/de47c86d8c38/p0337-0342.md",
+      "knowledge/de47c86d8c38/p0343-0348.md",
+      "knowledge/de47c86d8c38/p0349-0354.md",
+      "knowledge/de47c86d8c38/p0355-0360.md",
+      "knowledge/de47c86d8c38/p0361-0366.md",
+      "knowledge/de47c86d8c38/p0367-0372.md"
+    ],
+    "pages": 372,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "前   言",
+        "pdf_page": 4
+      },
+      {
+        "level": 1,
+        "title": "致  读  者",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "王道训练营",
+        "pdf_page": 6
+      },
+      {
+        "level": 1,
+        "title": "目   录",
+        "pdf_page": 8
+      },
+      {
+        "level": 1,
+        "title": "第1章",
+        "pdf_page": 13
+      },
+      {
+        "level": 1,
+        "title": "第1章 计算机系统概述",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "1.1  操作系统的基本概念",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "1.1.1  操作系统的概念",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "1.1.2  操作系统的功能和目标",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "1．操作系统作为计算机系统资源的管理者",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "2．操作系统作为用户与计算机硬件系统之间的接口",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "3．操作系统实现了对计算机资源的扩充",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "1.1.3  操作系统的特征",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "1．并发（Concurrency）",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "2．共享（Sharing）",
+        "pdf_page": 16
+      },
+      {
+        "level": 4,
+        "title": "3．虚拟（Virtual）",
+        "pdf_page": 16
+      },
+      {
+        "level": 4,
+        "title": "4．异步（Asynchronism）",
+        "pdf_page": 17
+      },
+      {
+        "level": 3,
+        "title": "1.1.4  本节习题精选",
+        "pdf_page": 17
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 17
+      },
+      {
+        "level": 3,
+        "title": "1.1.5  答案与解析",
+        "pdf_page": 18
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 18
+      },
+      {
+        "level": 2,
+        "title": "1.2  操作系统发展历程",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "1.2.1  手工操作阶段（未配置操作系统）",
+        "pdf_page": 19
+      },
+      {
+        "level": 4,
+        "title": "1．人工操作方式",
+        "pdf_page": 19
+      },
+      {
+        "level": 4,
+        "title": "2．脱机I/O方式",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "1.2.2  批处理阶段（操作系统开始出现）",
+        "pdf_page": 19
+      },
+      {
+        "level": 4,
+        "title": "1．单道批处理系统",
+        "pdf_page": 19
+      },
+      {
+        "level": 4,
+        "title": "2．多道批处理系统",
+        "pdf_page": 20
+      },
+      {
+        "level": 3,
+        "title": "1.2.3  分时操作系统",
+        "pdf_page": 20
+      },
+      {
+        "level": 3,
+        "title": "1.2.4  实时操作系统",
+        "pdf_page": 20
+      },
+      {
+        "level": 3,
+        "title": "1.2.5  网络操作系统和分布式系统",
+        "pdf_page": 21
+      },
+      {
+        "level": 3,
+        "title": "1.2.6  微机操作系统",
+        "pdf_page": 21
+      },
+      {
+        "level": 4,
+        "title": "1．单用户单任务操作系统",
+        "pdf_page": 21
+      },
+      {
+        "level": 4,
+        "title": "2．单用户多任务操作系统",
+        "pdf_page": 21
+      },
+      {
+        "level": 4,
+        "title": "3．多用户多任务操作系统",
+        "pdf_page": 21
+      },
+      {
+        "level": 3,
+        "title": "1.2.7  本节习题精选",
+        "pdf_page": 22
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 22
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 24
+      },
+      {
+        "level": 3,
+        "title": "1.2.8  答案与解析",
+        "pdf_page": 24
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 24
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 26
+      },
+      {
+        "level": 2,
+        "title": "1.3  操作系统的运行环境",
+        "pdf_page": 27
+      },
+      {
+        "level": 3,
+        "title": "1.3.1  操作系统内核",
+        "pdf_page": 27
+      },
+      {
+        "level": 4,
+        "title": "1．支撑功能",
+        "pdf_page": 27
+      },
+      {
+        "level": 4,
+        "title": "2．系统资源管理功能",
+        "pdf_page": 27
+      },
+      {
+        "level": 3,
+        "title": "1.3.2  处理机的双重工作模式",
+        "pdf_page": 28
+      },
+      {
+        "level": 3,
+        "title": "1.3.3  中断和异常的概念 ",
+        "pdf_page": 28
+      },
+      {
+        "level": 4,
+        "title": "1．中断和异常的定义",
+        "pdf_page": 28
+      },
+      {
+        "level": 4,
+        "title": "2．中断和异常的分类",
+        "pdf_page": 29
+      },
+      {
+        "level": 4,
+        "title": "3．中断和异常的处理过程",
+        "pdf_page": 29
+      },
+      {
+        "level": 3,
+        "title": "1.3.4  系统调用",
+        "pdf_page": 29
+      },
+      {
+        "level": 3,
+        "title": "1.3.5  本节习题精选",
+        "pdf_page": 31
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 31
+      },
+      {
+        "level": 3,
+        "title": "1.3.6  答案与解析",
+        "pdf_page": 34
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 34
+      },
+      {
+        "level": 2,
+        "title": "1.4  操作系统结构",
+        "pdf_page": 38
+      },
+      {
+        "level": 3,
+        "title": "1．分层法",
+        "pdf_page": 38
+      },
+      {
+        "level": 3,
+        "title": "2．模块化",
+        "pdf_page": 38
+      },
+      {
+        "level": 3,
+        "title": "3．宏内核",
+        "pdf_page": 39
+      },
+      {
+        "level": 3,
+        "title": "4．微内核",
+        "pdf_page": 39
+      },
+      {
+        "level": 3,
+        "title": "5．外核",
+        "pdf_page": 40
+      },
+      {
+        "level": 2,
+        "title": "1.5  操作系统引导",
+        "pdf_page": 41
+      },
+      {
+        "level": 2,
+        "title": "1.6  虚拟机",
+        "pdf_page": 42
+      },
+      {
+        "level": 3,
+        "title": "1.6.1  虚拟机的基本概念",
+        "pdf_page": 42
+      },
+      {
+        "level": 4,
+        "title": "1．第一类虚拟机管理程序",
+        "pdf_page": 42
+      },
+      {
+        "level": 4,
+        "title": "2．第二类虚拟机管理程序",
+        "pdf_page": 42
+      },
+      {
+        "level": 3,
+        "title": "1.6.2  本节习题精选",
+        "pdf_page": 43
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 43
+      },
+      {
+        "level": 3,
+        "title": "1.6.3  答案与解析",
+        "pdf_page": 45
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 45
+      },
+      {
+        "level": 2,
+        "title": "1.7  本章疑难点",
+        "pdf_page": 47
+      },
+      {
+        "level": 3,
+        "title": "1．并行性与并发性的区别和联系",
+        "pdf_page": 47
+      },
+      {
+        "level": 3,
+        "title": "2．特权指令与非特权指令",
+        "pdf_page": 47
+      },
+      {
+        "level": 3,
+        "title": "3．访管指令与访管中断",
+        "pdf_page": 48
+      },
+      {
+        "level": 3,
+        "title": "4．定义微内核结构OS的四个方面",
+        "pdf_page": 48
+      },
+      {
+        "level": 1,
+        "title": "第2章 进程与线程",
+        "pdf_page": 49
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 49
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 49
+      },
+      {
+        "level": 2,
+        "title": "2.1  进程与线程简介",
+        "pdf_page": 49
+      },
+      {
+        "level": 3,
+        "title": "2.1.1  进程的概念和特征",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "1．进程的概念",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "2．进程的特征",
+        "pdf_page": 50
+      },
+      {
+        "level": 3,
+        "title": "2.1.2  进程的组成",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "1．进程控制块",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "2．程序段",
+        "pdf_page": 51
+      },
+      {
+        "level": 4,
+        "title": "3．数据段",
+        "pdf_page": 52
+      },
+      {
+        "level": 3,
+        "title": "2.1.3  进程的内存映像",
+        "pdf_page": 52
+      },
+      {
+        "level": 4,
+        "title": "1．代码段",
+        "pdf_page": 52
+      },
+      {
+        "level": 4,
+        "title": "2．数据段",
+        "pdf_page": 52
+      },
+      {
+        "level": 4,
+        "title": "3．进程控制块（PCB）",
+        "pdf_page": 52
+      },
+      {
+        "level": 4,
+        "title": "4．堆",
+        "pdf_page": 52
+      },
+      {
+        "level": 4,
+        "title": "5．栈",
+        "pdf_page": 52
+      },
+      {
+        "level": 4,
+        "title": "6．共享库的存储映射区",
+        "pdf_page": 52
+      },
+      {
+        "level": 3,
+        "title": "2.1.4  进程的状态与转换",
+        "pdf_page": 53
+      },
+      {
+        "level": 3,
+        "title": "2.1.5  进程控制",
+        "pdf_page": 54
+      },
+      {
+        "level": 4,
+        "title": "1．进程的创建",
+        "pdf_page": 54
+      },
+      {
+        "level": 4,
+        "title": "2．进程的终止",
+        "pdf_page": 55
+      },
+      {
+        "level": 4,
+        "title": "3．进程的阻塞和唤醒",
+        "pdf_page": 55
+      },
+      {
+        "level": 3,
+        "title": "2.1.6  进程的通信",
+        "pdf_page": 55
+      },
+      {
+        "level": 4,
+        "title": "1．共享存储",
+        "pdf_page": 56
+      },
+      {
+        "level": 4,
+        "title": "2．消息传递",
+        "pdf_page": 56
+      },
+      {
+        "level": 4,
+        "title": "3．管道通信",
+        "pdf_page": 56
+      },
+      {
+        "level": 4,
+        "title": "4．信号",
+        "pdf_page": 57
+      },
+      {
+        "level": 3,
+        "title": "2.1.7  线程和多线程模型",
+        "pdf_page": 57
+      },
+      {
+        "level": 4,
+        "title": "1．线程的基本概念",
+        "pdf_page": 57
+      },
+      {
+        "level": 4,
+        "title": "2．线程与进程的比较",
+        "pdf_page": 58
+      },
+      {
+        "level": 4,
+        "title": "3．线程的状态与生命周期",
+        "pdf_page": 59
+      },
+      {
+        "level": 4,
+        "title": "4．线程控制块",
+        "pdf_page": 59
+      },
+      {
+        "level": 4,
+        "title": "5．线程的实现方式",
+        "pdf_page": 59
+      },
+      {
+        "level": 3,
+        "title": "2.1.8  本节小结",
+        "pdf_page": 62
+      },
+      {
+        "level": 3,
+        "title": "2.1.9  本节习题精选",
+        "pdf_page": 63
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 63
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 69
+      },
+      {
+        "level": 3,
+        "title": "2.1.10  答案与解析",
+        "pdf_page": 70
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 70
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 78
+      },
+      {
+        "level": 2,
+        "title": "2.2  CPU调度",
+        "pdf_page": 78
+      },
+      {
+        "level": 3,
+        "title": "2.2.1  调度的概念",
+        "pdf_page": 78
+      },
+      {
+        "level": 4,
+        "title": "1．调度的基本概念",
+        "pdf_page": 78
+      },
+      {
+        "level": 4,
+        "title": "2．调度的层次",
+        "pdf_page": 78
+      },
+      {
+        "level": 4,
+        "title": "3．三级调度的联系",
+        "pdf_page": 79
+      },
+      {
+        "level": 3,
+        "title": "2.2.2  进程调度",
+        "pdf_page": 79
+      },
+      {
+        "level": 4,
+        "title": "1. 进程调度任务",
+        "pdf_page": 79
+      },
+      {
+        "level": 4,
+        "title": "2．调度程序（调度器）",
+        "pdf_page": 80
+      },
+      {
+        "level": 4,
+        "title": "3．调度的时机、切换与过程",
+        "pdf_page": 80
+      },
+      {
+        "level": 4,
+        "title": "4．进程调度的方式",
+        "pdf_page": 81
+      },
+      {
+        "level": 4,
+        "title": "5．闲逛进程",
+        "pdf_page": 81
+      },
+      {
+        "level": 4,
+        "title": "6．两种线程的调度",
+        "pdf_page": 81
+      },
+      {
+        "level": 3,
+        "title": "2.2.3  调度的目标",
+        "pdf_page": 82
+      },
+      {
+        "level": 3,
+        "title": "2.2.4  进程切换",
+        "pdf_page": 82
+      },
+      {
+        "level": 3,
+        "title": "2.2.5  CPU调度算法",
+        "pdf_page": 83
+      },
+      {
+        "level": 4,
+        "title": "1．先来先服务（FCFS）调度算法",
+        "pdf_page": 83
+      },
+      {
+        "level": 4,
+        "title": "2．短作业优先（SJF）调度算法",
+        "pdf_page": 84
+      },
+      {
+        "level": 4,
+        "title": "3．高响应比优先调度算法",
+        "pdf_page": 85
+      },
+      {
+        "level": 4,
+        "title": "4．优先级调度算法",
+        "pdf_page": 85
+      },
+      {
+        "level": 4,
+        "title": "5．时间片轮转（RR）调度算法",
+        "pdf_page": 86
+      },
+      {
+        "level": 4,
+        "title": "6．多级队列调度算法",
+        "pdf_page": 87
+      },
+      {
+        "level": 4,
+        "title": "7．多级反馈队列调度算法（融合了前几种算法的优点）",
+        "pdf_page": 87
+      },
+      {
+        "level": 4,
+        "title": "8．基于公平原则的调度算法",
+        "pdf_page": 88
+      },
+      {
+        "level": 3,
+        "title": "2.2.6  多处理机调度",
+        "pdf_page": 89
+      },
+      {
+        "level": 4,
+        "title": "1．亲和性和负载平衡",
+        "pdf_page": 89
+      },
+      {
+        "level": 4,
+        "title": "2．多处理机调度方案",
+        "pdf_page": 89
+      },
+      {
+        "level": 3,
+        "title": "2.2.7  本节小结",
+        "pdf_page": 90
+      },
+      {
+        "level": 3,
+        "title": "2.2.8  本节习题精选",
+        "pdf_page": 90
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 90
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 96
+      },
+      {
+        "level": 3,
+        "title": "2.2.9  答案与解析",
+        "pdf_page": 99
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 99
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 106
+      },
+      {
+        "level": 2,
+        "title": "2.3  同步与互斥",
+        "pdf_page": 111
+      },
+      {
+        "level": 3,
+        "title": "2.3.1  同步与互斥的基本概念",
+        "pdf_page": 111
+      },
+      {
+        "level": 4,
+        "title": "1．临界资源",
+        "pdf_page": 111
+      },
+      {
+        "level": 4,
+        "title": "2．同步（直接制约关系）",
+        "pdf_page": 111
+      },
+      {
+        "level": 4,
+        "title": "3．互斥（间接制约关系）",
+        "pdf_page": 112
+      },
+      {
+        "level": 3,
+        "title": "2.3.2  实现临界区互斥的基本方法",
+        "pdf_page": 112
+      },
+      {
+        "level": 4,
+        "title": "1．软件实现方法",
+        "pdf_page": 112
+      },
+      {
+        "level": 4,
+        "title": "2．硬件实现方法",
+        "pdf_page": 114
+      },
+      {
+        "level": 3,
+        "title": "2.3.3  互斥锁",
+        "pdf_page": 115
+      },
+      {
+        "level": 3,
+        "title": "2.3.4  信号量",
+        "pdf_page": 116
+      },
+      {
+        "level": 4,
+        "title": "1．整型信号量",
+        "pdf_page": 116
+      },
+      {
+        "level": 4,
+        "title": "2．记录型信号量",
+        "pdf_page": 116
+      },
+      {
+        "level": 4,
+        "title": "3．利用信号量实现进程互斥",
+        "pdf_page": 117
+      },
+      {
+        "level": 4,
+        "title": "4．利用信号量实现同步",
+        "pdf_page": 117
+      },
+      {
+        "level": 4,
+        "title": "5．利用信号量实现前驱关系",
+        "pdf_page": 118
+      },
+      {
+        "level": 4,
+        "title": "6．分析进程同步和互斥问题的方法步骤",
+        "pdf_page": 119
+      },
+      {
+        "level": 3,
+        "title": "2.3.5  经典同步问题",
+        "pdf_page": 119
+      },
+      {
+        "level": 4,
+        "title": "1．生产者-消费者问题",
+        "pdf_page": 119
+      },
+      {
+        "level": 4,
+        "title": "2．读者-写者问题",
+        "pdf_page": 121
+      },
+      {
+        "level": 4,
+        "title": "3．哲学家进餐问题",
+        "pdf_page": 123
+      },
+      {
+        "level": 3,
+        "title": "2.3.6  管程",
+        "pdf_page": 124
+      },
+      {
+        "level": 4,
+        "title": "1．管程的定义",
+        "pdf_page": 124
+      },
+      {
+        "level": 4,
+        "title": "2．条件变量",
+        "pdf_page": 125
+      },
+      {
+        "level": 3,
+        "title": "2.3.7  本节小结",
+        "pdf_page": 126
+      },
+      {
+        "level": 3,
+        "title": "2.3.8  本节习题精选",
+        "pdf_page": 126
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 126
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 133
+      },
+      {
+        "level": 3,
+        "title": "2.3.9  答案与解析",
+        "pdf_page": 139
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 139
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 144
+      },
+      {
+        "level": 2,
+        "title": "2.4  死锁",
+        "pdf_page": 161
+      },
+      {
+        "level": 3,
+        "title": "2.4.1  死锁的概念",
+        "pdf_page": 162
+      },
+      {
+        "level": 4,
+        "title": "1．死锁的定义",
+        "pdf_page": 162
+      },
+      {
+        "level": 4,
+        "title": "2．死锁与饥饿",
+        "pdf_page": 162
+      },
+      {
+        "level": 4,
+        "title": "3．死锁产生的原因",
+        "pdf_page": 162
+      },
+      {
+        "level": 4,
+        "title": "4．死锁产生的必要条件",
+        "pdf_page": 163
+      },
+      {
+        "level": 4,
+        "title": "5．死锁的处理策略",
+        "pdf_page": 163
+      },
+      {
+        "level": 3,
+        "title": "2.4.2  死锁预防",
+        "pdf_page": 164
+      },
+      {
+        "level": 4,
+        "title": "1．破坏互斥条件",
+        "pdf_page": 164
+      },
+      {
+        "level": 4,
+        "title": "2．破坏不可剥夺条件",
+        "pdf_page": 164
+      },
+      {
+        "level": 4,
+        "title": "3．破坏请求并保持条件",
+        "pdf_page": 164
+      },
+      {
+        "level": 4,
+        "title": "4．破坏循环等待条件",
+        "pdf_page": 164
+      },
+      {
+        "level": 3,
+        "title": "2.4.3  死锁避免",
+        "pdf_page": 165
+      },
+      {
+        "level": 4,
+        "title": "1．系统安全状态",
+        "pdf_page": 165
+      },
+      {
+        "level": 4,
+        "title": "2．利用银行家算法避免死锁",
+        "pdf_page": 165
+      },
+      {
+        "level": 4,
+        "title": "3．安全性算法举例",
+        "pdf_page": 167
+      },
+      {
+        "level": 4,
+        "title": "4．银行家算法举例",
+        "pdf_page": 168
+      },
+      {
+        "level": 3,
+        "title": "2.4.4  死锁检测与解除",
+        "pdf_page": 169
+      },
+      {
+        "level": 4,
+        "title": "1．死锁检测",
+        "pdf_page": 169
+      },
+      {
+        "level": 4,
+        "title": "2．死锁解除",
+        "pdf_page": 170
+      },
+      {
+        "level": 3,
+        "title": "2.4.5  本节小结",
+        "pdf_page": 170
+      },
+      {
+        "level": 3,
+        "title": "2.4.6  本节习题精选",
+        "pdf_page": 170
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 170
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 176
+      },
+      {
+        "level": 3,
+        "title": "2.4.7  答案与解析",
+        "pdf_page": 177
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 177
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 184
+      },
+      {
+        "level": 2,
+        "title": "2.5  本章疑难点",
+        "pdf_page": 187
+      },
+      {
+        "level": 3,
+        "title": "1．进程与程序的区别与联系",
+        "pdf_page": 187
+      },
+      {
+        "level": 3,
+        "title": "2．银行家算法的工作原理",
+        "pdf_page": 187
+      },
+      {
+        "level": 3,
+        "title": "3．进程同步、互斥的区别和联系",
+        "pdf_page": 187
+      },
+      {
+        "level": 1,
+        "title": "第3章 内存管理",
+        "pdf_page": 188
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 188
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 188
+      },
+      {
+        "level": 2,
+        "title": "3.1  内存管理概念",
+        "pdf_page": 188
+      },
+      {
+        "level": 3,
+        "title": "3.1.1  内存管理的基本原理和要求",
+        "pdf_page": 188
+      },
+      {
+        "level": 4,
+        "title": "1．程序的链接与装入",
+        "pdf_page": 189
+      },
+      {
+        "level": 4,
+        "title": "2．逻辑地址与物理地址",
+        "pdf_page": 189
+      },
+      {
+        "level": 4,
+        "title": "3．程序的链接",
+        "pdf_page": 190
+      },
+      {
+        "level": 4,
+        "title": "4．程序的装入",
+        "pdf_page": 190
+      },
+      {
+        "level": 4,
+        "title": "5．内存保护",
+        "pdf_page": 191
+      },
+      {
+        "level": 4,
+        "title": "6．内存共享",
+        "pdf_page": 192
+      },
+      {
+        "level": 4,
+        "title": "7．内存分配与回收",
+        "pdf_page": 192
+      },
+      {
+        "level": 3,
+        "title": "3.1.2  连续分配管理方式",
+        "pdf_page": 192
+      },
+      {
+        "level": 4,
+        "title": "1．单一连续分配",
+        "pdf_page": 192
+      },
+      {
+        "level": 4,
+        "title": "2．固定分区分配",
+        "pdf_page": 192
+      },
+      {
+        "level": 4,
+        "title": "3．动态分区分配",
+        "pdf_page": 193
+      },
+      {
+        "level": 3,
+        "title": "3.1.3  基本分页存储管理 ",
+        "pdf_page": 195
+      },
+      {
+        "level": 4,
+        "title": "1．分页存储的几个基本概念",
+        "pdf_page": 195
+      },
+      {
+        "level": 4,
+        "title": "2．基本地址变换机构",
+        "pdf_page": 196
+      },
+      {
+        "level": 4,
+        "title": "3．具有快表的地址变换机构",
+        "pdf_page": 197
+      },
+      {
+        "level": 4,
+        "title": "4．两级页表",
+        "pdf_page": 198
+      },
+      {
+        "level": 3,
+        "title": "3.1.4  基本分段存储管理",
+        "pdf_page": 199
+      },
+      {
+        "level": 4,
+        "title": "1．分段",
+        "pdf_page": 199
+      },
+      {
+        "level": 4,
+        "title": "2．段表",
+        "pdf_page": 200
+      },
+      {
+        "level": 4,
+        "title": "3．地址变换机构",
+        "pdf_page": 200
+      },
+      {
+        "level": 4,
+        "title": "4．分页和分段的对比",
+        "pdf_page": 201
+      },
+      {
+        "level": 4,
+        "title": "5．段的共享与保护",
+        "pdf_page": 201
+      },
+      {
+        "level": 3,
+        "title": "3.1.5  段页式存储管理",
+        "pdf_page": 202
+      },
+      {
+        "level": 3,
+        "title": "3.1.6  本节小结",
+        "pdf_page": 203
+      },
+      {
+        "level": 3,
+        "title": "3.1.7  本节习题精选",
+        "pdf_page": 203
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 203
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 210
+      },
+      {
+        "level": 3,
+        "title": "3.1.8  答案与解析",
+        "pdf_page": 212
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 212
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 220
+      },
+      {
+        "level": 2,
+        "title": "3.2  虚拟内存管理",
+        "pdf_page": 224
+      },
+      {
+        "level": 3,
+        "title": "3.2.1  虚拟内存的基本概念",
+        "pdf_page": 224
+      },
+      {
+        "level": 4,
+        "title": "1．传统存储管理方式的特征",
+        "pdf_page": 224
+      },
+      {
+        "level": 4,
+        "title": "2．局部性原理",
+        "pdf_page": 224
+      },
+      {
+        "level": 4,
+        "title": "3．虚拟存储器的定义和特征",
+        "pdf_page": 224
+      },
+      {
+        "level": 4,
+        "title": "4．虚拟内存技术的实现",
+        "pdf_page": 225
+      },
+      {
+        "level": 3,
+        "title": "3.2.2  请求分页管理方式",
+        "pdf_page": 225
+      },
+      {
+        "level": 4,
+        "title": "1．页表机制",
+        "pdf_page": 225
+      },
+      {
+        "level": 4,
+        "title": "2．缺页中断机构",
+        "pdf_page": 226
+      },
+      {
+        "level": 4,
+        "title": "3．地址变换机构",
+        "pdf_page": 226
+      },
+      {
+        "level": 3,
+        "title": "3.2.3  页框分配",
+        "pdf_page": 227
+      },
+      {
+        "level": 4,
+        "title": "1．最小页框数与驻留集",
+        "pdf_page": 227
+      },
+      {
+        "level": 4,
+        "title": "2．内存分配策略",
+        "pdf_page": 227
+      },
+      {
+        "level": 4,
+        "title": "3．页框调入算法",
+        "pdf_page": 228
+      },
+      {
+        "level": 4,
+        "title": "4．调入页面的时机",
+        "pdf_page": 228
+      },
+      {
+        "level": 4,
+        "title": "5．从何处调入页面",
+        "pdf_page": 229
+      },
+      {
+        "level": 4,
+        "title": "6．如何调入页面",
+        "pdf_page": 229
+      },
+      {
+        "level": 3,
+        "title": "3.2.4  页面置换算法",
+        "pdf_page": 229
+      },
+      {
+        "level": 4,
+        "title": "1．最佳（OPT）算法",
+        "pdf_page": 229
+      },
+      {
+        "level": 4,
+        "title": "2．先进先出（FIFO）算法",
+        "pdf_page": 230
+      },
+      {
+        "level": 4,
+        "title": "3．最近最久未使用（LRU）算法",
+        "pdf_page": 230
+      },
+      {
+        "level": 4,
+        "title": "4．时钟（CLOCK）算法",
+        "pdf_page": 231
+      },
+      {
+        "level": 3,
+        "title": "*3.2.5  抖动和工作集",
+        "pdf_page": 232
+      },
+      {
+        "level": 4,
+        "title": "1．抖动",
+        "pdf_page": 232
+      },
+      {
+        "level": 4,
+        "title": "2．工作集",
+        "pdf_page": 233
+      },
+      {
+        "level": 3,
+        "title": "3.2.6  页框回收",
+        "pdf_page": 233
+      },
+      {
+        "level": 4,
+        "title": "1．页面缓冲算法",
+        "pdf_page": 233
+      },
+      {
+        "level": 4,
+        "title": "2．页框回收",
+        "pdf_page": 234
+      },
+      {
+        "level": 3,
+        "title": "3.2.7  内存映射文件",
+        "pdf_page": 234
+      },
+      {
+        "level": 3,
+        "title": "3.2.8  虚拟存储器性能影响因素",
+        "pdf_page": 235
+      },
+      {
+        "level": 3,
+        "title": "3.2.9  地址翻译的示例",
+        "pdf_page": 235
+      },
+      {
+        "level": 3,
+        "title": "3.2.10  本节小结",
+        "pdf_page": 237
+      },
+      {
+        "level": 3,
+        "title": "3.2.11  本节习题精选",
+        "pdf_page": 238
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 238
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 244
+      },
+      {
+        "level": 3,
+        "title": "3.2.12  答案与解析",
+        "pdf_page": 249
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 249
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 255
+      },
+      {
+        "level": 2,
+        "title": "3.3  本章疑难点",
+        "pdf_page": 262
+      },
+      {
+        "level": 1,
+        "title": "第4章 文件管理",
+        "pdf_page": 263
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 263
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 263
+      },
+      {
+        "level": 2,
+        "title": "4.1  文件系统基础",
+        "pdf_page": 263
+      },
+      {
+        "level": 3,
+        "title": "4.1.1  文件的基本概念",
+        "pdf_page": 263
+      },
+      {
+        "level": 4,
+        "title": "1．文件的定义",
+        "pdf_page": 264
+      },
+      {
+        "level": 4,
+        "title": "2．文件的属性",
+        "pdf_page": 264
+      },
+      {
+        "level": 3,
+        "title": "4.1.2  文件系统结构",
+        "pdf_page": 265
+      },
+      {
+        "level": 3,
+        "title": "4.1.3  文件的逻辑结构",
+        "pdf_page": 265
+      },
+      {
+        "level": 4,
+        "title": "1．无结构文件",
+        "pdf_page": 266
+      },
+      {
+        "level": 4,
+        "title": "2．有结构文件",
+        "pdf_page": 266
+      },
+      {
+        "level": 3,
+        "title": "4.1.4  本节小结",
+        "pdf_page": 267
+      },
+      {
+        "level": 3,
+        "title": "4.1.5  本节习题精选",
+        "pdf_page": 268
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 268
+      },
+      {
+        "level": 3,
+        "title": "4.1.6  答案与解析",
+        "pdf_page": 268
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 268
+      },
+      {
+        "level": 2,
+        "title": "4.2  目录与文件",
+        "pdf_page": 269
+      },
+      {
+        "level": 3,
+        "title": "4.2.1  目录的基本概念",
+        "pdf_page": 269
+      },
+      {
+        "level": 3,
+        "title": "4.2.2  文件控制块和索引节点",
+        "pdf_page": 269
+      },
+      {
+        "level": 4,
+        "title": "1．文件控制块",
+        "pdf_page": 269
+      },
+      {
+        "level": 4,
+        "title": "2．索引节点",
+        "pdf_page": 269
+      },
+      {
+        "level": 3,
+        "title": "4.2.3  目录结构",
+        "pdf_page": 270
+      },
+      {
+        "level": 4,
+        "title": "*1．单级目录结构",
+        "pdf_page": 270
+      },
+      {
+        "level": 4,
+        "title": "*2．两级目录结构",
+        "pdf_page": 271
+      },
+      {
+        "level": 4,
+        "title": "3．树形目录结构",
+        "pdf_page": 271
+      },
+      {
+        "level": 4,
+        "title": "*4．无环图目录结构",
+        "pdf_page": 272
+      },
+      {
+        "level": 3,
+        "title": "4.2.4  目录的操作",
+        "pdf_page": 272
+      },
+      {
+        "level": 3,
+        "title": "*4.2.5  目录实现",
+        "pdf_page": 273
+      },
+      {
+        "level": 4,
+        "title": "1．线性列表",
+        "pdf_page": 273
+      },
+      {
+        "level": 4,
+        "title": "2．哈希表",
+        "pdf_page": 273
+      },
+      {
+        "level": 3,
+        "title": "4.2.6  文件的物理结构",
+        "pdf_page": 273
+      },
+      {
+        "level": 4,
+        "title": "1．连续分配",
+        "pdf_page": 273
+      },
+      {
+        "level": 4,
+        "title": "2．链接分配",
+        "pdf_page": 274
+      },
+      {
+        "level": 4,
+        "title": "3．索引分配",
+        "pdf_page": 275
+      },
+      {
+        "level": 3,
+        "title": "4.2.7  文件的操作",
+        "pdf_page": 278
+      },
+      {
+        "level": 4,
+        "title": "1．文件的基本操作",
+        "pdf_page": 278
+      },
+      {
+        "level": 4,
+        "title": "2．文件的打开与关闭",
+        "pdf_page": 278
+      },
+      {
+        "level": 3,
+        "title": "4.2.8  文件共享",
+        "pdf_page": 280
+      },
+      {
+        "level": 4,
+        "title": "1．基于索引节点的共享方式（硬链接）",
+        "pdf_page": 280
+      },
+      {
+        "level": 4,
+        "title": "2．利用符号链实现文件共享（软链接）",
+        "pdf_page": 281
+      },
+      {
+        "level": 3,
+        "title": "4.2.9  文件保护",
+        "pdf_page": 281
+      },
+      {
+        "level": 4,
+        "title": "1．访问类型",
+        "pdf_page": 282
+      },
+      {
+        "level": 4,
+        "title": "2．访问控制",
+        "pdf_page": 282
+      },
+      {
+        "level": 3,
+        "title": "4.2.10  本节小结",
+        "pdf_page": 283
+      },
+      {
+        "level": 3,
+        "title": "4.2.11  本节习题精选",
+        "pdf_page": 283
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 283
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 289
+      },
+      {
+        "level": 3,
+        "title": "4.2.12  答案与解析",
+        "pdf_page": 294
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 294
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 301
+      },
+      {
+        "level": 2,
+        "title": "4.3  文件系统",
+        "pdf_page": 306
+      },
+      {
+        "level": 3,
+        "title": "4.3.1  文件系统布局",
+        "pdf_page": 306
+      },
+      {
+        "level": 4,
+        "title": "1．文件系统在磁盘中的结构",
+        "pdf_page": 306
+      },
+      {
+        "level": 4,
+        "title": "2．文件系统在内存中的结构",
+        "pdf_page": 307
+      },
+      {
+        "level": 3,
+        "title": "4.3.2  文件存储空间管理",
+        "pdf_page": 307
+      },
+      {
+        "level": 4,
+        "title": "1．空闲表法",
+        "pdf_page": 307
+      },
+      {
+        "level": 4,
+        "title": "2．空闲链表法",
+        "pdf_page": 307
+      },
+      {
+        "level": 4,
+        "title": "3．位示图法",
+        "pdf_page": 308
+      },
+      {
+        "level": 4,
+        "title": "4．成组链接法",
+        "pdf_page": 309
+      },
+      {
+        "level": 3,
+        "title": "4.3.3  虚拟文件系统",
+        "pdf_page": 310
+      },
+      {
+        "level": 3,
+        "title": "4.3.4  文件系统挂载",
+        "pdf_page": 311
+      },
+      {
+        "level": 3,
+        "title": "4.3.5  本节小结",
+        "pdf_page": 312
+      },
+      {
+        "level": 3,
+        "title": "4.3.6  本节习题精选",
+        "pdf_page": 312
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 312
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 313
+      },
+      {
+        "level": 3,
+        "title": "4.3.7  答案与解析",
+        "pdf_page": 314
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 314
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 316
+      },
+      {
+        "level": 2,
+        "title": "4.4  本章疑难点",
+        "pdf_page": 316
+      },
+      {
+        "level": 3,
+        "title": "1．文件的物理分配方式的比较",
+        "pdf_page": 316
+      },
+      {
+        "level": 3,
+        "title": "2．文件打开的过程描述",
+        "pdf_page": 316
+      },
+      {
+        "level": 1,
+        "title": "第5章 输入/输出管理",
+        "pdf_page": 317
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 317
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 317
+      },
+      {
+        "level": 2,
+        "title": "5.1  I/O管理概述",
+        "pdf_page": 317
+      },
+      {
+        "level": 3,
+        "title": "5.1.1  I/O设备",
+        "pdf_page": 317
+      },
+      {
+        "level": 4,
+        "title": "1．设备的分类",
+        "pdf_page": 317
+      },
+      {
+        "level": 4,
+        "title": "2．I/O接口",
+        "pdf_page": 318
+      },
+      {
+        "level": 4,
+        "title": "3．I/O接口的类型",
+        "pdf_page": 319
+      },
+      {
+        "level": 4,
+        "title": "4．I/O端口",
+        "pdf_page": 319
+      },
+      {
+        "level": 3,
+        "title": "5.1.2  I/O控制方式 ",
+        "pdf_page": 320
+      },
+      {
+        "level": 4,
+        "title": "1．程序直接控制方式",
+        "pdf_page": 320
+      },
+      {
+        "level": 4,
+        "title": "2．中断驱动方式",
+        "pdf_page": 320
+      },
+      {
+        "level": 4,
+        "title": "3．DMA方式",
+        "pdf_page": 321
+      },
+      {
+        "level": 4,
+        "title": "*4．通道控制方式",
+        "pdf_page": 322
+      },
+      {
+        "level": 3,
+        "title": "5.1.3  I/O软件层次结构",
+        "pdf_page": 322
+      },
+      {
+        "level": 4,
+        "title": "1．用户层软件",
+        "pdf_page": 323
+      },
+      {
+        "level": 4,
+        "title": "2．设备独立性软件",
+        "pdf_page": 323
+      },
+      {
+        "level": 4,
+        "title": "3．设备驱动程序",
+        "pdf_page": 323
+      },
+      {
+        "level": 4,
+        "title": "4．中断处理程序",
+        "pdf_page": 323
+      },
+      {
+        "level": 4,
+        "title": "5．I/O操作举例",
+        "pdf_page": 324
+      },
+      {
+        "level": 3,
+        "title": "5.1.4  应用程序I/O接口",
+        "pdf_page": 325
+      },
+      {
+        "level": 4,
+        "title": "1．I/O接口的分类",
+        "pdf_page": 325
+      },
+      {
+        "level": 4,
+        "title": "2．阻塞I/O和非阻塞I/O",
+        "pdf_page": 326
+      },
+      {
+        "level": 3,
+        "title": "5.1.5  本节小结",
+        "pdf_page": 326
+      },
+      {
+        "level": 3,
+        "title": "5.1.6  本节习题精选",
+        "pdf_page": 326
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 326
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 329
+      },
+      {
+        "level": 3,
+        "title": "5.1.7  答案与解析",
+        "pdf_page": 329
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 329
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 331
+      },
+      {
+        "level": 2,
+        "title": "5.2  设备独立性软件",
+        "pdf_page": 332
+      },
+      {
+        "level": 3,
+        "title": "5.2.1  设备独立性软件",
+        "pdf_page": 332
+      },
+      {
+        "level": 3,
+        "title": "5.2.2  高速缓存与缓冲区",
+        "pdf_page": 332
+      },
+      {
+        "level": 4,
+        "title": "1．磁盘高速缓存（Disk Cache）",
+        "pdf_page": 332
+      },
+      {
+        "level": 4,
+        "title": "2．缓冲区（Buffer）",
+        "pdf_page": 333
+      },
+      {
+        "level": 4,
+        "title": "3．高速缓存与缓冲区的对比",
+        "pdf_page": 335
+      },
+      {
+        "level": 3,
+        "title": "5.2.3  设备分配与回收",
+        "pdf_page": 336
+      },
+      {
+        "level": 4,
+        "title": "1．设备分配概述",
+        "pdf_page": 336
+      },
+      {
+        "level": 4,
+        "title": "2．设备分配的数据结构",
+        "pdf_page": 336
+      },
+      {
+        "level": 4,
+        "title": "3．设备分配时应考虑的因素",
+        "pdf_page": 337
+      },
+      {
+        "level": 4,
+        "title": "4．设备分配的步骤",
+        "pdf_page": 337
+      },
+      {
+        "level": 4,
+        "title": "5．逻辑设备名到物理设备名的映射",
+        "pdf_page": 337
+      },
+      {
+        "level": 3,
+        "title": "5.2.4  SPOOLing技术（假脱机技术）",
+        "pdf_page": 338
+      },
+      {
+        "level": 3,
+        "title": "5.2.5  设备驱动程序接口",
+        "pdf_page": 339
+      },
+      {
+        "level": 3,
+        "title": "5.2.6  I/O操作举例",
+        "pdf_page": 340
+      },
+      {
+        "level": 3,
+        "title": "5.2.7  本节小结",
+        "pdf_page": 341
+      },
+      {
+        "level": 3,
+        "title": "5.2.8  本节习题精选",
+        "pdf_page": 341
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 341
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 345
+      },
+      {
+        "level": 3,
+        "title": "5.2.9  答案与解析",
+        "pdf_page": 346
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 346
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 351
+      },
+      {
+        "level": 2,
+        "title": "5.3  磁盘和固态硬盘 ",
+        "pdf_page": 352
+      },
+      {
+        "level": 3,
+        "title": "5.3.1  磁盘",
+        "pdf_page": 352
+      },
+      {
+        "level": 3,
+        "title": "5.3.2  磁盘的管理",
+        "pdf_page": 353
+      },
+      {
+        "level": 4,
+        "title": "1．磁盘初始化",
+        "pdf_page": 353
+      },
+      {
+        "level": 4,
+        "title": "2．分区",
+        "pdf_page": 353
+      },
+      {
+        "level": 4,
+        "title": "3．引导块",
+        "pdf_page": 354
+      },
+      {
+        "level": 4,
+        "title": "4．坏块",
+        "pdf_page": 354
+      },
+      {
+        "level": 3,
+        "title": "5.3.3  磁盘调度算法",
+        "pdf_page": 354
+      },
+      {
+        "level": 4,
+        "title": "1．磁盘的存取时间",
+        "pdf_page": 354
+      },
+      {
+        "level": 4,
+        "title": "2．磁盘调度算法",
+        "pdf_page": 355
+      },
+      {
+        "level": 4,
+        "title": "3．减少延迟时间的方法",
+        "pdf_page": 357
+      },
+      {
+        "level": 4,
+        "title": "4．提高磁盘I/O速度的方法",
+        "pdf_page": 358
+      },
+      {
+        "level": 3,
+        "title": "5.3.4  固态硬盘",
+        "pdf_page": 358
+      },
+      {
+        "level": 4,
+        "title": "1．固态硬盘的特性",
+        "pdf_page": 358
+      },
+      {
+        "level": 4,
+        "title": "2．磨损均衡（Wear Leveling）",
+        "pdf_page": 359
+      },
+      {
+        "level": 3,
+        "title": "5.3.5  本节小结",
+        "pdf_page": 359
+      },
+      {
+        "level": 3,
+        "title": "5.3.6  本节习题精选",
+        "pdf_page": 360
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 360
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 363
+      },
+      {
+        "level": 3,
+        "title": "5.3.7  答案与解析",
+        "pdf_page": 364
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 364
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 368
+      },
+      {
+        "level": 2,
+        "title": "5.4  本章疑难点",
+        "pdf_page": 371
+      },
+      {
+        "level": 3,
+        "title": "1．如何改进设备分配策略，以提高其灵活性和成功率？",
+        "pdf_page": 371
+      },
+      {
+        "level": 3,
+        "title": "2．用户缓冲区与内核缓冲区的定义及作用分别是什么？",
+        "pdf_page": 371
+      },
+      {
+        "level": 1,
+        "title": "参 考 文 献",
+        "pdf_page": 372
+      }
+    ],
+    "extraction": {
+      "needs-visual-check": 372
+    }
+  },
+  {
+    "id": "89d7de2a174b",
+    "path": "materials/27王道《数据结构》高清带书签.pdf",
+    "title": "27王道《数据结构》高清带书签",
+    "bytes": 211591863,
+    "sha256": "739a787511ba17ab1c392d57d5345b2de737b3cfdb05fe7874bdf924857fb2ef",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/89d7de2a174b/p0001-0006.md",
+      "knowledge/89d7de2a174b/p0007-0012.md",
+      "knowledge/89d7de2a174b/p0013-0018.md",
+      "knowledge/89d7de2a174b/p0019-0024.md",
+      "knowledge/89d7de2a174b/p0025-0030.md",
+      "knowledge/89d7de2a174b/p0031-0036.md",
+      "knowledge/89d7de2a174b/p0037-0042.md",
+      "knowledge/89d7de2a174b/p0043-0048.md",
+      "knowledge/89d7de2a174b/p0049-0054.md",
+      "knowledge/89d7de2a174b/p0055-0060.md",
+      "knowledge/89d7de2a174b/p0061-0066.md",
+      "knowledge/89d7de2a174b/p0067-0072.md",
+      "knowledge/89d7de2a174b/p0073-0078.md",
+      "knowledge/89d7de2a174b/p0079-0084.md",
+      "knowledge/89d7de2a174b/p0085-0090.md",
+      "knowledge/89d7de2a174b/p0091-0096.md",
+      "knowledge/89d7de2a174b/p0097-0102.md",
+      "knowledge/89d7de2a174b/p0103-0108.md",
+      "knowledge/89d7de2a174b/p0109-0114.md",
+      "knowledge/89d7de2a174b/p0115-0120.md",
+      "knowledge/89d7de2a174b/p0121-0126.md",
+      "knowledge/89d7de2a174b/p0127-0132.md",
+      "knowledge/89d7de2a174b/p0133-0138.md",
+      "knowledge/89d7de2a174b/p0139-0144.md",
+      "knowledge/89d7de2a174b/p0145-0150.md",
+      "knowledge/89d7de2a174b/p0151-0156.md",
+      "knowledge/89d7de2a174b/p0157-0162.md",
+      "knowledge/89d7de2a174b/p0163-0168.md",
+      "knowledge/89d7de2a174b/p0169-0174.md",
+      "knowledge/89d7de2a174b/p0175-0180.md",
+      "knowledge/89d7de2a174b/p0181-0186.md",
+      "knowledge/89d7de2a174b/p0187-0192.md",
+      "knowledge/89d7de2a174b/p0193-0198.md",
+      "knowledge/89d7de2a174b/p0199-0204.md",
+      "knowledge/89d7de2a174b/p0205-0210.md",
+      "knowledge/89d7de2a174b/p0211-0216.md",
+      "knowledge/89d7de2a174b/p0217-0222.md",
+      "knowledge/89d7de2a174b/p0223-0228.md",
+      "knowledge/89d7de2a174b/p0229-0234.md",
+      "knowledge/89d7de2a174b/p0235-0240.md",
+      "knowledge/89d7de2a174b/p0241-0246.md",
+      "knowledge/89d7de2a174b/p0247-0252.md",
+      "knowledge/89d7de2a174b/p0253-0258.md",
+      "knowledge/89d7de2a174b/p0259-0264.md",
+      "knowledge/89d7de2a174b/p0265-0270.md",
+      "knowledge/89d7de2a174b/p0271-0276.md",
+      "knowledge/89d7de2a174b/p0277-0282.md",
+      "knowledge/89d7de2a174b/p0283-0288.md",
+      "knowledge/89d7de2a174b/p0289-0294.md",
+      "knowledge/89d7de2a174b/p0295-0300.md",
+      "knowledge/89d7de2a174b/p0301-0306.md",
+      "knowledge/89d7de2a174b/p0307-0312.md",
+      "knowledge/89d7de2a174b/p0313-0318.md",
+      "knowledge/89d7de2a174b/p0319-0324.md",
+      "knowledge/89d7de2a174b/p0325-0330.md",
+      "knowledge/89d7de2a174b/p0331-0336.md",
+      "knowledge/89d7de2a174b/p0337-0342.md",
+      "knowledge/89d7de2a174b/p0343-0348.md",
+      "knowledge/89d7de2a174b/p0349-0354.md",
+      "knowledge/89d7de2a174b/p0355-0360.md",
+      "knowledge/89d7de2a174b/p0361-0366.md",
+      "knowledge/89d7de2a174b/p0367-0372.md",
+      "knowledge/89d7de2a174b/p0373-0378.md",
+      "knowledge/89d7de2a174b/p0379-0384.md",
+      "knowledge/89d7de2a174b/p0385-0390.md",
+      "knowledge/89d7de2a174b/p0391-0396.md",
+      "knowledge/89d7de2a174b/p0397-0402.md",
+      "knowledge/89d7de2a174b/p0403-0404.md"
+    ],
+    "pages": 404,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "前   言",
+        "pdf_page": 4
+      },
+      {
+        "level": 1,
+        "title": "致  读  者",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "王道训练营",
+        "pdf_page": 6
+      },
+      {
+        "level": 2,
+        "title": "王道训练营简介",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "1．面向就业",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "2．面向硕士",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "3．报名要求",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "4．学习成效",
+        "pdf_page": 7
+      },
+      {
+        "level": 2,
+        "title": "王道训练营优势",
+        "pdf_page": 7
+      },
+      {
+        "level": 2,
+        "title": "王道训练营课程",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "目   录",
+        "pdf_page": 8
+      },
+      {
+        "level": 1,
+        "title": "第1章 绪论",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "1.1  数据结构的基本概念",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "1.1.1  基本概念和术语",
+        "pdf_page": 13
+      },
+      {
+        "level": 4,
+        "title": "1．数据",
+        "pdf_page": 13
+      },
+      {
+        "level": 4,
+        "title": "2．数据元素",
+        "pdf_page": 13
+      },
+      {
+        "level": 4,
+        "title": "3．数据对象",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "4．数据类型",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "5．数据结构",
+        "pdf_page": 14
+      },
+      {
+        "level": 3,
+        "title": "1.1.2  数据结构三要素",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "1．数据的逻辑结构",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "2．数据的存储结构",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "3．数据的运算",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "1.1.3  本节试题精选",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 16
+      },
+      {
+        "level": 3,
+        "title": "1.1.4  答案与解析",
+        "pdf_page": 16
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 16
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 16
+      },
+      {
+        "level": 2,
+        "title": "1.2  算法和算法评价",
+        "pdf_page": 16
+      },
+      {
+        "level": 3,
+        "title": "1.2.1  算法的基本概念",
+        "pdf_page": 16
+      },
+      {
+        "level": 3,
+        "title": "1.2.2  算法效率的度量",
+        "pdf_page": 17
+      },
+      {
+        "level": 4,
+        "title": "1．时间复杂度",
+        "pdf_page": 17
+      },
+      {
+        "level": 4,
+        "title": "2．空间复杂度",
+        "pdf_page": 18
+      },
+      {
+        "level": 3,
+        "title": "1.2.3  本节试题精选",
+        "pdf_page": 18
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 18
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 20
+      },
+      {
+        "level": 3,
+        "title": "1.2.4  答案与解析",
+        "pdf_page": 20
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 20
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 23
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 23
+      },
+      {
+        "level": 3,
+        "title": "1．循环主体中的变量参与循环条件的判断",
+        "pdf_page": 23
+      },
+      {
+        "level": 3,
+        "title": "2．循环主体中的变量与循环条件无关",
+        "pdf_page": 24
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 24
+      },
+      {
+        "level": 1,
+        "title": "第2章 线性表",
+        "pdf_page": 25
+      },
+      {
+        "level": 2,
+        "title": "2.1  线性表的定义和基本操作",
+        "pdf_page": 25
+      },
+      {
+        "level": 3,
+        "title": "2.1.1  线性表的定义",
+        "pdf_page": 25
+      },
+      {
+        "level": 3,
+        "title": "2.1.2  线性表的基本操作",
+        "pdf_page": 26
+      },
+      {
+        "level": 3,
+        "title": "2.1.3  本节试题精选",
+        "pdf_page": 26
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 26
+      },
+      {
+        "level": 3,
+        "title": "2.1.4  答案与解析",
+        "pdf_page": 26
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 26
+      },
+      {
+        "level": 2,
+        "title": "2.2  线性表的顺序表示",
+        "pdf_page": 27
+      },
+      {
+        "level": 3,
+        "title": "2.2.1  顺序表的定义",
+        "pdf_page": 27
+      },
+      {
+        "level": 3,
+        "title": "2.2.2  顺序表上基本操作的实现",
+        "pdf_page": 28
+      },
+      {
+        "level": 4,
+        "title": "1．顺序表的初始化",
+        "pdf_page": 28
+      },
+      {
+        "level": 4,
+        "title": "2．插入操作",
+        "pdf_page": 29
+      },
+      {
+        "level": 4,
+        "title": "3．删除操作",
+        "pdf_page": 29
+      },
+      {
+        "level": 4,
+        "title": "4．按值查找（顺序查找）",
+        "pdf_page": 30
+      },
+      {
+        "level": 3,
+        "title": "2.2.3  本节试题精选",
+        "pdf_page": 30
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 30
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 32
+      },
+      {
+        "level": 3,
+        "title": "2.2.4  答案与解析",
+        "pdf_page": 33
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 33
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 34
+      },
+      {
+        "level": 2,
+        "title": "2.3  线性表的链式表示",
+        "pdf_page": 42
+      },
+      {
+        "level": 3,
+        "title": "2.3.1  单链表的定义",
+        "pdf_page": 43
+      },
+      {
+        "level": 3,
+        "title": "2.3.2  单链表上基本操作的实现",
+        "pdf_page": 43
+      },
+      {
+        "level": 4,
+        "title": "1．单链表的初始化",
+        "pdf_page": 43
+      },
+      {
+        "level": 4,
+        "title": "2．求表长操作",
+        "pdf_page": 44
+      },
+      {
+        "level": 4,
+        "title": "3．按序号查找结点",
+        "pdf_page": 44
+      },
+      {
+        "level": 4,
+        "title": "4．按值查找表结点",
+        "pdf_page": 44
+      },
+      {
+        "level": 4,
+        "title": "5．插入结点操作",
+        "pdf_page": 45
+      },
+      {
+        "level": 4,
+        "title": "6．删除结点操作",
+        "pdf_page": 45
+      },
+      {
+        "level": 4,
+        "title": "7．采用头插法建立单链表",
+        "pdf_page": 46
+      },
+      {
+        "level": 4,
+        "title": "8．采用尾插法建立单链表",
+        "pdf_page": 47
+      },
+      {
+        "level": 3,
+        "title": "2.3.3  双链表",
+        "pdf_page": 48
+      },
+      {
+        "level": 4,
+        "title": "1．双链表的插入操作",
+        "pdf_page": 48
+      },
+      {
+        "level": 4,
+        "title": "2．双链表的删除操作",
+        "pdf_page": 49
+      },
+      {
+        "level": 3,
+        "title": "2.3.4  循环链表",
+        "pdf_page": 49
+      },
+      {
+        "level": 4,
+        "title": "1．循环单链表",
+        "pdf_page": 49
+      },
+      {
+        "level": 4,
+        "title": "2．循环双链表",
+        "pdf_page": 49
+      },
+      {
+        "level": 3,
+        "title": "2.3.5  静态链表",
+        "pdf_page": 50
+      },
+      {
+        "level": 3,
+        "title": "2.3.6  顺序表和链表的比较",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "1．存取（读/写）方式",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "2．逻辑结构与物理结构",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "3．查找、插入和删除操作",
+        "pdf_page": 51
+      },
+      {
+        "level": 4,
+        "title": "4．空间分配",
+        "pdf_page": 51
+      },
+      {
+        "level": 4,
+        "title": "1．基于存储的考虑",
+        "pdf_page": 51
+      },
+      {
+        "level": 4,
+        "title": "2．基于运算的考虑",
+        "pdf_page": 51
+      },
+      {
+        "level": 4,
+        "title": "3．基于环境的考虑",
+        "pdf_page": 51
+      },
+      {
+        "level": 3,
+        "title": "2.3.7  本节试题精选",
+        "pdf_page": 51
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 51
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 55
+      },
+      {
+        "level": 3,
+        "title": "2.3.8  答案与解析",
+        "pdf_page": 57
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 57
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 61
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 74
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 74
+      },
+      {
+        "level": 1,
+        "title": "第3章 栈、队列和数组",
+        "pdf_page": 75
+      },
+      {
+        "level": 2,
+        "title": "3.1  栈",
+        "pdf_page": 75
+      },
+      {
+        "level": 3,
+        "title": "3.1.1  栈的基本概念",
+        "pdf_page": 75
+      },
+      {
+        "level": 4,
+        "title": "1．栈的定义",
+        "pdf_page": 75
+      },
+      {
+        "level": 4,
+        "title": "2．栈的基本操作",
+        "pdf_page": 76
+      },
+      {
+        "level": 3,
+        "title": "3.1.2  栈的顺序存储结构",
+        "pdf_page": 76
+      },
+      {
+        "level": 4,
+        "title": "1．顺序栈的实现",
+        "pdf_page": 76
+      },
+      {
+        "level": 4,
+        "title": "2．顺序栈的基本操作",
+        "pdf_page": 77
+      },
+      {
+        "level": 4,
+        "title": "3．共享栈",
+        "pdf_page": 78
+      },
+      {
+        "level": 3,
+        "title": "3.1.3  栈的链式存储结构",
+        "pdf_page": 78
+      },
+      {
+        "level": 3,
+        "title": "3.1.4  本节试题精选",
+        "pdf_page": 79
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 79
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 81
+      },
+      {
+        "level": 3,
+        "title": "3.1.5  答案与解析",
+        "pdf_page": 81
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 81
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 85
+      },
+      {
+        "level": 2,
+        "title": "3.2  队列",
+        "pdf_page": 88
+      },
+      {
+        "level": 3,
+        "title": "3.2.1  队列的基本概念",
+        "pdf_page": 88
+      },
+      {
+        "level": 4,
+        "title": "1．队列的定义",
+        "pdf_page": 88
+      },
+      {
+        "level": 4,
+        "title": "2．队列常见的基本操作",
+        "pdf_page": 88
+      },
+      {
+        "level": 3,
+        "title": "3.2.2  队列的顺序存储结构",
+        "pdf_page": 88
+      },
+      {
+        "level": 4,
+        "title": "1．队列的顺序存储",
+        "pdf_page": 88
+      },
+      {
+        "level": 4,
+        "title": "2．循环队列",
+        "pdf_page": 89
+      },
+      {
+        "level": 4,
+        "title": "3．循环队列的操作（基于牺牲一个单元法）",
+        "pdf_page": 90
+      },
+      {
+        "level": 3,
+        "title": "3.2.3  队列的链式存储结构",
+        "pdf_page": 91
+      },
+      {
+        "level": 4,
+        "title": "1．队列的链式存储",
+        "pdf_page": 91
+      },
+      {
+        "level": 4,
+        "title": "2．链式队列的基本操作",
+        "pdf_page": 91
+      },
+      {
+        "level": 3,
+        "title": "3.2.4  双端队列",
+        "pdf_page": 92
+      },
+      {
+        "level": 3,
+        "title": "3.2.5  本节试题精选",
+        "pdf_page": 94
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 94
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 96
+      },
+      {
+        "level": 3,
+        "title": "3.2.6  答案与解析",
+        "pdf_page": 96
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 96
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 99
+      },
+      {
+        "level": 2,
+        "title": "3.3  栈和队列的应用",
+        "pdf_page": 102
+      },
+      {
+        "level": 3,
+        "title": "3.3.1  栈在括号匹配中的应用",
+        "pdf_page": 102
+      },
+      {
+        "level": 3,
+        "title": "3.3.2  栈在表达式求值中的应用",
+        "pdf_page": 102
+      },
+      {
+        "level": 4,
+        "title": "1．算术表达式",
+        "pdf_page": 102
+      },
+      {
+        "level": 4,
+        "title": "2．中缀表达式转后缀表达式 ",
+        "pdf_page": 103
+      },
+      {
+        "level": 4,
+        "title": "3．后缀表达式求值",
+        "pdf_page": 104
+      },
+      {
+        "level": 3,
+        "title": "3.3.3  栈在递归中的应用",
+        "pdf_page": 104
+      },
+      {
+        "level": 3,
+        "title": "3.3.4  队列在层次遍历中的应用",
+        "pdf_page": 105
+      },
+      {
+        "level": 3,
+        "title": "3.3.5  队列在计算机系统中的应用",
+        "pdf_page": 106
+      },
+      {
+        "level": 3,
+        "title": "3.3.6  本节试题精选",
+        "pdf_page": 106
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 106
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 108
+      },
+      {
+        "level": 3,
+        "title": "3.3.7  答案与解析",
+        "pdf_page": 108
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 108
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 112
+      },
+      {
+        "level": 2,
+        "title": "3.4  数组和特殊矩阵",
+        "pdf_page": 112
+      },
+      {
+        "level": 3,
+        "title": "3.4.1  数组的定义",
+        "pdf_page": 112
+      },
+      {
+        "level": 3,
+        "title": "3.4.2  数组的存储结构",
+        "pdf_page": 113
+      },
+      {
+        "level": 3,
+        "title": "3.4.3  特殊矩阵的压缩存储",
+        "pdf_page": 113
+      },
+      {
+        "level": 4,
+        "title": "1．对称矩阵",
+        "pdf_page": 113
+      },
+      {
+        "level": 4,
+        "title": "2．三角矩阵",
+        "pdf_page": 114
+      },
+      {
+        "level": 4,
+        "title": "3．三对角矩阵",
+        "pdf_page": 115
+      },
+      {
+        "level": 3,
+        "title": "3.4.4  稀疏矩阵",
+        "pdf_page": 115
+      },
+      {
+        "level": 3,
+        "title": "3.4.5  本节试题精选",
+        "pdf_page": 116
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 116
+      },
+      {
+        "level": 3,
+        "title": "3.4.6  答案与解析",
+        "pdf_page": 117
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 117
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 120
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 120
+      },
+      {
+        "level": 1,
+        "title": "第4章 串",
+        "pdf_page": 121
+      },
+      {
+        "level": 2,
+        "title": "*4.1  串的定义和实现 ",
+        "pdf_page": 121
+      },
+      {
+        "level": 3,
+        "title": "4.1.1  串的定义",
+        "pdf_page": 121
+      },
+      {
+        "level": 3,
+        "title": "4.1.2  串的基本操作",
+        "pdf_page": 122
+      },
+      {
+        "level": 3,
+        "title": "4.1.3  串的存储结构",
+        "pdf_page": 122
+      },
+      {
+        "level": 4,
+        "title": "1．定长顺序存储表示",
+        "pdf_page": 122
+      },
+      {
+        "level": 4,
+        "title": "2．堆分配存储表示",
+        "pdf_page": 123
+      },
+      {
+        "level": 4,
+        "title": "3．块链存储表示",
+        "pdf_page": 123
+      },
+      {
+        "level": 2,
+        "title": "4.2  串的模式匹配",
+        "pdf_page": 123
+      },
+      {
+        "level": 3,
+        "title": "4.2.1  简单的模式匹配算法",
+        "pdf_page": 123
+      },
+      {
+        "level": 3,
+        "title": "4.2.2  串的模式匹配算法——KMP算法",
+        "pdf_page": 124
+      },
+      {
+        "level": 4,
+        "title": "1．KMP算法的原理",
+        "pdf_page": 125
+      },
+      {
+        "level": 4,
+        "title": "2．next数组的手算方法",
+        "pdf_page": 126
+      },
+      {
+        "level": 4,
+        "title": "*3．next数组的推理公式",
+        "pdf_page": 127
+      },
+      {
+        "level": 4,
+        "title": "4．KMP算法的实现",
+        "pdf_page": 128
+      },
+      {
+        "level": 3,
+        "title": "4.2.3  KMP算法的进一步优化",
+        "pdf_page": 129
+      },
+      {
+        "level": 3,
+        "title": "4.2.4  本节试题精选",
+        "pdf_page": 130
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 130
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 130
+      },
+      {
+        "level": 3,
+        "title": "4.2.5  答案与解析",
+        "pdf_page": 131
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 131
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 133
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 135
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 135
+      },
+      {
+        "level": 1,
+        "title": "第5章 树与二叉树",
+        "pdf_page": 136
+      },
+      {
+        "level": 2,
+        "title": "5.1  树的基本概念",
+        "pdf_page": 136
+      },
+      {
+        "level": 3,
+        "title": "5.1.1  树的定义",
+        "pdf_page": 136
+      },
+      {
+        "level": 3,
+        "title": "5.1.2  基本术语",
+        "pdf_page": 137
+      },
+      {
+        "level": 3,
+        "title": "5.1.3  树的性质",
+        "pdf_page": 138
+      },
+      {
+        "level": 3,
+        "title": "5.1.4  本节试题精选",
+        "pdf_page": 138
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 138
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 139
+      },
+      {
+        "level": 3,
+        "title": "5.1.5  答案与解析",
+        "pdf_page": 139
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 139
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 141
+      },
+      {
+        "level": 2,
+        "title": "5.2  二叉树的概念",
+        "pdf_page": 141
+      },
+      {
+        "level": 3,
+        "title": "5.2.1  二叉树的定义及其主要特性",
+        "pdf_page": 141
+      },
+      {
+        "level": 4,
+        "title": "1．二叉树的定义",
+        "pdf_page": 141
+      },
+      {
+        "level": 4,
+        "title": "2．几种特殊的二叉树",
+        "pdf_page": 142
+      },
+      {
+        "level": 4,
+        "title": "3．二叉树的性质",
+        "pdf_page": 142
+      },
+      {
+        "level": 3,
+        "title": "5.2.2  二叉树的存储结构",
+        "pdf_page": 143
+      },
+      {
+        "level": 4,
+        "title": "1．顺序存储结构",
+        "pdf_page": 143
+      },
+      {
+        "level": 4,
+        "title": "2．链式存储结构",
+        "pdf_page": 144
+      },
+      {
+        "level": 3,
+        "title": "5.2.3  本节试题精选",
+        "pdf_page": 145
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 145
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 147
+      },
+      {
+        "level": 3,
+        "title": "5.2.4  答案与解析",
+        "pdf_page": 147
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 147
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 150
+      },
+      {
+        "level": 2,
+        "title": "5.3  二叉树的遍历和线索二叉树",
+        "pdf_page": 152
+      },
+      {
+        "level": 3,
+        "title": "5.3.1  二叉树的遍历",
+        "pdf_page": 152
+      },
+      {
+        "level": 4,
+        "title": "1．先序遍历（PreOrder）",
+        "pdf_page": 152
+      },
+      {
+        "level": 4,
+        "title": "2．中序遍历（InOrder）",
+        "pdf_page": 153
+      },
+      {
+        "level": 4,
+        "title": "3．后序遍历（PostOrder）",
+        "pdf_page": 153
+      },
+      {
+        "level": 4,
+        "title": "4．层次遍历",
+        "pdf_page": 153
+      },
+      {
+        "level": 4,
+        "title": "5．由遍历序列构造二叉树",
+        "pdf_page": 154
+      },
+      {
+        "level": 3,
+        "title": "5.3.2  线索二叉树",
+        "pdf_page": 155
+      },
+      {
+        "level": 4,
+        "title": "1．线索二叉树的基本概念",
+        "pdf_page": 155
+      },
+      {
+        "level": 4,
+        "title": "2．中序线索二叉树的构造",
+        "pdf_page": 156
+      },
+      {
+        "level": 4,
+        "title": "3．中序线索二叉树的遍历",
+        "pdf_page": 157
+      },
+      {
+        "level": 4,
+        "title": "4．先序线索二叉树和后序线索二叉树",
+        "pdf_page": 158
+      },
+      {
+        "level": 3,
+        "title": "5.3.3  本节试题精选",
+        "pdf_page": 158
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 158
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 162
+      },
+      {
+        "level": 3,
+        "title": "5.3.4  答案与解析",
+        "pdf_page": 164
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 164
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 170
+      },
+      {
+        "level": 2,
+        "title": "5.4  树、森林",
+        "pdf_page": 180
+      },
+      {
+        "level": 3,
+        "title": "5.4.1  树的存储结构",
+        "pdf_page": 180
+      },
+      {
+        "level": 4,
+        "title": "1．双亲表示法",
+        "pdf_page": 180
+      },
+      {
+        "level": 4,
+        "title": "2．孩子表示法",
+        "pdf_page": 181
+      },
+      {
+        "level": 4,
+        "title": "3．孩子兄弟表示法",
+        "pdf_page": 181
+      },
+      {
+        "level": 3,
+        "title": "5.4.2  树、森林与二叉树的转换",
+        "pdf_page": 182
+      },
+      {
+        "level": 4,
+        "title": "1．树转换为二叉树",
+        "pdf_page": 182
+      },
+      {
+        "level": 4,
+        "title": "2．森林转换为二叉树",
+        "pdf_page": 182
+      },
+      {
+        "level": 4,
+        "title": "3．二叉树转换为森林",
+        "pdf_page": 183
+      },
+      {
+        "level": 3,
+        "title": "5.4.3  树和森林的遍历",
+        "pdf_page": 183
+      },
+      {
+        "level": 4,
+        "title": "1．树的遍历",
+        "pdf_page": 183
+      },
+      {
+        "level": 4,
+        "title": "2．森林的遍历",
+        "pdf_page": 183
+      },
+      {
+        "level": 3,
+        "title": "5.4.4  本节试题精选",
+        "pdf_page": 184
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 184
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 186
+      },
+      {
+        "level": 3,
+        "title": "5.4.5  答案与解析",
+        "pdf_page": 187
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 187
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 191
+      },
+      {
+        "level": 2,
+        "title": "5.5  树与二叉树的应用",
+        "pdf_page": 192
+      },
+      {
+        "level": 3,
+        "title": "5.5.1  哈夫曼树和哈夫曼编码",
+        "pdf_page": 192
+      },
+      {
+        "level": 4,
+        "title": "1．哈夫曼树的定义",
+        "pdf_page": 192
+      },
+      {
+        "level": 4,
+        "title": "2．哈夫曼树的构造",
+        "pdf_page": 193
+      },
+      {
+        "level": 4,
+        "title": "3．哈夫曼编码",
+        "pdf_page": 194
+      },
+      {
+        "level": 3,
+        "title": "5.5.2  并查集",
+        "pdf_page": 195
+      },
+      {
+        "level": 4,
+        "title": "1．并查集的概念",
+        "pdf_page": 195
+      },
+      {
+        "level": 4,
+        "title": "2．并查集的存储结构",
+        "pdf_page": 195
+      },
+      {
+        "level": 4,
+        "title": "3．并查集的基本实现",
+        "pdf_page": 195
+      },
+      {
+        "level": 4,
+        "title": "4．并查集实现的优化",
+        "pdf_page": 196
+      },
+      {
+        "level": 3,
+        "title": "5.5.3  本节试题精选",
+        "pdf_page": 197
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 197
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 199
+      },
+      {
+        "level": 3,
+        "title": "5.5.4  答案与解析",
+        "pdf_page": 199
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 199
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 203
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 204
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 205
+      },
+      {
+        "level": 1,
+        "title": "第6章 图",
+        "pdf_page": 207
+      },
+      {
+        "level": 2,
+        "title": "6.1　图的基本概念",
+        "pdf_page": 206
+      },
+      {
+        "level": 3,
+        "title": "6.1.1　图的定义",
+        "pdf_page": 206
+      },
+      {
+        "level": 4,
+        "title": "1．有向图",
+        "pdf_page": 208
+      },
+      {
+        "level": 4,
+        "title": "2．无向图",
+        "pdf_page": 208
+      },
+      {
+        "level": 4,
+        "title": "3．简单图、多重图",
+        "pdf_page": 208
+      },
+      {
+        "level": 4,
+        "title": "4．顶点的度、入度和出度",
+        "pdf_page": 208
+      },
+      {
+        "level": 4,
+        "title": "5．路径、路径长度和回路",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "6．简单路径、简单回路",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "7．距离",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "8．子图",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "9．连通、连通图和连通分量",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "10．强连通图、强连通分量",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "11．生成树、生成森林",
+        "pdf_page": 210
+      },
+      {
+        "level": 4,
+        "title": "12．边的权、网和带权路径长度",
+        "pdf_page": 210
+      },
+      {
+        "level": 4,
+        "title": "13．完全图（也称简单完全图）",
+        "pdf_page": 210
+      },
+      {
+        "level": 4,
+        "title": "14．稠密图、稀疏图",
+        "pdf_page": 210
+      },
+      {
+        "level": 4,
+        "title": "15．有向树",
+        "pdf_page": 210
+      },
+      {
+        "level": 3,
+        "title": "6.1.2　本节试题精选",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 209
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 211
+      },
+      {
+        "level": 3,
+        "title": "6.1.3　答案与解析",
+        "pdf_page": 211
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 211
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 213
+      },
+      {
+        "level": 2,
+        "title": "6.2　图的存储及基本操作",
+        "pdf_page": 213
+      },
+      {
+        "level": 3,
+        "title": "6.2.1　邻接矩阵法",
+        "pdf_page": 213
+      },
+      {
+        "level": 3,
+        "title": "6.2.2　邻接表法",
+        "pdf_page": 215
+      },
+      {
+        "level": 3,
+        "title": "6.2.3　十字链表",
+        "pdf_page": 216
+      },
+      {
+        "level": 3,
+        "title": "6.2.4　邻接多重表",
+        "pdf_page": 217
+      },
+      {
+        "level": 3,
+        "title": "6.2.5　图的基本操作",
+        "pdf_page": 218
+      },
+      {
+        "level": 3,
+        "title": "6.2.6　本节试题精选",
+        "pdf_page": 218
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 218
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 220
+      },
+      {
+        "level": 3,
+        "title": "6.2.7　答案与解析",
+        "pdf_page": 222
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 222
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 224
+      },
+      {
+        "level": 2,
+        "title": "6.3　图的遍历",
+        "pdf_page": 226
+      },
+      {
+        "level": 3,
+        "title": "6.3.1　广度优先搜索",
+        "pdf_page": 226
+      },
+      {
+        "level": 4,
+        "title": "1．BFS算法的性能分析",
+        "pdf_page": 229
+      },
+      {
+        "level": 4,
+        "title": "2．BFS算法求解单源最短路径问题",
+        "pdf_page": 229
+      },
+      {
+        "level": 4,
+        "title": "3．广度优先生成树",
+        "pdf_page": 229
+      },
+      {
+        "level": 3,
+        "title": "6.3.2　深度优先搜索",
+        "pdf_page": 229
+      },
+      {
+        "level": 4,
+        "title": "1．DFS算法的性能分析",
+        "pdf_page": 231
+      },
+      {
+        "level": 4,
+        "title": "2．深度优先的生成树和生成森林",
+        "pdf_page": 231
+      },
+      {
+        "level": 3,
+        "title": "6.3.3　图的遍历与图的连通性",
+        "pdf_page": 230
+      },
+      {
+        "level": 3,
+        "title": "6.3.4　本节试题精选",
+        "pdf_page": 230
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 230
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 232
+      },
+      {
+        "level": 3,
+        "title": "6.3.5　答案与解析",
+        "pdf_page": 233
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 233
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 235
+      },
+      {
+        "level": 2,
+        "title": "6.4　图的应用",
+        "pdf_page": 238
+      },
+      {
+        "level": 3,
+        "title": "6.4.1　最小生成树",
+        "pdf_page": 238
+      },
+      {
+        "level": 4,
+        "title": "1．Prim算法",
+        "pdf_page": 240
+      },
+      {
+        "level": 4,
+        "title": "2．Kruskal算法",
+        "pdf_page": 240
+      },
+      {
+        "level": 3,
+        "title": "6.4.2　最短路径",
+        "pdf_page": 240
+      },
+      {
+        "level": 4,
+        "title": "1．Dijkstra算法求单源最短路径问题",
+        "pdf_page": 242
+      },
+      {
+        "level": 4,
+        "title": "2．Floyd算法求各顶点之间最短路径问题",
+        "pdf_page": 243
+      },
+      {
+        "level": 3,
+        "title": "6.4.3　有向无环图描述表达式",
+        "pdf_page": 244
+      },
+      {
+        "level": 3,
+        "title": "6.4.4　拓扑排序",
+        "pdf_page": 244
+      },
+      {
+        "level": 3,
+        "title": "6.4.5　关键路径",
+        "pdf_page": 246
+      },
+      {
+        "level": 4,
+        "title": "1．事件vk的最早发生时间ve(k)",
+        "pdf_page": 248
+      },
+      {
+        "level": 4,
+        "title": "2．事件vk的最迟发生时间vl(k)",
+        "pdf_page": 248
+      },
+      {
+        "level": 4,
+        "title": "3．活动ai的最早开始时间e(i)",
+        "pdf_page": 248
+      },
+      {
+        "level": 4,
+        "title": "4．活动ai的最迟开始时间l(i)",
+        "pdf_page": 249
+      },
+      {
+        "level": 4,
+        "title": "5．一个活动ai的最迟开始时间l(i)与其最早开始时间e(i)的差额：",
+        "pdf_page": 249
+      },
+      {
+        "level": 3,
+        "title": "6.4.6　本节试题精选",
+        "pdf_page": 249
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 249
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 255
+      },
+      {
+        "level": 3,
+        "title": "6.4.7　答案与解析",
+        "pdf_page": 258
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 258
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 265
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 274
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 275
+      },
+      {
+        "level": 1,
+        "title": "第7章 查找",
+        "pdf_page": 276
+      },
+      {
+        "level": 2,
+        "title": "7.1  查找的基本概念",
+        "pdf_page": 276
+      },
+      {
+        "level": 2,
+        "title": "7.2  顺序查找和折半查找",
+        "pdf_page": 277
+      },
+      {
+        "level": 3,
+        "title": "7.2.1  顺序查找",
+        "pdf_page": 277
+      },
+      {
+        "level": 4,
+        "title": "1．一般线性表的顺序查找",
+        "pdf_page": 278
+      },
+      {
+        "level": 4,
+        "title": "2．有序线性表的顺序查找",
+        "pdf_page": 279
+      },
+      {
+        "level": 3,
+        "title": "7.2.2  折半查找",
+        "pdf_page": 279
+      },
+      {
+        "level": 3,
+        "title": "7.2.3  分块查找",
+        "pdf_page": 280
+      },
+      {
+        "level": 3,
+        "title": "7.2.4  本节试题精选",
+        "pdf_page": 281
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 281
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 283
+      },
+      {
+        "level": 3,
+        "title": "7.2.5  答案与解析",
+        "pdf_page": 284
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 284
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 288
+      },
+      {
+        "level": 2,
+        "title": "7.3  树形查找",
+        "pdf_page": 290
+      },
+      {
+        "level": 3,
+        "title": "7.3.1  二叉排序树（BST）",
+        "pdf_page": 290
+      },
+      {
+        "level": 4,
+        "title": "1．二叉排序树的定义",
+        "pdf_page": 292
+      },
+      {
+        "level": 4,
+        "title": "2．二叉排序树的查找",
+        "pdf_page": 292
+      },
+      {
+        "level": 4,
+        "title": "3．二叉排序树的插入",
+        "pdf_page": 292
+      },
+      {
+        "level": 4,
+        "title": "4．二叉排序树的构造",
+        "pdf_page": 293
+      },
+      {
+        "level": 4,
+        "title": "5．二叉排序树的删除",
+        "pdf_page": 293
+      },
+      {
+        "level": 4,
+        "title": "6．二叉排序树的查找效率分析",
+        "pdf_page": 294
+      },
+      {
+        "level": 3,
+        "title": "7.3.2  平衡二叉树",
+        "pdf_page": 294
+      },
+      {
+        "level": 4,
+        "title": "1．平衡二叉树的定义",
+        "pdf_page": 295
+      },
+      {
+        "level": 4,
+        "title": "2．平衡二叉树的插入",
+        "pdf_page": 296
+      },
+      {
+        "level": 4,
+        "title": "3．平衡二叉树的删除",
+        "pdf_page": 298
+      },
+      {
+        "level": 4,
+        "title": "4．平衡二叉树的查找",
+        "pdf_page": 299
+      },
+      {
+        "level": 3,
+        "title": "7.3.3  红黑树",
+        "pdf_page": 298
+      },
+      {
+        "level": 4,
+        "title": "1．红黑树的定义",
+        "pdf_page": 299
+      },
+      {
+        "level": 4,
+        "title": "2．红黑树的插入",
+        "pdf_page": 300
+      },
+      {
+        "level": 4,
+        "title": "*3．红黑树的删除",
+        "pdf_page": 302
+      },
+      {
+        "level": 3,
+        "title": "7.3.4  本节试题精选",
+        "pdf_page": 303
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 303
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 306
+      },
+      {
+        "level": 3,
+        "title": "7.3.5  答案与解析",
+        "pdf_page": 307
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 307
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 313
+      },
+      {
+        "level": 2,
+        "title": "7.4  B树 和B+树",
+        "pdf_page": 316
+      },
+      {
+        "level": 3,
+        "title": "7.4.1  B树及其基本操作",
+        "pdf_page": 317
+      },
+      {
+        "level": 4,
+        "title": "1．B树的查找",
+        "pdf_page": 319
+      },
+      {
+        "level": 4,
+        "title": "2．B树的高度（磁盘存取次数）",
+        "pdf_page": 319
+      },
+      {
+        "level": 4,
+        "title": "3．B树的插入",
+        "pdf_page": 320
+      },
+      {
+        "level": 4,
+        "title": "4．B树的删除",
+        "pdf_page": 320
+      },
+      {
+        "level": 3,
+        "title": "7.4.2  B+树的基本概念",
+        "pdf_page": 320
+      },
+      {
+        "level": 3,
+        "title": "7.4.3  本节试题精选",
+        "pdf_page": 321
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 321
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 323
+      },
+      {
+        "level": 3,
+        "title": "7.4.4  答案与解析",
+        "pdf_page": 323
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 323
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 327
+      },
+      {
+        "level": 2,
+        "title": "7.5  散列（Hash）表",
+        "pdf_page": 329
+      },
+      {
+        "level": 3,
+        "title": "7.5.1  散列表的基本概念",
+        "pdf_page": 329
+      },
+      {
+        "level": 3,
+        "title": "7.5.2  散列函数的构造方法",
+        "pdf_page": 330
+      },
+      {
+        "level": 4,
+        "title": "1．直接定址法",
+        "pdf_page": 332
+      },
+      {
+        "level": 4,
+        "title": "2．除留余数法",
+        "pdf_page": 332
+      },
+      {
+        "level": 4,
+        "title": "3．数字分析法",
+        "pdf_page": 332
+      },
+      {
+        "level": 4,
+        "title": "4．平方取中法",
+        "pdf_page": 332
+      },
+      {
+        "level": 3,
+        "title": "7.5.3  处理冲突的方法",
+        "pdf_page": 330
+      },
+      {
+        "level": 4,
+        "title": "1．开放定址法",
+        "pdf_page": 333
+      },
+      {
+        "level": 4,
+        "title": "2．拉链法（链接法，chaining）",
+        "pdf_page": 333
+      },
+      {
+        "level": 3,
+        "title": "7.5.4  散列查找及性能分析的应用",
+        "pdf_page": 332
+      },
+      {
+        "level": 3,
+        "title": "7.5.5  本节试题精选",
+        "pdf_page": 333
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 333
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 335
+      },
+      {
+        "level": 3,
+        "title": "7.5.6  答案与解析",
+        "pdf_page": 336
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 336
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 339
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 342
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 342
+      },
+      {
+        "level": 1,
+        "title": "第8章 排序",
+        "pdf_page": 343
+      },
+      {
+        "level": 2,
+        "title": "8.1  排序的基本概念",
+        "pdf_page": 343
+      },
+      {
+        "level": 3,
+        "title": "8.1.1  排序的定义",
+        "pdf_page": 343
+      },
+      {
+        "level": 3,
+        "title": "8.1.2  本节试题精选",
+        "pdf_page": 344
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 344
+      },
+      {
+        "level": 3,
+        "title": "8.1.3  答案与解析",
+        "pdf_page": 344
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 344
+      },
+      {
+        "level": 2,
+        "title": "8.2  插入排序",
+        "pdf_page": 345
+      },
+      {
+        "level": 3,
+        "title": "8.2.1  直接插入排序 ",
+        "pdf_page": 345
+      },
+      {
+        "level": 3,
+        "title": "8.2.2  折半插入排序",
+        "pdf_page": 346
+      },
+      {
+        "level": 3,
+        "title": "8.2.3  希尔排序",
+        "pdf_page": 347
+      },
+      {
+        "level": 3,
+        "title": "8.2.4  本节试题精选",
+        "pdf_page": 348
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 348
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 349
+      },
+      {
+        "level": 3,
+        "title": "8.2.5  答案与解析",
+        "pdf_page": 350
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 350
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 351
+      },
+      {
+        "level": 2,
+        "title": "8.3  交换排序",
+        "pdf_page": 352
+      },
+      {
+        "level": 3,
+        "title": "8.3.1  冒泡排序",
+        "pdf_page": 352
+      },
+      {
+        "level": 3,
+        "title": "8.3.2  快速排序",
+        "pdf_page": 353
+      },
+      {
+        "level": 3,
+        "title": "8.3.3  本节试题精选",
+        "pdf_page": 356
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 356
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 357
+      },
+      {
+        "level": 3,
+        "title": "8.3.4  答案与解析",
+        "pdf_page": 358
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 358
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 360
+      },
+      {
+        "level": 2,
+        "title": "8.4  选择排序",
+        "pdf_page": 363
+      },
+      {
+        "level": 3,
+        "title": "8.4.1  简单选择排序",
+        "pdf_page": 363
+      },
+      {
+        "level": 3,
+        "title": "8.4.2  堆排序",
+        "pdf_page": 363
+      },
+      {
+        "level": 3,
+        "title": "8.4.3  本节试题精选",
+        "pdf_page": 366
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 366
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 368
+      },
+      {
+        "level": 3,
+        "title": "8.4.4  答案与解析",
+        "pdf_page": 369
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 369
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 372
+      },
+      {
+        "level": 2,
+        "title": "8.5  归并排序、基数排序和计数排序",
+        "pdf_page": 375
+      },
+      {
+        "level": 3,
+        "title": "8.5.1  归并排序",
+        "pdf_page": 375
+      },
+      {
+        "level": 3,
+        "title": "8.5.2  基数排序",
+        "pdf_page": 377
+      },
+      {
+        "level": 3,
+        "title": "*8.5.3  计数排序",
+        "pdf_page": 378
+      },
+      {
+        "level": 3,
+        "title": "8.5.4  本节试题精选",
+        "pdf_page": 379
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 379
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 381
+      },
+      {
+        "level": 3,
+        "title": "8.5.5  答案与解析",
+        "pdf_page": 382
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 382
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 384
+      },
+      {
+        "level": 2,
+        "title": "8.6  各种内部排序算法的比较及应用",
+        "pdf_page": 385
+      },
+      {
+        "level": 3,
+        "title": "8.6.1  内部排序算法的比较",
+        "pdf_page": 385
+      },
+      {
+        "level": 3,
+        "title": "8.6.2  内部排序算法的应用",
+        "pdf_page": 386
+      },
+      {
+        "level": 4,
+        "title": "1．选取排序算法需要考虑的因素",
+        "pdf_page": 389
+      },
+      {
+        "level": 4,
+        "title": "2．排序算法选型小结",
+        "pdf_page": 389
+      },
+      {
+        "level": 3,
+        "title": "8.6.3  本节试题精选",
+        "pdf_page": 386
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 386
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 389
+      },
+      {
+        "level": 3,
+        "title": "8.6.4  答案与解析",
+        "pdf_page": 389
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 389
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 391
+      },
+      {
+        "level": 2,
+        "title": "8.7  外部排序",
+        "pdf_page": 392
+      },
+      {
+        "level": 3,
+        "title": "8.7.1  外部排序的基本概念",
+        "pdf_page": 392
+      },
+      {
+        "level": 3,
+        "title": "8.7.2  外部排序的方法",
+        "pdf_page": 393
+      },
+      {
+        "level": 3,
+        "title": "8.7.3  多路平衡归并与败者树",
+        "pdf_page": 394
+      },
+      {
+        "level": 3,
+        "title": "8.7.4  置换-选择排序（生成初始归并段）",
+        "pdf_page": 395
+      },
+      {
+        "level": 3,
+        "title": "8.7.5  最佳归并树",
+        "pdf_page": 396
+      },
+      {
+        "level": 3,
+        "title": "8.7.6  本节试题精选",
+        "pdf_page": 397
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 397
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 398
+      },
+      {
+        "level": 3,
+        "title": "8.7.7  答案与解析",
+        "pdf_page": 398
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 398
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 400
+      },
+      {
+        "level": 2,
+        "title": "归纳总结",
+        "pdf_page": 402
+      },
+      {
+        "level": 2,
+        "title": "思维拓展",
+        "pdf_page": 403
+      }
+    ],
+    "extraction": {
+      "needs-visual-check": 403,
+      "text-layer": 1
+    }
+  },
+  {
+    "id": "60d6d232ac27",
+    "path": "materials/27王道《计算机组成原理》高清带书签.pdf",
+    "title": "27王道《计算机组成原理》高清带书签",
+    "bytes": 208734016,
+    "sha256": "c3f0a43437d09f722c59923e3b05070e445707d417d5144ba07a5596f66a29d3",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/60d6d232ac27/p0001-0006.md",
+      "knowledge/60d6d232ac27/p0007-0012.md",
+      "knowledge/60d6d232ac27/p0013-0018.md",
+      "knowledge/60d6d232ac27/p0019-0024.md",
+      "knowledge/60d6d232ac27/p0025-0030.md",
+      "knowledge/60d6d232ac27/p0031-0036.md",
+      "knowledge/60d6d232ac27/p0037-0042.md",
+      "knowledge/60d6d232ac27/p0043-0048.md",
+      "knowledge/60d6d232ac27/p0049-0054.md",
+      "knowledge/60d6d232ac27/p0055-0060.md",
+      "knowledge/60d6d232ac27/p0061-0066.md",
+      "knowledge/60d6d232ac27/p0067-0072.md",
+      "knowledge/60d6d232ac27/p0073-0078.md",
+      "knowledge/60d6d232ac27/p0079-0084.md",
+      "knowledge/60d6d232ac27/p0085-0090.md",
+      "knowledge/60d6d232ac27/p0091-0096.md",
+      "knowledge/60d6d232ac27/p0097-0102.md",
+      "knowledge/60d6d232ac27/p0103-0108.md",
+      "knowledge/60d6d232ac27/p0109-0114.md",
+      "knowledge/60d6d232ac27/p0115-0120.md",
+      "knowledge/60d6d232ac27/p0121-0126.md",
+      "knowledge/60d6d232ac27/p0127-0132.md",
+      "knowledge/60d6d232ac27/p0133-0138.md",
+      "knowledge/60d6d232ac27/p0139-0144.md",
+      "knowledge/60d6d232ac27/p0145-0150.md",
+      "knowledge/60d6d232ac27/p0151-0156.md",
+      "knowledge/60d6d232ac27/p0157-0162.md",
+      "knowledge/60d6d232ac27/p0163-0168.md",
+      "knowledge/60d6d232ac27/p0169-0174.md",
+      "knowledge/60d6d232ac27/p0175-0180.md",
+      "knowledge/60d6d232ac27/p0181-0186.md",
+      "knowledge/60d6d232ac27/p0187-0192.md",
+      "knowledge/60d6d232ac27/p0193-0198.md",
+      "knowledge/60d6d232ac27/p0199-0204.md",
+      "knowledge/60d6d232ac27/p0205-0210.md",
+      "knowledge/60d6d232ac27/p0211-0216.md",
+      "knowledge/60d6d232ac27/p0217-0222.md",
+      "knowledge/60d6d232ac27/p0223-0228.md",
+      "knowledge/60d6d232ac27/p0229-0234.md",
+      "knowledge/60d6d232ac27/p0235-0240.md",
+      "knowledge/60d6d232ac27/p0241-0246.md",
+      "knowledge/60d6d232ac27/p0247-0252.md",
+      "knowledge/60d6d232ac27/p0253-0258.md",
+      "knowledge/60d6d232ac27/p0259-0264.md",
+      "knowledge/60d6d232ac27/p0265-0270.md",
+      "knowledge/60d6d232ac27/p0271-0276.md",
+      "knowledge/60d6d232ac27/p0277-0282.md",
+      "knowledge/60d6d232ac27/p0283-0288.md",
+      "knowledge/60d6d232ac27/p0289-0294.md",
+      "knowledge/60d6d232ac27/p0295-0300.md",
+      "knowledge/60d6d232ac27/p0301-0306.md",
+      "knowledge/60d6d232ac27/p0307-0312.md",
+      "knowledge/60d6d232ac27/p0313-0318.md",
+      "knowledge/60d6d232ac27/p0319-0324.md",
+      "knowledge/60d6d232ac27/p0325-0330.md",
+      "knowledge/60d6d232ac27/p0331-0336.md",
+      "knowledge/60d6d232ac27/p0337-0340.md"
+    ],
+    "pages": 340,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "第1章  计算机系统概述",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "1.1  计算机发展历程",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "1.1.1  计算机硬件的发展",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "1.1.2  计算机软件的发展",
+        "pdf_page": 14
+      },
+      {
+        "level": 2,
+        "title": "1.2  计算机系统层次结构",
+        "pdf_page": 14
+      },
+      {
+        "level": 3,
+        "title": "1.2.1  计算机系统的组成",
+        "pdf_page": 14
+      },
+      {
+        "level": 3,
+        "title": "1.2.2  计算机硬件",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "1.2.3  计算机软件",
+        "pdf_page": 16
+      },
+      {
+        "level": 3,
+        "title": "1.2.4  计算机系统的层次结构",
+        "pdf_page": 16
+      },
+      {
+        "level": 3,
+        "title": "1.2.5  计算机系统的不同用户",
+        "pdf_page": 18
+      },
+      {
+        "level": 3,
+        "title": "1.2.6  计算机系统的工作原理",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "1.2.7  本节习题精选",
+        "pdf_page": 20
+      },
+      {
+        "level": 3,
+        "title": "1.2.8  答案与解析",
+        "pdf_page": 21
+      },
+      {
+        "level": 2,
+        "title": "1.3  计算机的性能指标",
+        "pdf_page": 23
+      },
+      {
+        "level": 3,
+        "title": "1.3.1  计算机的主要性能指标",
+        "pdf_page": 23
+      },
+      {
+        "level": 3,
+        "title": "1.3.2  本节习题精选",
+        "pdf_page": 25
+      },
+      {
+        "level": 3,
+        "title": "1.3.3  答案与解析",
+        "pdf_page": 27
+      },
+      {
+        "level": 2,
+        "title": "1.4  本章小结",
+        "pdf_page": 30
+      },
+      {
+        "level": 2,
+        "title": "1.5  常见问题和易混淆知识点",
+        "pdf_page": 30
+      },
+      {
+        "level": 1,
+        "title": "第2章  数据的表示和运算",
+        "pdf_page": 32
+      },
+      {
+        "level": 2,
+        "title": "2.1  数制与编码",
+        "pdf_page": 32
+      },
+      {
+        "level": 3,
+        "title": "2.1.1  进位计数制及其相互转换",
+        "pdf_page": 32
+      },
+      {
+        "level": 3,
+        "title": "2.1.2  定点数的编码表示",
+        "pdf_page": 34
+      },
+      {
+        "level": 3,
+        "title": "2.1.3  整数的表示",
+        "pdf_page": 37
+      },
+      {
+        "level": 3,
+        "title": "2.1.4  C语言中的整数类型及类型转换",
+        "pdf_page": 37
+      },
+      {
+        "level": 3,
+        "title": "2.1.5  本节习题精选",
+        "pdf_page": 39
+      },
+      {
+        "level": 3,
+        "title": "2.1.6  答案与解析",
+        "pdf_page": 41
+      },
+      {
+        "level": 2,
+        "title": "2.2  运算方法和运算电路",
+        "pdf_page": 44
+      },
+      {
+        "level": 3,
+        "title": "2.2.1  基本运算部件",
+        "pdf_page": 44
+      },
+      {
+        "level": 3,
+        "title": "2.2.2  定点数的移位运算",
+        "pdf_page": 47
+      },
+      {
+        "level": 3,
+        "title": "2.2.3  定点数的加减运算",
+        "pdf_page": 47
+      },
+      {
+        "level": 3,
+        "title": "2.2.4  定点数的乘除运算",
+        "pdf_page": 51
+      },
+      {
+        "level": 3,
+        "title": "2.2.5  本节习题精选",
+        "pdf_page": 56
+      },
+      {
+        "level": 3,
+        "title": "2.2.6  答案与解析",
+        "pdf_page": 60
+      },
+      {
+        "level": 2,
+        "title": "2.3  浮点数的表示与运算",
+        "pdf_page": 65
+      },
+      {
+        "level": 3,
+        "title": "2.3.1  IEEE754标准的浮点数",
+        "pdf_page": 66
+      },
+      {
+        "level": 3,
+        "title": "2.3.2  浮点数的加减运算",
+        "pdf_page": 68
+      },
+      {
+        "level": 3,
+        "title": "2.3.3  C语言中的浮点数类型",
+        "pdf_page": 70
+      },
+      {
+        "level": 3,
+        "title": "2.3.4  数据的宽度和存储",
+        "pdf_page": 71
+      },
+      {
+        "level": 3,
+        "title": "2.3.5  本节习题精选",
+        "pdf_page": 73
+      },
+      {
+        "level": 3,
+        "title": "2.3.6  答案与解析",
+        "pdf_page": 78
+      },
+      {
+        "level": 2,
+        "title": "2.4  本章小结",
+        "pdf_page": 87
+      },
+      {
+        "level": 2,
+        "title": "2.5  常见问题和易混淆知识点",
+        "pdf_page": 87
+      },
+      {
+        "level": 1,
+        "title": "第3章  存储系统",
+        "pdf_page": 89
+      },
+      {
+        "level": 2,
+        "title": "3.1  存储器概述",
+        "pdf_page": 89
+      },
+      {
+        "level": 3,
+        "title": "3.1.1  存储器的分类",
+        "pdf_page": 89
+      },
+      {
+        "level": 3,
+        "title": "3.1.2  主存储器的组成和基本操作",
+        "pdf_page": 90
+      },
+      {
+        "level": 3,
+        "title": "3.1.3  存储器的层次化结构",
+        "pdf_page": 91
+      },
+      {
+        "level": 3,
+        "title": "3.1.4  存储器的主要性能指标",
+        "pdf_page": 91
+      },
+      {
+        "level": 3,
+        "title": "3.1.5  本节习题精选",
+        "pdf_page": 92
+      },
+      {
+        "level": 3,
+        "title": "3.1.6  答案与解析",
+        "pdf_page": 93
+      },
+      {
+        "level": 2,
+        "title": "3.2  主存储器",
+        "pdf_page": 94
+      },
+      {
+        "level": 3,
+        "title": "3.2.1  半导体随机存取存储器",
+        "pdf_page": 94
+      },
+      {
+        "level": 3,
+        "title": "3.2.2  非易失性存储器",
+        "pdf_page": 97
+      },
+      {
+        "level": 3,
+        "title": "3.2.3  多模块存储器",
+        "pdf_page": 97
+      },
+      {
+        "level": 3,
+        "title": "3.2.4  本节习题精选",
+        "pdf_page": 99
+      },
+      {
+        "level": 3,
+        "title": "3.2.5  答案与解析",
+        "pdf_page": 104
+      },
+      {
+        "level": 2,
+        "title": "3.3  主存储器与CPU的连接",
+        "pdf_page": 109
+      },
+      {
+        "level": 3,
+        "title": "3.3.1  连接原理",
+        "pdf_page": 109
+      },
+      {
+        "level": 3,
+        "title": "3.3.2  主存容量的扩展",
+        "pdf_page": 109
+      },
+      {
+        "level": 3,
+        "title": "3.3.3  本节习题精选",
+        "pdf_page": 111
+      },
+      {
+        "level": 3,
+        "title": "3.3.4  答案与解析",
+        "pdf_page": 112
+      },
+      {
+        "level": 2,
+        "title": "3.4  外部存储器",
+        "pdf_page": 114
+      },
+      {
+        "level": 3,
+        "title": "3.4.1  磁盘存储器",
+        "pdf_page": 114
+      },
+      {
+        "level": 3,
+        "title": "3.4.2  固态硬盘",
+        "pdf_page": 116
+      },
+      {
+        "level": 3,
+        "title": "3.4.3  本节习题精选",
+        "pdf_page": 117
+      },
+      {
+        "level": 3,
+        "title": "3.4.4  答案与解析",
+        "pdf_page": 119
+      },
+      {
+        "level": 2,
+        "title": "3.5  高速缓冲存储器",
+        "pdf_page": 121
+      },
+      {
+        "level": 3,
+        "title": "3.5.1  程序访问的局部性原理",
+        "pdf_page": 121
+      },
+      {
+        "level": 3,
+        "title": "3.5.2  Cache的基本工作原理",
+        "pdf_page": 122
+      },
+      {
+        "level": 3,
+        "title": "3.5.3  Cache和主存的映射方式",
+        "pdf_page": 123
+      },
+      {
+        "level": 3,
+        "title": "3.5.4  Cache中主存块的替换算法",
+        "pdf_page": 126
+      },
+      {
+        "level": 3,
+        "title": "3.5.5  Cache的一致性问题",
+        "pdf_page": 127
+      },
+      {
+        "level": 3,
+        "title": "3.5.6  Cache容量的计算举例",
+        "pdf_page": 127
+      },
+      {
+        "level": 3,
+        "title": "3.5.7  Cache的应用",
+        "pdf_page": 128
+      },
+      {
+        "level": 3,
+        "title": "3.5.8  本节习题精选",
+        "pdf_page": 129
+      },
+      {
+        "level": 3,
+        "title": "3.5.9  答案与解析",
+        "pdf_page": 134
+      },
+      {
+        "level": 2,
+        "title": "3.6  虚拟存储器",
+        "pdf_page": 142
+      },
+      {
+        "level": 3,
+        "title": "3.6.1  虚拟存储器的基本概念",
+        "pdf_page": 142
+      },
+      {
+        "level": 3,
+        "title": "3.6.2  页式虚拟存储器",
+        "pdf_page": 142
+      },
+      {
+        "level": 3,
+        "title": "3.6.3  段式虚拟存储器",
+        "pdf_page": 146
+      },
+      {
+        "level": 3,
+        "title": "3.6.4  段页式虚拟存储器",
+        "pdf_page": 146
+      },
+      {
+        "level": 3,
+        "title": "3.6.5  虚拟存储器与Cache的比较",
+        "pdf_page": 146
+      },
+      {
+        "level": 3,
+        "title": "3.6.6  本节习题精选",
+        "pdf_page": 147
+      },
+      {
+        "level": 3,
+        "title": "3.6.7  答案与解析",
+        "pdf_page": 153
+      },
+      {
+        "level": 2,
+        "title": "3.7  本章小结",
+        "pdf_page": 158
+      },
+      {
+        "level": 2,
+        "title": "3.8  常见问题和易混淆知识点",
+        "pdf_page": 159
+      },
+      {
+        "level": 1,
+        "title": "第4章  指令系统",
+        "pdf_page": 160
+      },
+      {
+        "level": 2,
+        "title": "4.1  指令系统",
+        "pdf_page": 160
+      },
+      {
+        "level": 3,
+        "title": "4.1.1  指令集体系结构",
+        "pdf_page": 160
+      },
+      {
+        "level": 3,
+        "title": "4.1.2  指令的基本格式",
+        "pdf_page": 161
+      },
+      {
+        "level": 3,
+        "title": "4.1.3  定长操作码指令格式",
+        "pdf_page": 162
+      },
+      {
+        "level": 3,
+        "title": "4.1.4  扩展操作码指令格式",
+        "pdf_page": 162
+      },
+      {
+        "level": 3,
+        "title": "4.1.5  指令的类型",
+        "pdf_page": 163
+      },
+      {
+        "level": 3,
+        "title": "4.1.6  本节习题精选",
+        "pdf_page": 163
+      },
+      {
+        "level": 3,
+        "title": "4.1.7  答案与解析",
+        "pdf_page": 165
+      },
+      {
+        "level": 2,
+        "title": "4.2  寻址方式",
+        "pdf_page": 168
+      },
+      {
+        "level": 3,
+        "title": "4.2.1  指令寻址和数据寻址",
+        "pdf_page": 168
+      },
+      {
+        "level": 3,
+        "title": "4.2.2  常见的数据寻址方式",
+        "pdf_page": 169
+      },
+      {
+        "level": 3,
+        "title": "4.2.3  本节习题精选",
+        "pdf_page": 172
+      },
+      {
+        "level": 3,
+        "title": "4.2.4  答案与解析",
+        "pdf_page": 178
+      },
+      {
+        "level": 2,
+        "title": "4.3  程序的机器级代码表示",
+        "pdf_page": 183
+      },
+      {
+        "level": 3,
+        "title": "4.3.1  常用汇编指令介绍",
+        "pdf_page": 184
+      },
+      {
+        "level": 3,
+        "title": "4.3.2  选择语句的机器级表示",
+        "pdf_page": 188
+      },
+      {
+        "level": 3,
+        "title": "4.3.3  循环语句的机器级表示",
+        "pdf_page": 189
+      },
+      {
+        "level": 3,
+        "title": "4.3.4  过程调用的机器级表示",
+        "pdf_page": 191
+      },
+      {
+        "level": 3,
+        "title": "4.3.5  本节习题精选",
+        "pdf_page": 193
+      },
+      {
+        "level": 3,
+        "title": "4.3.6  答案与解析",
+        "pdf_page": 199
+      },
+      {
+        "level": 2,
+        "title": "4.4  CISC和RISC的基本概念",
+        "pdf_page": 202
+      },
+      {
+        "level": 3,
+        "title": "4.4.1  复杂指令系统计算机(CISC)",
+        "pdf_page": 203
+      },
+      {
+        "level": 3,
+        "title": "4.4.2  精简指令系统计算机(RISC)",
+        "pdf_page": 203
+      },
+      {
+        "level": 3,
+        "title": "4.4.3  CISC和RISC的比较",
+        "pdf_page": 203
+      },
+      {
+        "level": 3,
+        "title": "4.4.4  本节习题精选",
+        "pdf_page": 204
+      },
+      {
+        "level": 3,
+        "title": "4.4.5  答案与解析",
+        "pdf_page": 205
+      },
+      {
+        "level": 2,
+        "title": "4.5  本章小结",
+        "pdf_page": 205
+      },
+      {
+        "level": 2,
+        "title": "4.6  常见问题和易混淆知识点",
+        "pdf_page": 206
+      },
+      {
+        "level": 1,
+        "title": "第5章  中央处理器",
+        "pdf_page": 207
+      },
+      {
+        "level": 2,
+        "title": "5.1  CPU的功能和基本结构",
+        "pdf_page": 207
+      },
+      {
+        "level": 3,
+        "title": "5.1.1  CPU的功能",
+        "pdf_page": 207
+      },
+      {
+        "level": 3,
+        "title": "5.1.2  CPU的基本结构",
+        "pdf_page": 208
+      },
+      {
+        "level": 3,
+        "title": "5.1.3  CPU中的寄存器",
+        "pdf_page": 209
+      },
+      {
+        "level": 3,
+        "title": "5.1.4  本节习题精选",
+        "pdf_page": 209
+      },
+      {
+        "level": 3,
+        "title": "5.1.5  答案与解析",
+        "pdf_page": 211
+      },
+      {
+        "level": 2,
+        "title": "5.2  指令执行过程",
+        "pdf_page": 213
+      },
+      {
+        "level": 3,
+        "title": "5.2.1  指令执行的一般流程",
+        "pdf_page": 213
+      },
+      {
+        "level": 3,
+        "title": "5.2.2  CPU的时序控制",
+        "pdf_page": 214
+      },
+      {
+        "level": 3,
+        "title": "5.2.3  指令周期的基本概念",
+        "pdf_page": 214
+      },
+      {
+        "level": 3,
+        "title": "5.2.4  处理器指令执行模型",
+        "pdf_page": 215
+      },
+      {
+        "level": 3,
+        "title": "5.2.5  本节习题精选",
+        "pdf_page": 216
+      },
+      {
+        "level": 3,
+        "title": "5.2.6  答案与解析",
+        "pdf_page": 217
+      },
+      {
+        "level": 2,
+        "title": "5.3  数据通路的功能和基本结构",
+        "pdf_page": 218
+      },
+      {
+        "level": 3,
+        "title": "5.3.1  数据通路的功能",
+        "pdf_page": 218
+      },
+      {
+        "level": 3,
+        "title": "5.3.2  数据通路的组成",
+        "pdf_page": 218
+      },
+      {
+        "level": 3,
+        "title": "5.3.3  数据通路的组织与分类",
+        "pdf_page": 219
+      },
+      {
+        "level": 3,
+        "title": "5.3.4  单总线结构的数据通路",
+        "pdf_page": 220
+      },
+      {
+        "level": 3,
+        "title": "5.3.5  专用结构的数据通路",
+        "pdf_page": 222
+      },
+      {
+        "level": 3,
+        "title": "5.3.6  本节习题精选",
+        "pdf_page": 225
+      },
+      {
+        "level": 3,
+        "title": "5.3.7  答案与解析",
+        "pdf_page": 233
+      },
+      {
+        "level": 2,
+        "title": "5.4  控制器的功能和工作原理",
+        "pdf_page": 240
+      },
+      {
+        "level": 3,
+        "title": "5.4.1  控制器的结构和功能",
+        "pdf_page": 240
+      },
+      {
+        "level": 3,
+        "title": "5.4.2  硬布线控制器",
+        "pdf_page": 241
+      },
+      {
+        "level": 3,
+        "title": "5.4.3  微程序控制器",
+        "pdf_page": 241
+      },
+      {
+        "level": 3,
+        "title": "5.4.4  本节习题精选",
+        "pdf_page": 246
+      },
+      {
+        "level": 3,
+        "title": "5.4.5  答案与解析",
+        "pdf_page": 250
+      },
+      {
+        "level": 2,
+        "title": "5.5  异常和中断机制",
+        "pdf_page": 254
+      },
+      {
+        "level": 3,
+        "title": "5.5.1  异常和中断的基本概念",
+        "pdf_page": 254
+      },
+      {
+        "level": 3,
+        "title": "5.5.2  异常和中断的分类",
+        "pdf_page": 254
+      },
+      {
+        "level": 3,
+        "title": "5.5.3  异常和中断响应过程",
+        "pdf_page": 255
+      },
+      {
+        "level": 3,
+        "title": "5.5.4  本节习题精选",
+        "pdf_page": 256
+      },
+      {
+        "level": 3,
+        "title": "5.5.5  答案与解析",
+        "pdf_page": 257
+      },
+      {
+        "level": 2,
+        "title": "5.6  指令流水线",
+        "pdf_page": 259
+      },
+      {
+        "level": 3,
+        "title": "5.6.1  指令流水线的基本概念",
+        "pdf_page": 259
+      },
+      {
+        "level": 3,
+        "title": "5.6.2  流水线的基本实现",
+        "pdf_page": 260
+      },
+      {
+        "level": 3,
+        "title": "5.6.3  MIPS指令集的流水段分析",
+        "pdf_page": 261
+      },
+      {
+        "level": 3,
+        "title": "5.6.4  流水线的冒险与处理",
+        "pdf_page": 263
+      },
+      {
+        "level": 3,
+        "title": "5.6.5  高级流水线技术",
+        "pdf_page": 266
+      },
+      {
+        "level": 3,
+        "title": "5.6.6  本节习题精选",
+        "pdf_page": 267
+      },
+      {
+        "level": 3,
+        "title": "5.6.7  答案与解析",
+        "pdf_page": 272
+      },
+      {
+        "level": 2,
+        "title": "5.7  多处理器的基本概念",
+        "pdf_page": 279
+      },
+      {
+        "level": 3,
+        "title": "5.7.1  SISD、SIMD、MIMD的基本概念",
+        "pdf_page": 279
+      },
+      {
+        "level": 3,
+        "title": "5.7.2  硬件多线程的基本概念",
+        "pdf_page": 280
+      },
+      {
+        "level": 3,
+        "title": "5.7.3  多核处理器的基本概念",
+        "pdf_page": 281
+      },
+      {
+        "level": 3,
+        "title": "5.7.4  共享内存多处理器的基本概念",
+        "pdf_page": 281
+      },
+      {
+        "level": 3,
+        "title": "5.7.5  本节习题精选",
+        "pdf_page": 282
+      },
+      {
+        "level": 3,
+        "title": "5.7.6  答案与解析",
+        "pdf_page": 283
+      },
+      {
+        "level": 2,
+        "title": "5.8  本章小结",
+        "pdf_page": 284
+      },
+      {
+        "level": 2,
+        "title": "5.9  常见问题和易混淆知识点",
+        "pdf_page": 285
+      },
+      {
+        "level": 1,
+        "title": "第6章  总线",
+        "pdf_page": 286
+      },
+      {
+        "level": 2,
+        "title": "6.1  总线概述",
+        "pdf_page": 286
+      },
+      {
+        "level": 3,
+        "title": "6.1.1  总线的分类",
+        "pdf_page": 286
+      },
+      {
+        "level": 3,
+        "title": "* 6.1.2 常见的总线标准",
+        "pdf_page": 287
+      },
+      {
+        "level": 3,
+        "title": "6.1.3  总线的性能指标",
+        "pdf_page": 288
+      },
+      {
+        "level": 3,
+        "title": "6.1.4  总线的结构",
+        "pdf_page": 288
+      },
+      {
+        "level": 3,
+        "title": "6.1.5  本节习题精选",
+        "pdf_page": 290
+      },
+      {
+        "level": 3,
+        "title": "6.1.6  答案与解析",
+        "pdf_page": 292
+      },
+      {
+        "level": 2,
+        "title": "6.2  总线事务和定时",
+        "pdf_page": 295
+      },
+      {
+        "level": 3,
+        "title": "6.2.1  总线事务",
+        "pdf_page": 295
+      },
+      {
+        "level": 3,
+        "title": "6.2.2  总线定时",
+        "pdf_page": 296
+      },
+      {
+        "level": 3,
+        "title": "6.2.3  本节习题精选",
+        "pdf_page": 298
+      },
+      {
+        "level": 3,
+        "title": "6.2.4  答案与解析",
+        "pdf_page": 300
+      },
+      {
+        "level": 2,
+        "title": "6.3  本章小结",
+        "pdf_page": 302
+      },
+      {
+        "level": 2,
+        "title": "6.4  常见问题和易混淆知识点",
+        "pdf_page": 302
+      },
+      {
+        "level": 1,
+        "title": "第7章  输入/输出系统",
+        "pdf_page": 303
+      },
+      {
+        "level": 2,
+        "title": "*7.1 I/O系统基本概念",
+        "pdf_page": 303
+      },
+      {
+        "level": 3,
+        "title": "* 7.1.1 输入/输出系统",
+        "pdf_page": 303
+      },
+      {
+        "level": 3,
+        "title": "* 7.1.2 外部设备",
+        "pdf_page": 304
+      },
+      {
+        "level": 3,
+        "title": "* 7.1.3 本节习题精选",
+        "pdf_page": 305
+      },
+      {
+        "level": 3,
+        "title": "* 7.1.4 答案与解析",
+        "pdf_page": 305
+      },
+      {
+        "level": 2,
+        "title": "7.2  I/O接口",
+        "pdf_page": 305
+      },
+      {
+        "level": 3,
+        "title": "7.2.1  I/O接口的功能",
+        "pdf_page": 306
+      },
+      {
+        "level": 3,
+        "title": "7.2.2  I/O接口的基本结构",
+        "pdf_page": 306
+      },
+      {
+        "level": 3,
+        "title": "7.2.3  I/O接口的类型",
+        "pdf_page": 307
+      },
+      {
+        "level": 3,
+        "title": "7.2.4  I/O端口及其编址",
+        "pdf_page": 307
+      },
+      {
+        "level": 3,
+        "title": "7.2.5  本节习题精选",
+        "pdf_page": 307
+      },
+      {
+        "level": 3,
+        "title": "7.2.6  答案与解析",
+        "pdf_page": 309
+      },
+      {
+        "level": 2,
+        "title": "7.3  I/O方式",
+        "pdf_page": 311
+      },
+      {
+        "level": 3,
+        "title": "7.3.1  程序查询方式",
+        "pdf_page": 311
+      },
+      {
+        "level": 3,
+        "title": "7.3.2  程序中断方式",
+        "pdf_page": 312
+      },
+      {
+        "level": 3,
+        "title": "7.3.3  DMA方式",
+        "pdf_page": 317
+      },
+      {
+        "level": 3,
+        "title": "7.3.4  本节习题精选",
+        "pdf_page": 321
+      },
+      {
+        "level": 3,
+        "title": "7.3.5  答案与解析",
+        "pdf_page": 329
+      },
+      {
+        "level": 2,
+        "title": "7.4  本章小结",
+        "pdf_page": 338
+      },
+      {
+        "level": 2,
+        "title": "7.5  常见问题和易混淆知识点",
+        "pdf_page": 338
+      },
+      {
+        "level": 1,
+        "title": "参考文献",
+        "pdf_page": 340
+      }
+    ],
+    "extraction": {
+      "needs-visual-check": 340
+    }
+  },
+  {
+    "id": "7d8674ee199b",
+    "path": "materials/27王道《计算机网络》高清带书签.pdf",
+    "title": "27王道《计算机网络》高清带书签",
+    "bytes": 197045739,
+    "sha256": "c6fa0b7820c87d5bc006945ecfb19e0d9f29070e060cfd80837b302af42d1630",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/7d8674ee199b/p0001-0006.md",
+      "knowledge/7d8674ee199b/p0007-0012.md",
+      "knowledge/7d8674ee199b/p0013-0018.md",
+      "knowledge/7d8674ee199b/p0019-0024.md",
+      "knowledge/7d8674ee199b/p0025-0030.md",
+      "knowledge/7d8674ee199b/p0031-0036.md",
+      "knowledge/7d8674ee199b/p0037-0042.md",
+      "knowledge/7d8674ee199b/p0043-0048.md",
+      "knowledge/7d8674ee199b/p0049-0054.md",
+      "knowledge/7d8674ee199b/p0055-0060.md",
+      "knowledge/7d8674ee199b/p0061-0066.md",
+      "knowledge/7d8674ee199b/p0067-0072.md",
+      "knowledge/7d8674ee199b/p0073-0078.md",
+      "knowledge/7d8674ee199b/p0079-0084.md",
+      "knowledge/7d8674ee199b/p0085-0090.md",
+      "knowledge/7d8674ee199b/p0091-0096.md",
+      "knowledge/7d8674ee199b/p0097-0102.md",
+      "knowledge/7d8674ee199b/p0103-0108.md",
+      "knowledge/7d8674ee199b/p0109-0114.md",
+      "knowledge/7d8674ee199b/p0115-0120.md",
+      "knowledge/7d8674ee199b/p0121-0126.md",
+      "knowledge/7d8674ee199b/p0127-0132.md",
+      "knowledge/7d8674ee199b/p0133-0138.md",
+      "knowledge/7d8674ee199b/p0139-0144.md",
+      "knowledge/7d8674ee199b/p0145-0150.md",
+      "knowledge/7d8674ee199b/p0151-0156.md",
+      "knowledge/7d8674ee199b/p0157-0162.md",
+      "knowledge/7d8674ee199b/p0163-0168.md",
+      "knowledge/7d8674ee199b/p0169-0174.md",
+      "knowledge/7d8674ee199b/p0175-0180.md",
+      "knowledge/7d8674ee199b/p0181-0186.md",
+      "knowledge/7d8674ee199b/p0187-0192.md",
+      "knowledge/7d8674ee199b/p0193-0198.md",
+      "knowledge/7d8674ee199b/p0199-0204.md",
+      "knowledge/7d8674ee199b/p0205-0210.md",
+      "knowledge/7d8674ee199b/p0211-0216.md",
+      "knowledge/7d8674ee199b/p0217-0222.md",
+      "knowledge/7d8674ee199b/p0223-0228.md",
+      "knowledge/7d8674ee199b/p0229-0234.md",
+      "knowledge/7d8674ee199b/p0235-0240.md",
+      "knowledge/7d8674ee199b/p0241-0246.md",
+      "knowledge/7d8674ee199b/p0247-0252.md",
+      "knowledge/7d8674ee199b/p0253-0258.md",
+      "knowledge/7d8674ee199b/p0259-0264.md",
+      "knowledge/7d8674ee199b/p0265-0270.md",
+      "knowledge/7d8674ee199b/p0271-0276.md",
+      "knowledge/7d8674ee199b/p0277-0282.md",
+      "knowledge/7d8674ee199b/p0283-0288.md",
+      "knowledge/7d8674ee199b/p0289-0294.md",
+      "knowledge/7d8674ee199b/p0295-0300.md",
+      "knowledge/7d8674ee199b/p0301-0306.md",
+      "knowledge/7d8674ee199b/p0307-0312.md",
+      "knowledge/7d8674ee199b/p0313-0316.md"
+    ],
+    "pages": 316,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "前   言",
+        "pdf_page": 4
+      },
+      {
+        "level": 1,
+        "title": "致  读  者",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "王道训练营",
+        "pdf_page": 6
+      },
+      {
+        "level": 2,
+        "title": "王道训练营简介",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "1．面向就业",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "2．面向硕士",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "3．报名要求",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "4．学习成效",
+        "pdf_page": 7
+      },
+      {
+        "level": 2,
+        "title": "王道训练营优势",
+        "pdf_page": 7
+      },
+      {
+        "level": 2,
+        "title": "王道训练营课程",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "目   录",
+        "pdf_page": 8
+      },
+      {
+        "level": 1,
+        "title": "第1章 计算机网络体系结构",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 13
+      },
+      {
+        "level": 2,
+        "title": "1.1  计算机网络概述",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "1.1.1  计算机网络的概念",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "1.1.2  计算机网络的组成",
+        "pdf_page": 14
+      },
+      {
+        "level": 3,
+        "title": "1.1.3  计算机网络的功能",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "1．数据通信",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "2．资源共享",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "3．分布式处理",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "4．提高可靠性",
+        "pdf_page": 14
+      },
+      {
+        "level": 4,
+        "title": "5．负载均衡",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "1.1.4  电路交换、报文交换与分组交换",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "1．电路交换",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "2．报文交换",
+        "pdf_page": 15
+      },
+      {
+        "level": 4,
+        "title": "3．分组交换",
+        "pdf_page": 16
+      },
+      {
+        "level": 3,
+        "title": "1.1.5  计算机网络的分类",
+        "pdf_page": 17
+      },
+      {
+        "level": 4,
+        "title": "1．按分布范围分类",
+        "pdf_page": 17
+      },
+      {
+        "level": 4,
+        "title": "2．按传输技术分类",
+        "pdf_page": 18
+      },
+      {
+        "level": 4,
+        "title": "3．按拓扑结构分类",
+        "pdf_page": 18
+      },
+      {
+        "level": 4,
+        "title": "4．按使用者分类",
+        "pdf_page": 18
+      },
+      {
+        "level": 4,
+        "title": "5．按传输介质分类",
+        "pdf_page": 18
+      },
+      {
+        "level": 3,
+        "title": "1.1.6  计算机网络的性能指标",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "1.1.7  本节习题精选",
+        "pdf_page": 21
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 21
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 23
+      },
+      {
+        "level": 3,
+        "title": "1.1.8  答案与解析",
+        "pdf_page": 24
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 24
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 26
+      },
+      {
+        "level": 2,
+        "title": "1.2  计算机网络体系结构与参考模型",
+        "pdf_page": 27
+      },
+      {
+        "level": 3,
+        "title": "1.2.1  计算机网络分层结构",
+        "pdf_page": 27
+      },
+      {
+        "level": 3,
+        "title": "1.2.2  计算机网络协议、服务、接口的概念",
+        "pdf_page": 28
+      },
+      {
+        "level": 4,
+        "title": "1．协议",
+        "pdf_page": 28
+      },
+      {
+        "level": 4,
+        "title": "2．接口",
+        "pdf_page": 28
+      },
+      {
+        "level": 4,
+        "title": "3．服务",
+        "pdf_page": 29
+      },
+      {
+        "level": 3,
+        "title": "1.2.3  OSI参考模型和TCP/IP模型",
+        "pdf_page": 29
+      },
+      {
+        "level": 4,
+        "title": "1．OSI参考模型",
+        "pdf_page": 29
+      },
+      {
+        "level": 4,
+        "title": "2．TCP/IP模型",
+        "pdf_page": 32
+      },
+      {
+        "level": 4,
+        "title": "3．TCP/IP模型与OSI参考模型的比较",
+        "pdf_page": 33
+      },
+      {
+        "level": 3,
+        "title": "1.2.4  本节习题精选",
+        "pdf_page": 34
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 34
+      },
+      {
+        "level": 3,
+        "title": "1.2.5  答案与解析",
+        "pdf_page": 37
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 37
+      },
+      {
+        "level": 2,
+        "title": "1.3  本章小结及疑难点",
+        "pdf_page": 40
+      },
+      {
+        "level": 1,
+        "title": "第2章 物理层",
+        "pdf_page": 42
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 42
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 42
+      },
+      {
+        "level": 2,
+        "title": "2.1  通信基础",
+        "pdf_page": 42
+      },
+      {
+        "level": 3,
+        "title": "2.1.1  基本概念",
+        "pdf_page": 42
+      },
+      {
+        "level": 4,
+        "title": "1．数据、信号与码元",
+        "pdf_page": 42
+      },
+      {
+        "level": 4,
+        "title": "2．信源、信道与信宿",
+        "pdf_page": 42
+      },
+      {
+        "level": 4,
+        "title": "3．速率、波特与带宽",
+        "pdf_page": 43
+      },
+      {
+        "level": 3,
+        "title": "2.1.2  信道的极限容量",
+        "pdf_page": 43
+      },
+      {
+        "level": 4,
+        "title": "1．奈奎斯特定理（奈氏准则）",
+        "pdf_page": 44
+      },
+      {
+        "level": 4,
+        "title": "2．香农定理",
+        "pdf_page": 44
+      },
+      {
+        "level": 3,
+        "title": "2.1.3  编码与调制",
+        "pdf_page": 45
+      },
+      {
+        "level": 4,
+        "title": "1．数字数据编码为数字信号",
+        "pdf_page": 45
+      },
+      {
+        "level": 4,
+        "title": "2．模拟数据编码为数字信号",
+        "pdf_page": 46
+      },
+      {
+        "level": 4,
+        "title": "3．数字数据调制为模拟信号",
+        "pdf_page": 46
+      },
+      {
+        "level": 4,
+        "title": "4．模拟数据直接传输为模拟信号",
+        "pdf_page": 47
+      },
+      {
+        "level": 3,
+        "title": "2.1.4  本节习题精选",
+        "pdf_page": 47
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 47
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 50
+      },
+      {
+        "level": 3,
+        "title": "2.1.5  答案与解析",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 50
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 53
+      },
+      {
+        "level": 2,
+        "title": "2.2  传输介质",
+        "pdf_page": 54
+      },
+      {
+        "level": 3,
+        "title": "2.2.1  双绞线、同轴电缆、光纤与无线传输介质",
+        "pdf_page": 54
+      },
+      {
+        "level": 4,
+        "title": "1．双绞线",
+        "pdf_page": 54
+      },
+      {
+        "level": 4,
+        "title": "2．同轴电缆",
+        "pdf_page": 54
+      },
+      {
+        "level": 4,
+        "title": "3．光纤",
+        "pdf_page": 54
+      },
+      {
+        "level": 4,
+        "title": "4．无线传输介质",
+        "pdf_page": 55
+      },
+      {
+        "level": 3,
+        "title": "2.2.2  物理层接口的特性",
+        "pdf_page": 56
+      },
+      {
+        "level": 3,
+        "title": "2.2.3  本节习题精选",
+        "pdf_page": 56
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 56
+      },
+      {
+        "level": 3,
+        "title": "2.2.4  答案与解析",
+        "pdf_page": 57
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 57
+      },
+      {
+        "level": 2,
+        "title": "2.3  物理层设备",
+        "pdf_page": 58
+      },
+      {
+        "level": 3,
+        "title": "2.3.1  中继器",
+        "pdf_page": 58
+      },
+      {
+        "level": 3,
+        "title": "2.3.2  集线器",
+        "pdf_page": 58
+      },
+      {
+        "level": 3,
+        "title": "2.3.3  本节习题精选",
+        "pdf_page": 59
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 59
+      },
+      {
+        "level": 3,
+        "title": "2.3.4  答案与解析",
+        "pdf_page": 60
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 60
+      },
+      {
+        "level": 2,
+        "title": "2.4  本章小结及疑难点",
+        "pdf_page": 60
+      },
+      {
+        "level": 1,
+        "title": "第3章 数据链路层",
+        "pdf_page": 62
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 62
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 62
+      },
+      {
+        "level": 2,
+        "title": "3.1  数据链路层的功能",
+        "pdf_page": 62
+      },
+      {
+        "level": 3,
+        "title": "3.1.1  数据链路层所处的地位",
+        "pdf_page": 63
+      },
+      {
+        "level": 3,
+        "title": "3.1.2  链路管理",
+        "pdf_page": 63
+      },
+      {
+        "level": 3,
+        "title": "3.1.3  封装成帧与透明传输",
+        "pdf_page": 64
+      },
+      {
+        "level": 3,
+        "title": "3.1.4  流量控制",
+        "pdf_page": 64
+      },
+      {
+        "level": 3,
+        "title": "3.1.5  差错检测与可靠传输",
+        "pdf_page": 64
+      },
+      {
+        "level": 3,
+        "title": "3.1.6  本节习题精选",
+        "pdf_page": 64
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 64
+      },
+      {
+        "level": 3,
+        "title": "3.1.7  答案与解析",
+        "pdf_page": 65
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 65
+      },
+      {
+        "level": 2,
+        "title": "3.2  组帧",
+        "pdf_page": 66
+      },
+      {
+        "level": 3,
+        "title": "3.2.1  字符计数法",
+        "pdf_page": 66
+      },
+      {
+        "level": 3,
+        "title": "3.2.2  字节填充法",
+        "pdf_page": 66
+      },
+      {
+        "level": 3,
+        "title": "3.2.3  零比特填充法",
+        "pdf_page": 67
+      },
+      {
+        "level": 3,
+        "title": "3.2.4  违规编码法",
+        "pdf_page": 67
+      },
+      {
+        "level": 3,
+        "title": "3.2.5  本节习题精选",
+        "pdf_page": 67
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 67
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 67
+      },
+      {
+        "level": 3,
+        "title": "3.2.6  答案与解析",
+        "pdf_page": 67
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 67
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 68
+      },
+      {
+        "level": 2,
+        "title": "3.3  差错控制",
+        "pdf_page": 68
+      },
+      {
+        "level": 3,
+        "title": "3.3.1  检错编码",
+        "pdf_page": 69
+      },
+      {
+        "level": 4,
+        "title": "1．奇偶检验码",
+        "pdf_page": 69
+      },
+      {
+        "level": 4,
+        "title": "2．循环冗余码",
+        "pdf_page": 69
+      },
+      {
+        "level": 3,
+        "title": "3.3.2  纠错编码",
+        "pdf_page": 70
+      },
+      {
+        "level": 3,
+        "title": "3.3.3  本节习题精选",
+        "pdf_page": 71
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 71
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 72
+      },
+      {
+        "level": 3,
+        "title": "3.3.4  答案与解析",
+        "pdf_page": 72
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 72
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 73
+      },
+      {
+        "level": 2,
+        "title": "3.4  流量控制与可靠传输机制",
+        "pdf_page": 73
+      },
+      {
+        "level": 3,
+        "title": "3.4.1  流量控制与滑动窗口机制",
+        "pdf_page": 73
+      },
+      {
+        "level": 4,
+        "title": "1．停止-等待流量控制基本原理",
+        "pdf_page": 74
+      },
+      {
+        "level": 4,
+        "title": "2．滑动窗口流量控制基本原理",
+        "pdf_page": 74
+      },
+      {
+        "level": 3,
+        "title": "3.4.2  可靠传输机制",
+        "pdf_page": 75
+      },
+      {
+        "level": 4,
+        "title": "1．单帧滑动窗口与停止-等待协议（S-W）",
+        "pdf_page": 76
+      },
+      {
+        "level": 4,
+        "title": "2．多帧滑动窗口与后退N帧协议（GBN）",
+        "pdf_page": 76
+      },
+      {
+        "level": 4,
+        "title": "3．多帧滑动窗口与选择重传协议（SR）",
+        "pdf_page": 77
+      },
+      {
+        "level": 4,
+        "title": "4．信道利用率的分析",
+        "pdf_page": 78
+      },
+      {
+        "level": 3,
+        "title": "3.4.3  本节习题精选",
+        "pdf_page": 79
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 79
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 82
+      },
+      {
+        "level": 3,
+        "title": "3.4.4  答案与解析",
+        "pdf_page": 84
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 84
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 87
+      },
+      {
+        "level": 2,
+        "title": "3.5  介质访问控制",
+        "pdf_page": 89
+      },
+      {
+        "level": 3,
+        "title": "3.5.1  信道划分介质访问控制",
+        "pdf_page": 90
+      },
+      {
+        "level": 4,
+        "title": "1．时分复用（TDM）",
+        "pdf_page": 90
+      },
+      {
+        "level": 4,
+        "title": "2．频分复用（FDM）",
+        "pdf_page": 91
+      },
+      {
+        "level": 4,
+        "title": "3．波分复用（WDM）",
+        "pdf_page": 91
+      },
+      {
+        "level": 4,
+        "title": "4．码分复用（CDM）",
+        "pdf_page": 91
+      },
+      {
+        "level": 3,
+        "title": "3.5.2  随机访问介质访问控制",
+        "pdf_page": 92
+      },
+      {
+        "level": 4,
+        "title": "1．ALOHA协议",
+        "pdf_page": 93
+      },
+      {
+        "level": 4,
+        "title": "2．CSMA协议",
+        "pdf_page": 94
+      },
+      {
+        "level": 3,
+        "title": "3.5.3  轮询访问：令牌传递协议",
+        "pdf_page": 94
+      },
+      {
+        "level": 3,
+        "title": "3.5.4  本节习题精选",
+        "pdf_page": 95
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 95
+      },
+      {
+        "level": 3,
+        "title": "3.5.5  答案与解析",
+        "pdf_page": 97
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 97
+      },
+      {
+        "level": 2,
+        "title": "3.6  局域网",
+        "pdf_page": 99
+      },
+      {
+        "level": 3,
+        "title": "3.6.1  局域网的基本概念和体系结构",
+        "pdf_page": 99
+      },
+      {
+        "level": 3,
+        "title": "3.6.2  以太网与IEEE 802.3",
+        "pdf_page": 100
+      },
+      {
+        "level": 4,
+        "title": "1．以太网的传输介质与网卡",
+        "pdf_page": 100
+      },
+      {
+        "level": 4,
+        "title": "2．以太网MAC地址",
+        "pdf_page": 101
+      },
+      {
+        "level": 4,
+        "title": "3．CSMA/CD协议",
+        "pdf_page": 101
+      },
+      {
+        "level": 4,
+        "title": "4．以太网的MAC帧",
+        "pdf_page": 103
+      },
+      {
+        "level": 4,
+        "title": "5．高速以太网",
+        "pdf_page": 104
+      },
+      {
+        "level": 3,
+        "title": "3.6.3  IEEE 802.11无线局域网",
+        "pdf_page": 105
+      },
+      {
+        "level": 4,
+        "title": "1．无线局域网的组成",
+        "pdf_page": 105
+      },
+      {
+        "level": 4,
+        "title": "2．CSMA/CA协议",
+        "pdf_page": 106
+      },
+      {
+        "level": 4,
+        "title": "3．802.11局域网的MAC帧",
+        "pdf_page": 109
+      },
+      {
+        "level": 3,
+        "title": "3.6.4  VLAN基本概念与基本原理",
+        "pdf_page": 111
+      },
+      {
+        "level": 3,
+        "title": "3.6.5  本节习题精选",
+        "pdf_page": 112
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 112
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 117
+      },
+      {
+        "level": 3,
+        "title": "3.6.6  答案与解析",
+        "pdf_page": 118
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 118
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 123
+      },
+      {
+        "level": 2,
+        "title": "3.7  广域网",
+        "pdf_page": 125
+      },
+      {
+        "level": 3,
+        "title": "3.7.1  广域网的基本概念",
+        "pdf_page": 125
+      },
+      {
+        "level": 3,
+        "title": "3.7.2  点对点协议",
+        "pdf_page": 126
+      },
+      {
+        "level": 3,
+        "title": "3.7.3  本节习题精选",
+        "pdf_page": 127
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 127
+      },
+      {
+        "level": 3,
+        "title": "3.7.4  答案与解析",
+        "pdf_page": 128
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 128
+      },
+      {
+        "level": 2,
+        "title": "3.8  数据链路层设备",
+        "pdf_page": 129
+      },
+      {
+        "level": 3,
+        "title": "*3.8.1  网桥的基本概念",
+        "pdf_page": 129
+      },
+      {
+        "level": 3,
+        "title": "3.8.2  以太网交换机",
+        "pdf_page": 130
+      },
+      {
+        "level": 4,
+        "title": "1．交换机的原理和特点",
+        "pdf_page": 130
+      },
+      {
+        "level": 4,
+        "title": "2．交换机的自学习功能",
+        "pdf_page": 130
+      },
+      {
+        "level": 3,
+        "title": "3.8.3  共享式以太网",
+        "pdf_page": 132
+      },
+      {
+        "level": 4,
+        "title": "1．共享式以太网的基本特点",
+        "pdf_page": 132
+      },
+      {
+        "level": 3,
+        "title": "3.8.4  本节习题精选",
+        "pdf_page": 132
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 132
+      },
+      {
+        "level": 3,
+        "title": "3.8.5  答案与解析",
+        "pdf_page": 135
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 135
+      },
+      {
+        "level": 2,
+        "title": "3.9  本章小结及疑难点",
+        "pdf_page": 138
+      },
+      {
+        "level": 1,
+        "title": "第4章 网络层",
+        "pdf_page": 139
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 139
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 139
+      },
+      {
+        "level": 2,
+        "title": "4.1  网络层的功能",
+        "pdf_page": 139
+      },
+      {
+        "level": 3,
+        "title": "4.1.1  异构网络互连",
+        "pdf_page": 140
+      },
+      {
+        "level": 3,
+        "title": "4.1.2  路由与转发",
+        "pdf_page": 140
+      },
+      {
+        "level": 3,
+        "title": "4.1.3  网络层提供的两种服务",
+        "pdf_page": 141
+      },
+      {
+        "level": 4,
+        "title": "1．虚电路",
+        "pdf_page": 141
+      },
+      {
+        "level": 4,
+        "title": "2．数据报",
+        "pdf_page": 142
+      },
+      {
+        "level": 3,
+        "title": "4.1.4  SDN的基本概念",
+        "pdf_page": 143
+      },
+      {
+        "level": 3,
+        "title": "4.1.5  拥塞控制",
+        "pdf_page": 144
+      },
+      {
+        "level": 3,
+        "title": "4.1.6  本节习题精选",
+        "pdf_page": 144
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 144
+      },
+      {
+        "level": 3,
+        "title": "4.1.7  答案与解析",
+        "pdf_page": 147
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 147
+      },
+      {
+        "level": 2,
+        "title": "4.2  IPv4",
+        "pdf_page": 149
+      },
+      {
+        "level": 3,
+        "title": "4.2.1  IPv4分组",
+        "pdf_page": 149
+      },
+      {
+        "level": 4,
+        "title": "1．IPv4分组的格式",
+        "pdf_page": 149
+      },
+      {
+        "level": 4,
+        "title": "2．IP数据报分片",
+        "pdf_page": 150
+      },
+      {
+        "level": 3,
+        "title": "4.2.2  IPv4地址",
+        "pdf_page": 151
+      },
+      {
+        "level": 4,
+        "title": "1．IPv4地址",
+        "pdf_page": 151
+      },
+      {
+        "level": 4,
+        "title": "2．分类的IP地址",
+        "pdf_page": 151
+      },
+      {
+        "level": 4,
+        "title": "3．划分子网",
+        "pdf_page": 153
+      },
+      {
+        "level": 4,
+        "title": "4．无分类编址CIDR",
+        "pdf_page": 154
+      },
+      {
+        "level": 4,
+        "title": "5．路由聚合",
+        "pdf_page": 155
+      },
+      {
+        "level": 4,
+        "title": "6．子网划分的应用举例",
+        "pdf_page": 155
+      },
+      {
+        "level": 3,
+        "title": "4.2.3  网络地址转换NAT",
+        "pdf_page": 156
+      },
+      {
+        "level": 3,
+        "title": "4.2.4  网络层转发分组的过程",
+        "pdf_page": 158
+      },
+      {
+        "level": 3,
+        "title": "4.2.5  地址解析协议（ARP）",
+        "pdf_page": 159
+      },
+      {
+        "level": 4,
+        "title": "1．IP地址与硬件地址",
+        "pdf_page": 159
+      },
+      {
+        "level": 4,
+        "title": "2．地址解析协议",
+        "pdf_page": 159
+      },
+      {
+        "level": 3,
+        "title": "4.2.6  动态主机配置协议DHCP",
+        "pdf_page": 161
+      },
+      {
+        "level": 3,
+        "title": "4.2.7  网际控制报文协议ICMP",
+        "pdf_page": 162
+      },
+      {
+        "level": 3,
+        "title": "4.2.8  本节习题精选",
+        "pdf_page": 163
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 163
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 171
+      },
+      {
+        "level": 3,
+        "title": "4.2.9  答案与解析",
+        "pdf_page": 177
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 177
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 186
+      },
+      {
+        "level": 2,
+        "title": "4.3  IPv6",
+        "pdf_page": 193
+      },
+      {
+        "level": 3,
+        "title": "4.3.1  IPv6的特点",
+        "pdf_page": 193
+      },
+      {
+        "level": 3,
+        "title": "4.3.2  IPv6数据报的基本首部",
+        "pdf_page": 194
+      },
+      {
+        "level": 3,
+        "title": "4.3.3  IPv6地址",
+        "pdf_page": 195
+      },
+      {
+        "level": 3,
+        "title": "4.3.4  从IPv4向IPv6过渡",
+        "pdf_page": 196
+      },
+      {
+        "level": 3,
+        "title": "4.3.5  本节习题精选",
+        "pdf_page": 196
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 196
+      },
+      {
+        "level": 3,
+        "title": "4.3.6  答案与解析",
+        "pdf_page": 197
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 197
+      },
+      {
+        "level": 2,
+        "title": "4.4  路由算法与路由协议",
+        "pdf_page": 198
+      },
+      {
+        "level": 3,
+        "title": "4.4.1  路由算法",
+        "pdf_page": 198
+      },
+      {
+        "level": 4,
+        "title": "1．静态路由与动态路由",
+        "pdf_page": 198
+      },
+      {
+        "level": 4,
+        "title": "2．距离-向量算法",
+        "pdf_page": 198
+      },
+      {
+        "level": 4,
+        "title": "3．链路状态算法",
+        "pdf_page": 199
+      },
+      {
+        "level": 3,
+        "title": "4.4.2  分层次的路由选择协议",
+        "pdf_page": 200
+      },
+      {
+        "level": 4,
+        "title": "1．内部网关协议（Interior Gateway Protocol，IGP）",
+        "pdf_page": 200
+      },
+      {
+        "level": 4,
+        "title": "2．外部网关协议（External Gateway Protocol，EGP）",
+        "pdf_page": 200
+      },
+      {
+        "level": 3,
+        "title": "4.4.3  路由信息协议",
+        "pdf_page": 200
+      },
+      {
+        "level": 4,
+        "title": "1．RIP的规定",
+        "pdf_page": 200
+      },
+      {
+        "level": 4,
+        "title": "2．RIP的特点",
+        "pdf_page": 201
+      },
+      {
+        "level": 4,
+        "title": "3．RIP的基本工作原理",
+        "pdf_page": 201
+      },
+      {
+        "level": 4,
+        "title": "4．RIP的优缺点",
+        "pdf_page": 202
+      },
+      {
+        "level": 3,
+        "title": "4.4.4  开放最短路径优先协议",
+        "pdf_page": 203
+      },
+      {
+        "level": 4,
+        "title": "1．开放最短路径优先（OSPF）的基本特点",
+        "pdf_page": 203
+      },
+      {
+        "level": 4,
+        "title": "2．OSPF的五种分组类型",
+        "pdf_page": 204
+      },
+      {
+        "level": 4,
+        "title": "3．OSPF的基本工作原理",
+        "pdf_page": 204
+      },
+      {
+        "level": 3,
+        "title": "4.4.5  边界网关协议",
+        "pdf_page": 205
+      },
+      {
+        "level": 4,
+        "title": "1．BGP的基本特点",
+        "pdf_page": 205
+      },
+      {
+        "level": 4,
+        "title": "2．BGP路由",
+        "pdf_page": 205
+      },
+      {
+        "level": 4,
+        "title": "3．BGP路由选择",
+        "pdf_page": 206
+      },
+      {
+        "level": 4,
+        "title": "4．BGP的四种报文",
+        "pdf_page": 208
+      },
+      {
+        "level": 3,
+        "title": "4.4.6  本节习题精选",
+        "pdf_page": 208
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 208
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 212
+      },
+      {
+        "level": 3,
+        "title": "4.4.7  答案与解析",
+        "pdf_page": 215
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 215
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 218
+      },
+      {
+        "level": 2,
+        "title": "4.5  IP多播",
+        "pdf_page": 220
+      },
+      {
+        "level": 3,
+        "title": "4.5.1  多播的概念",
+        "pdf_page": 220
+      },
+      {
+        "level": 3,
+        "title": "4.5.2  IP多播地址",
+        "pdf_page": 221
+      },
+      {
+        "level": 3,
+        "title": "4.5.3  在局域网上进行硬件多播",
+        "pdf_page": 221
+      },
+      {
+        "level": 3,
+        "title": "4.5.4  IGMP与多播路由协议",
+        "pdf_page": 222
+      },
+      {
+        "level": 3,
+        "title": "4.5.5  本节习题精选",
+        "pdf_page": 222
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 222
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 223
+      },
+      {
+        "level": 3,
+        "title": "4.5.6  答案与解析",
+        "pdf_page": 223
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 223
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 223
+      },
+      {
+        "level": 2,
+        "title": "4.6  移动IP",
+        "pdf_page": 224
+      },
+      {
+        "level": 3,
+        "title": "4.6.1  移动IP的概念",
+        "pdf_page": 224
+      },
+      {
+        "level": 3,
+        "title": "4.6.2  移动IP通信过程",
+        "pdf_page": 224
+      },
+      {
+        "level": 3,
+        "title": "4.6.3  本节习题精选",
+        "pdf_page": 225
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 225
+      },
+      {
+        "level": 3,
+        "title": "4.6.4  答案与解析",
+        "pdf_page": 225
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 225
+      },
+      {
+        "level": 2,
+        "title": "4.7  网络层设备",
+        "pdf_page": 226
+      },
+      {
+        "level": 3,
+        "title": "4.7.1  冲突域和广播域",
+        "pdf_page": 226
+      },
+      {
+        "level": 4,
+        "title": "1．冲突域",
+        "pdf_page": 226
+      },
+      {
+        "level": 4,
+        "title": "2．广播域",
+        "pdf_page": 226
+      },
+      {
+        "level": 3,
+        "title": "4.7.2  路由器的组成和功能",
+        "pdf_page": 226
+      },
+      {
+        "level": 3,
+        "title": "4.7.3  路由表与分组转发",
+        "pdf_page": 227
+      },
+      {
+        "level": 3,
+        "title": "4.7.4  本节习题精选",
+        "pdf_page": 228
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 228
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 230
+      },
+      {
+        "level": 3,
+        "title": "4.7.5  答案与解析",
+        "pdf_page": 231
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 231
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 233
+      },
+      {
+        "level": 2,
+        "title": "4.8  本章小结及疑难点",
+        "pdf_page": 235
+      },
+      {
+        "level": 1,
+        "title": "第5章 传输层",
+        "pdf_page": 236
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 236
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 236
+      },
+      {
+        "level": 2,
+        "title": "5.1  传输层提供的服务",
+        "pdf_page": 236
+      },
+      {
+        "level": 3,
+        "title": "5.1.1  传输层的功能",
+        "pdf_page": 236
+      },
+      {
+        "level": 4,
+        "title": "1．应用进程之间的逻辑通信",
+        "pdf_page": 236
+      },
+      {
+        "level": 4,
+        "title": "2．复用和分用",
+        "pdf_page": 237
+      },
+      {
+        "level": 4,
+        "title": "3．差错检测",
+        "pdf_page": 237
+      },
+      {
+        "level": 4,
+        "title": "4．提供面向连接和无连接的传输服务",
+        "pdf_page": 237
+      },
+      {
+        "level": 3,
+        "title": "5.1.2  传输层的寻址与端口",
+        "pdf_page": 237
+      },
+      {
+        "level": 4,
+        "title": "1．端口的作用",
+        "pdf_page": 237
+      },
+      {
+        "level": 4,
+        "title": "2．端口号",
+        "pdf_page": 238
+      },
+      {
+        "level": 4,
+        "title": "3．套接字",
+        "pdf_page": 238
+      },
+      {
+        "level": 3,
+        "title": "5.1.3  无连接服务与面向连接服务",
+        "pdf_page": 238
+      },
+      {
+        "level": 3,
+        "title": "5.1.4  本节习题精选",
+        "pdf_page": 239
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 239
+      },
+      {
+        "level": 3,
+        "title": "5.1.5  答案与解析",
+        "pdf_page": 240
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 240
+      },
+      {
+        "level": 2,
+        "title": "5.2  UDP",
+        "pdf_page": 241
+      },
+      {
+        "level": 3,
+        "title": "5.2.1  UDP数据报",
+        "pdf_page": 241
+      },
+      {
+        "level": 4,
+        "title": "1．UDP概述",
+        "pdf_page": 241
+      },
+      {
+        "level": 4,
+        "title": "2．UDP的首部格式",
+        "pdf_page": 241
+      },
+      {
+        "level": 3,
+        "title": "5.2.2  UDP检验",
+        "pdf_page": 242
+      },
+      {
+        "level": 3,
+        "title": "5.2.3  本节习题精选",
+        "pdf_page": 243
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 243
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 245
+      },
+      {
+        "level": 3,
+        "title": "5.2.4  答案与解析",
+        "pdf_page": 245
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 245
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 247
+      },
+      {
+        "level": 2,
+        "title": "5.3  TCP",
+        "pdf_page": 248
+      },
+      {
+        "level": 3,
+        "title": "5.3.1  TCP的特点",
+        "pdf_page": 248
+      },
+      {
+        "level": 3,
+        "title": "5.3.2  TCP报文段",
+        "pdf_page": 248
+      },
+      {
+        "level": 3,
+        "title": "5.3.3  TCP连接管理",
+        "pdf_page": 250
+      },
+      {
+        "level": 4,
+        "title": "1．TCP连接的建立",
+        "pdf_page": 250
+      },
+      {
+        "level": 4,
+        "title": "2．TCP连接的释放",
+        "pdf_page": 251
+      },
+      {
+        "level": 3,
+        "title": "5.3.4  TCP可靠传输",
+        "pdf_page": 252
+      },
+      {
+        "level": 4,
+        "title": "1．序号",
+        "pdf_page": 252
+      },
+      {
+        "level": 4,
+        "title": "2．确认",
+        "pdf_page": 253
+      },
+      {
+        "level": 4,
+        "title": "3．重传",
+        "pdf_page": 253
+      },
+      {
+        "level": 3,
+        "title": "5.3.5  TCP流量控制",
+        "pdf_page": 254
+      },
+      {
+        "level": 3,
+        "title": "5.3.6  TCP拥塞控制",
+        "pdf_page": 255
+      },
+      {
+        "level": 4,
+        "title": "1．慢开始和拥塞避免",
+        "pdf_page": 255
+      },
+      {
+        "level": 4,
+        "title": "2．快重传和快恢复",
+        "pdf_page": 257
+      },
+      {
+        "level": 3,
+        "title": "5.3.7  本节习题精选",
+        "pdf_page": 258
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 258
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 265
+      },
+      {
+        "level": 3,
+        "title": "5.3.8  答案与解析",
+        "pdf_page": 268
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 268
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 274
+      },
+      {
+        "level": 2,
+        "title": "5.4  本章小结及疑难点",
+        "pdf_page": 277
+      },
+      {
+        "level": 1,
+        "title": "第6章 应用层",
+        "pdf_page": 279
+      },
+      {
+        "level": 2,
+        "title": "【考纲内容】",
+        "pdf_page": 279
+      },
+      {
+        "level": 2,
+        "title": "【复习提示】",
+        "pdf_page": 279
+      },
+      {
+        "level": 2,
+        "title": "6.1  网络应用模型",
+        "pdf_page": 279
+      },
+      {
+        "level": 3,
+        "title": "6.1.1  客户/服务器模型",
+        "pdf_page": 279
+      },
+      {
+        "level": 3,
+        "title": "6.1.2  P2P模型",
+        "pdf_page": 280
+      },
+      {
+        "level": 3,
+        "title": "6.1.3  本节习题精选",
+        "pdf_page": 280
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 280
+      },
+      {
+        "level": 3,
+        "title": "6.1.4  答案与解析",
+        "pdf_page": 281
+      },
+      {
+        "level": 4,
+        "title": "单项选择题",
+        "pdf_page": 281
+      },
+      {
+        "level": 2,
+        "title": "6.2  域名系统",
+        "pdf_page": 282
+      },
+      {
+        "level": 3,
+        "title": "6.2.1  层次域名空间",
+        "pdf_page": 282
+      },
+      {
+        "level": 3,
+        "title": "6.2.2  域名服务器",
+        "pdf_page": 283
+      },
+      {
+        "level": 4,
+        "title": "1．根域名服务器",
+        "pdf_page": 283
+      },
+      {
+        "level": 4,
+        "title": "2．顶级域名服务器",
+        "pdf_page": 283
+      },
+      {
+        "level": 4,
+        "title": "3．权限域名服务器（授权域名服务器）",
+        "pdf_page": 284
+      },
+      {
+        "level": 4,
+        "title": "4．本地域名服务器",
+        "pdf_page": 284
+      },
+      {
+        "level": 3,
+        "title": "6.2.3  域名解析过程",
+        "pdf_page": 284
+      },
+      {
+        "level": 3,
+        "title": "6.2.4  本节习题精选",
+        "pdf_page": 285
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 285
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 287
+      },
+      {
+        "level": 3,
+        "title": "6.2.5  答案与解析",
+        "pdf_page": 287
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 287
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 289
+      },
+      {
+        "level": 2,
+        "title": "6.3  文件传输协议",
+        "pdf_page": 289
+      },
+      {
+        "level": 3,
+        "title": "6.3.1  FTP的工作原理",
+        "pdf_page": 289
+      },
+      {
+        "level": 3,
+        "title": "6.3.2  控制连接与数据连接",
+        "pdf_page": 289
+      },
+      {
+        "level": 4,
+        "title": "1．控制连接",
+        "pdf_page": 290
+      },
+      {
+        "level": 4,
+        "title": "2．数据连接",
+        "pdf_page": 290
+      },
+      {
+        "level": 3,
+        "title": "6.3.3  本节习题精选",
+        "pdf_page": 290
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 290
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 292
+      },
+      {
+        "level": 3,
+        "title": "6.3.4  答案与解析",
+        "pdf_page": 292
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 292
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 294
+      },
+      {
+        "level": 2,
+        "title": "6.4  电子邮件",
+        "pdf_page": 295
+      },
+      {
+        "level": 3,
+        "title": "6.4.1  电子邮件系统的组成结构",
+        "pdf_page": 295
+      },
+      {
+        "level": 3,
+        "title": "6.4.2  电子邮件格式与MIME",
+        "pdf_page": 296
+      },
+      {
+        "level": 4,
+        "title": "1．电子邮件格式",
+        "pdf_page": 296
+      },
+      {
+        "level": 4,
+        "title": "2．多用途互联网邮件扩展（MIME）",
+        "pdf_page": 297
+      },
+      {
+        "level": 3,
+        "title": "6.4.3  SMTP和POP3",
+        "pdf_page": 297
+      },
+      {
+        "level": 4,
+        "title": "1．SMTP",
+        "pdf_page": 297
+      },
+      {
+        "level": 4,
+        "title": "2．POP3和IMAP",
+        "pdf_page": 298
+      },
+      {
+        "level": 3,
+        "title": "6.4.4  本节习题精选",
+        "pdf_page": 298
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 298
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 299
+      },
+      {
+        "level": 3,
+        "title": "6.4.5  答案与解析",
+        "pdf_page": 300
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 300
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 301
+      },
+      {
+        "level": 2,
+        "title": "6.5  万维网",
+        "pdf_page": 301
+      },
+      {
+        "level": 3,
+        "title": "6.5.1  万维网的概念与组成结构",
+        "pdf_page": 301
+      },
+      {
+        "level": 3,
+        "title": "6.5.2  超文本传输协议",
+        "pdf_page": 302
+      },
+      {
+        "level": 4,
+        "title": "1．HTTP的操作过程",
+        "pdf_page": 302
+      },
+      {
+        "level": 4,
+        "title": "2．HTTP的特点",
+        "pdf_page": 303
+      },
+      {
+        "level": 4,
+        "title": "3．HTTP的报文结构",
+        "pdf_page": 304
+      },
+      {
+        "level": 4,
+        "title": "4．代理服务器",
+        "pdf_page": 305
+      },
+      {
+        "level": 4,
+        "title": "5．HTTP请求报文举例",
+        "pdf_page": 306
+      },
+      {
+        "level": 3,
+        "title": "6.5.3  本节习题精选",
+        "pdf_page": 307
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 307
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 309
+      },
+      {
+        "level": 3,
+        "title": "6.5.4  答案与解析",
+        "pdf_page": 310
+      },
+      {
+        "level": 4,
+        "title": "一、单项选择题",
+        "pdf_page": 310
+      },
+      {
+        "level": 4,
+        "title": "二、综合应用题",
+        "pdf_page": 313
+      },
+      {
+        "level": 2,
+        "title": "6.6  本章小结及疑难点",
+        "pdf_page": 315
+      }
+    ],
+    "extraction": {
+      "needs-visual-check": 315,
+      "text-layer": 1
+    }
+  },
+  {
+    "id": "c87db9d9661a",
+    "path": "materials/408真题2009-2025/2009.pdf",
+    "title": "2009",
+    "bytes": 863836,
+    "sha256": "222dfedecf96d36ce036b7671e004fc48c8c5a173d28d87e8f36e9d2c9d6f7b9",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/c87db9d9661a/p0001-0006.md",
+      "knowledge/c87db9d9661a/p0007-0010.md"
+    ],
+    "pages": 10,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 10
+    }
+  },
+  {
+    "id": "cba192155b1a",
+    "path": "materials/408真题2009-2025/2010.pdf",
+    "title": "2010",
+    "bytes": 891051,
+    "sha256": "0c744666761bc9d4870862927c9649683ce7a7d9954d75e5ef05b60a7388ed6e",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/cba192155b1a/p0001-0006.md",
+      "knowledge/cba192155b1a/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "f985e99f5ce3",
+    "path": "materials/408真题2009-2025/2011.pdf",
+    "title": "2011",
+    "bytes": 1044010,
+    "sha256": "bd65487c3a2a55a2dd822560d91e2ad42439b48dd5e42adf814f22152d44de4d",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/f985e99f5ce3/p0001-0006.md",
+      "knowledge/f985e99f5ce3/p0007-0010.md"
+    ],
+    "pages": 10,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 10
+    }
+  },
+  {
+    "id": "564422497e44",
+    "path": "materials/408真题2009-2025/2012.pdf",
+    "title": "2012",
+    "bytes": 860387,
+    "sha256": "63f7ba2f6cf8b10da27eb7ed8b30f87f6edfa918ec3fedad38de82d6d8355fe9",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/564422497e44/p0001-0006.md",
+      "knowledge/564422497e44/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "58014c213553",
+    "path": "materials/408真题2009-2025/2013.pdf",
+    "title": "2013",
+    "bytes": 1013658,
+    "sha256": "d514c3080e05bd73d12148dbe91ce850d67964a8fd0a3fc64174e3369b6dcf41",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/58014c213553/p0001-0006.md",
+      "knowledge/58014c213553/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "c7f4a4919bec",
+    "path": "materials/408真题2009-2025/2014.pdf",
+    "title": "2014",
+    "bytes": 925216,
+    "sha256": "ae9a35cdf1e765cc80e4a14e4c15bc6ba9ceabcde1cb1f65d0c839d7a3f4f3c0",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/c7f4a4919bec/p0001-0006.md",
+      "knowledge/c7f4a4919bec/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "fe9d182d76c0",
+    "path": "materials/408真题2009-2025/2015.pdf",
+    "title": "2015",
+    "bytes": 1093642,
+    "sha256": "8cf2a777421d0f9b2515e90a4cd3582f072150cdcdce9b8ce09bf543c7994abb",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/fe9d182d76c0/p0001-0006.md",
+      "knowledge/fe9d182d76c0/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "9b6c6928eed1",
+    "path": "materials/408真题2009-2025/2016.pdf",
+    "title": "2016",
+    "bytes": 1024044,
+    "sha256": "727216ad7a903fa94bd8d596fecc43f4d6a731c49c3757ff638b48314d5eb9be",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/9b6c6928eed1/p0001-0006.md",
+      "knowledge/9b6c6928eed1/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "501aef2880a8",
+    "path": "materials/408真题2009-2025/2017.pdf",
+    "title": "2017",
+    "bytes": 1153304,
+    "sha256": "be9d174cfb6018c945066c94aa501675be4f3106a187037ab26757823fb51715",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/501aef2880a8/p0001-0006.md",
+      "knowledge/501aef2880a8/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "c2dabc8e42d5",
+    "path": "materials/408真题2009-2025/2018.pdf",
+    "title": "2018",
+    "bytes": 1838144,
+    "sha256": "1f47b4d36458b68d261f8e58b459fc5bf7b5fba3da40075f8ade36faeb7ec5ec",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/c2dabc8e42d5/p0001-0006.md",
+      "knowledge/c2dabc8e42d5/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "9d9c468baba6",
+    "path": "materials/408真题2009-2025/2019.pdf",
+    "title": "2019",
+    "bytes": 879667,
+    "sha256": "46e45d5c4bb5afce467e6cd0228fa64c90ab2ceb138e2f8b17a9eb0747542057",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/9d9c468baba6/p0001-0006.md",
+      "knowledge/9d9c468baba6/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "620de8c32843",
+    "path": "materials/408真题2009-2025/2020.pdf",
+    "title": "2020",
+    "bytes": 1293589,
+    "sha256": "3471eff98676125de3bc5f9b5eb9113cdf3388d13f86e02aba93b22402164401",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/620de8c32843/p0001-0006.md",
+      "knowledge/620de8c32843/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "539bebc4b838",
+    "path": "materials/408真题2009-2025/2021.pdf",
+    "title": "2021",
+    "bytes": 866184,
+    "sha256": "d26b51a98a162c1239df3aded10dba92fc94886090e044393bab2ed840fb7ea3",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/539bebc4b838/p0001-0006.md",
+      "knowledge/539bebc4b838/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "ba8a9065301e",
+    "path": "materials/408真题2009-2025/2022.pdf",
+    "title": "2022",
+    "bytes": 1183597,
+    "sha256": "6850a0c624b1ec419114ed9f366cdab0b9bd7e3ad00375ba5a9dba7a3a76eecb",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/ba8a9065301e/p0001-0006.md",
+      "knowledge/ba8a9065301e/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "fc4fa0fb6752",
+    "path": "materials/408真题2009-2025/2023.pdf",
+    "title": "2023",
+    "bytes": 853848,
+    "sha256": "4c061880c25df3827374406426a315ec170270ac4b5c900de3dae5a5849b9cd5",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/fc4fa0fb6752/p0001-0006.md",
+      "knowledge/fc4fa0fb6752/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "52f62d4cf2f6",
+    "path": "materials/408真题2009-2025/2024.pdf",
+    "title": "2024",
+    "bytes": 771257,
+    "sha256": "baae7ba96588d55117a31c297304927d3791d0f3576bf0c70f32fd8a9fe1766c",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/52f62d4cf2f6/p0001-0006.md",
+      "knowledge/52f62d4cf2f6/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "942bf7381184",
+    "path": "materials/408真题2009-2025/2025.pdf",
+    "title": "2025",
+    "bytes": 1053731,
+    "sha256": "28f4fd31bb5ee1a72a839c939b713ef1729271e676d99291df0df26f8ef90b37",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/942bf7381184/p0001-0006.md",
+      "knowledge/942bf7381184/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "f100cae779f5",
+    "path": "materials/408真题2009-2025/答案/2009-答案.pdf",
+    "title": "2009-答案",
+    "bytes": 2174705,
+    "sha256": "7867c0cd6321445550e0d14f4677428570d6cb7d307a6c1944a4fe3d9381ec20",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/f100cae779f5/p0001-0006.md",
+      "knowledge/f100cae779f5/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "6e63dadcd0fe",
+    "path": "materials/408真题2009-2025/答案/2010-答案.pdf",
+    "title": "2010-答案",
+    "bytes": 2212145,
+    "sha256": "a51847417dcad0f97373047a92044367edf6dd04d1badca148142d90b0f92957",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/6e63dadcd0fe/p0001-0006.md",
+      "knowledge/6e63dadcd0fe/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "c68926f9bdb6",
+    "path": "materials/408真题2009-2025/答案/2011-答案.pdf",
+    "title": "2011-答案",
+    "bytes": 2502317,
+    "sha256": "7441da7c20747fb56ed0f529343375b84d2c9d1abba5329c80209d4e67af6748",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/c68926f9bdb6/p0001-0006.md",
+      "knowledge/c68926f9bdb6/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "1d9e5650e654",
+    "path": "materials/408真题2009-2025/答案/2012-答案.pdf",
+    "title": "2012-答案",
+    "bytes": 2339464,
+    "sha256": "d34d7378b038934026df401f05fbc6f269cbeb6a918007c5e3d0231591a2649c",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/1d9e5650e654/p0001-0006.md",
+      "knowledge/1d9e5650e654/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "77d1f6828828",
+    "path": "materials/408真题2009-2025/答案/2013-答案.pdf",
+    "title": "2013-答案",
+    "bytes": 2070543,
+    "sha256": "1a3b76ceeccbf3494b850f1608c1ee17d4999518961c037a3061af30023f8311",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/77d1f6828828/p0001-0006.md",
+      "knowledge/77d1f6828828/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 11
+    }
+  },
+  {
+    "id": "eab105d2687f",
+    "path": "materials/408真题2009-2025/答案/2014-答案.pdf",
+    "title": "2014-答案",
+    "bytes": 3007989,
+    "sha256": "400d22d3c21feae19a8f691c256902a3f745bb9f4fc227464ec55d94c35ffdc6",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/eab105d2687f/p0001-0006.md",
+      "knowledge/eab105d2687f/p0007-0012.md",
+      "knowledge/eab105d2687f/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "266a4522b64e",
+    "path": "materials/408真题2009-2025/答案/2015-答案.pdf",
+    "title": "2015-答案",
+    "bytes": 1617182,
+    "sha256": "54ff1b454f7421365f0cb744aff2f28b8825b99de0d5b8ed1e9c716de3587b47",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/266a4522b64e/p0001-0006.md",
+      "knowledge/266a4522b64e/p0007-0008.md"
+    ],
+    "pages": 8,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 8
+    }
+  },
+  {
+    "id": "4619fda4c066",
+    "path": "materials/408真题2009-2025/答案/2016-答案.pdf",
+    "title": "2016-答案",
+    "bytes": 2374710,
+    "sha256": "93c5cb3465c1141cfd023b17e2616f4392d97f74ff39443b1fc36b10c19c235f",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4619fda4c066/p0001-0006.md",
+      "knowledge/4619fda4c066/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "4820720df4a0",
+    "path": "materials/408真题2009-2025/答案/2017-答案.pdf",
+    "title": "2017-答案",
+    "bytes": 1897944,
+    "sha256": "6799d0c083d9a32f499e4ee6c77be9b93cbd24d769a070ae98fd1637d67b00b2",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4820720df4a0/p0001-0006.md",
+      "knowledge/4820720df4a0/p0007-0010.md"
+    ],
+    "pages": 10,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 10
+    }
+  },
+  {
+    "id": "f4d36919df84",
+    "path": "materials/408真题2009-2025/答案/2018-答案.pdf",
+    "title": "2018-答案",
+    "bytes": 1732559,
+    "sha256": "411bf95ad1c23407c4d3fa6ee1de8467524146b9ea795ffff153d6af3598b507",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/f4d36919df84/p0001-0006.md",
+      "knowledge/f4d36919df84/p0007-0009.md"
+    ],
+    "pages": 9,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 9
+    }
+  },
+  {
+    "id": "44bfdb13f316",
+    "path": "materials/408真题2009-2025/答案/2019-答案.pdf",
+    "title": "2019-答案",
+    "bytes": 2793294,
+    "sha256": "a50bd04914b55d0400655a03e5fa5f02b37ac1821107827ecaf6ab09b71b3fd6",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/44bfdb13f316/p0001-0006.md",
+      "knowledge/44bfdb13f316/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "19jiexi_00",
+        "pdf_page": 1
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_01",
+        "pdf_page": 2
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_02",
+        "pdf_page": 3
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_03",
+        "pdf_page": 4
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_04",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_05",
+        "pdf_page": 6
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_06",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_07",
+        "pdf_page": 8
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_08",
+        "pdf_page": 9
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_09",
+        "pdf_page": 10
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_10",
+        "pdf_page": 11
+      },
+      {
+        "level": 1,
+        "title": "19jiexi_11",
+        "pdf_page": 12
+      }
+    ],
+    "extraction": {
+      "needs-visual-check": 12
+    }
+  },
+  {
+    "id": "b8366b4cbb25",
+    "path": "materials/408真题2009-2025/答案/2020-答案.pdf",
+    "title": "2020-答案",
+    "bytes": 7242234,
+    "sha256": "97ee67dd49d648e206cffedf71772e8d86a26ad327baeb5397aa95562a844bf8",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/b8366b4cbb25/p0001-0006.md",
+      "knowledge/b8366b4cbb25/p0007-0012.md",
+      "knowledge/b8366b4cbb25/p0013-0013.md"
+    ],
+    "pages": 13,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 13
+    }
+  },
+  {
+    "id": "64cc25b14f6e",
+    "path": "materials/408真题2009-2025/答案/2021-答案.pdf",
+    "title": "2021-答案",
+    "bytes": 8133056,
+    "sha256": "041f3f9509475584a2abebd729d3b2e01a2bd6535c7e10ebb39ddcd8a4378de9",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/64cc25b14f6e/p0001-0006.md",
+      "knowledge/64cc25b14f6e/p0007-0011.md"
+    ],
+    "pages": 11,
+    "bookmarks": [],
+    "extraction": {
+      "needs-visual-check": 11
+    }
+  },
+  {
+    "id": "ed1cc8c7916b",
+    "path": "materials/408真题2009-2025/答案/2022-答案.pdf",
+    "title": "2022-答案",
+    "bytes": 2065590,
+    "sha256": "34561e046a8fc56fc98e01fbf88c1bf0152df80ff5e0898ed08da478549e7901",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/ed1cc8c7916b/p0001-0006.md",
+      "knowledge/ed1cc8c7916b/p0007-0010.md"
+    ],
+    "pages": 10,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 10
+    }
+  },
+  {
+    "id": "4347b2342acb",
+    "path": "materials/408真题2009-2025/答案/2023-答案.pdf",
+    "title": "2023-答案",
+    "bytes": 533731,
+    "sha256": "20de39c0e7c4b949d8a94b78909e5e0a53f35276011f23aff07e8f0a9c04360c",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4347b2342acb/p0001-0006.md",
+      "knowledge/4347b2342acb/p0007-0012.md",
+      "knowledge/4347b2342acb/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "2023考研408真题答案解析",
+        "pdf_page": 1
+      }
+    ],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "1f603de949ad",
+    "path": "materials/408真题2009-2025/答案/2024-答案.pdf",
+    "title": "2024-答案",
+    "bytes": 1232336,
+    "sha256": "83146d04e95bdf2e7a58b6157a2ba00029c7b4268f1937bedd740ae7f1868523",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/1f603de949ad/p0001-0006.md"
+    ],
+    "pages": 6,
+    "bookmarks": [],
+    "extraction": {
+      "needs-visual-check": 6
+    }
+  },
+  {
+    "id": "b262f8fafab6",
+    "path": "materials/408真题2009-2025/答案/2025-答案.pdf",
+    "title": "2025-答案",
+    "bytes": 1248632,
+    "sha256": "06bb902c4f7a5421ed4dd616acd4ca6cc52570ff54f75b9d01bf8f2e6fe6e8a4",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/b262f8fafab6/p0001-0005.md"
+    ],
+    "pages": 5,
+    "bookmarks": [],
+    "extraction": {
+      "needs-visual-check": 5
+    }
+  }
+]
