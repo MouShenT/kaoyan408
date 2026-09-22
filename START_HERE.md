@@ -17,3 +17,5 @@
 官方说明：[连接 GitHub 到 ChatGPT](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt)。如使用手机 Remote 连接电脑，则电脑需要在线，且功能可用性取决于账号；它不是普通 GitHub 只读连接。[Remote 文档](https://learn.chatgpt.com/docs/remote)。
 
 学习方式见 [真题与理解](LEARNING_METHOD.md)。可直接说：“先围绕这道真题讲清必要知识，讲完把题目和知识点记到 Notion，不记错题原因。”
+
+手机 ChatGPT 项目使用：[可复制项目指令](PROJECT_INSTRUCTIONS.md)。
